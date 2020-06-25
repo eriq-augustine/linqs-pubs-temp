@@ -1,14 +1,14 @@
 {
-    "publisher": "University of Maryland College Park",
-    "note": "http://arxiv.org/abs/1302.5348",
-    "year": "2013",
-    "title": "Graph-based Generalization Bounds for Learning Binary Relations",
     "type": "unpublished",
-    "links": [],
     "authors": [
         "Ben London",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "venue": "unknown (UNKNOWN)"
+    "title": "Graph-based Generalization Bounds for Learning Binary Relations",
+    "venue": "unknown (UNKNOWN)",
+    "year": "2013",
+    "publisher": "University of Maryland College Park",
+    "note": "http://arxiv.org/abs/1302.5348",
+    "links": []
 }

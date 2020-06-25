@@ -1,11 +1,11 @@
 {
-    "year": "2005",
-    "title": "Relational Clustering for Multi-type Entity Resolution",
     "type": "conference",
-    "links": [],
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "venue": "KDD Workshop on Multi Relational Data Mining (MRDM)"
+    "title": "Relational Clustering for Multi-type Entity Resolution",
+    "venue": "KDD Workshop on Multi Relational Data Mining (MRDM)",
+    "year": "2005",
+    "links": []
 }

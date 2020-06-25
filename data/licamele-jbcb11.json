@@ -1,11 +1,11 @@
 {
-    "year": "2011",
-    "title": "A method for the detection of meaningful and reproducible group signatures from gene expression profiles.",
     "type": "article",
-    "links": [],
     "authors": [
         "Louis Licamele",
         "Lise Getoor"
     ],
-    "venue": "Journal of Bioinformatics and Computational Biology (JBCB)"
+    "title": "A method for the detection of meaningful and reproducible group signatures from gene expression profiles.",
+    "venue": "Journal of Bioinformatics and Computational Biology (JBCB)",
+    "year": "2011",
+    "links": []
 }

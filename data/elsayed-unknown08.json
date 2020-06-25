@@ -1,16 +1,16 @@
 {
-    "publisher": "University of Maryland, College Park",
-    "month": "March",
-    "year": "2008",
-    "number": "LAMP-TR150",
-    "title": "Personal Name Resolution in Email: A Heuristic Approach",
     "type": "unpublished",
-    "links": [],
     "authors": [
         "Tamer Elsayed",
         "Doug Oard",
         "Galileo Mark Namata",
         "Lise Getoor"
     ],
-    "venue": "unknown (UNKNOWN)"
+    "title": "Personal Name Resolution in Email: A Heuristic Approach",
+    "venue": "unknown (UNKNOWN)",
+    "year": "2008",
+    "publisher": "University of Maryland, College Park",
+    "month": "March",
+    "number": "LAMP-TR150",
+    "links": []
 }

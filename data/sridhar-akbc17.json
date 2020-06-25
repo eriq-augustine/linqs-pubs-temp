@@ -1,12 +1,12 @@
 {
-    "year": "2017",
-    "title": "Using Noisy Extractions to Discover Causal Knowledge",
     "type": "conference",
-    "links": [],
     "authors": [
         "Dhanya Sridhar",
         "Jay Pujara",
         "Lise Getoor"
     ],
-    "venue": "NIPS Workshop on Automated Knowledge Base Construction (AKBC)"
+    "title": "Using Noisy Extractions to Discover Causal Knowledge",
+    "venue": "NIPS Workshop on Automated Knowledge Base Construction (AKBC)",
+    "year": "2017",
+    "links": []
 }

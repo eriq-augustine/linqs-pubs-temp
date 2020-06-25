@@ -1,15 +1,15 @@
 {
-    "abstract": "<p>The high development cost and low success rate of drug discovery from new compounds highlight the need for methods to discover alternate therapeutic effects for currently approved drugs. Computational methods can be effective in focusing efforts for such drug repurposing. In this paper, we propose a novel drug-target interaction prediction framework based on probabilistic similarity logic (PSL) [5]. Interaction prediction corresponds to link prediction in a bipartite network of drug-target interactions extended with a set of similarities between drugs and between targets. Using probabilistic first-order logic rules in PSL, we show how rules describing link predictions based on triads and tetrads can effectively make use of a variety of similarity measures. We learn weights for the rules based on training data, and report relative importance of each similarity for interaction prediction. We show that the learned rule weights significantly improve prediction precision. We evaluate our results on a dataset of drug-target interactions obtained from Drugbank [27] augmented with five drug-based and three target-based similarities. We integrate domain knowledge in drug-target interaction prediction and match the performance of the state-of-the-art drug-target interaction prediction systems [22] with our model using simple triad-based rules. Furthermore, we apply techniques that make link prediction in PSL more efficient for drug-target interaction prediction.</p>",
-    "organization": "ACM",
-    "publisher": "ACM",
-    "year": "2013",
-    "title": "Drug-Target Interaction Prediction for Drug Repurposing with Probabilistic Similarity Logic",
     "type": "conference",
-    "links": [],
     "authors": [
         "Shobeir Fakhraei",
         "Louiqa Raschid",
         "Lise Getoor"
     ],
-    "venue": "KDD Workshop on Data Mining in Bioinformatics (BIOKDD)"
+    "title": "Drug-Target Interaction Prediction for Drug Repurposing with Probabilistic Similarity Logic",
+    "venue": "KDD Workshop on Data Mining in Bioinformatics (BIOKDD)",
+    "year": "2013",
+    "publisher": "ACM",
+    "organization": "ACM",
+    "links": [],
+    "abstract": "<p>The high development cost and low success rate of drug discovery from new compounds highlight the need for methods to discover alternate therapeutic effects for currently approved drugs. Computational methods can be effective in focusing efforts for such drug repurposing. In this paper, we propose a novel drug-target interaction prediction framework based on probabilistic similarity logic (PSL) [5]. Interaction prediction corresponds to link prediction in a bipartite network of drug-target interactions extended with a set of similarities between drugs and between targets. Using probabilistic first-order logic rules in PSL, we show how rules describing link predictions based on triads and tetrads can effectively make use of a variety of similarity measures. We learn weights for the rules based on training data, and report relative importance of each similarity for interaction prediction. We show that the learned rule weights significantly improve prediction precision. We evaluate our results on a dataset of drug-target interactions obtained from Drugbank [27] augmented with five drug-based and three target-based similarities. We integrate domain knowledge in drug-target interaction prediction and match the performance of the state-of-the-art drug-target interaction prediction systems [22] with our model using simple triad-based rules. Furthermore, we apply techniques that make link prediction in PSL more efficient for drug-target interaction prediction.</p>"
 }

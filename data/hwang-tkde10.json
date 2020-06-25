@@ -1,13 +1,13 @@
 {
-    "year": "2010",
-    "title": "Organizing User Search Histories",
     "type": "article",
-    "links": [],
     "authors": [
         "Heasoo Hwang",
         "Hady Lauw",
         "Lise Getoor",
         "Alexandros Ntoulas"
     ],
-    "venue": "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
+    "title": "Organizing User Search Histories",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
+    "year": "2010",
+    "links": []
 }

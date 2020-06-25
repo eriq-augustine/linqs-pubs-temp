@@ -1,13 +1,13 @@
 {
-    "organization": "The MIT Press",
-    "publisher": "The MIT Press",
-    "year": "2007",
-    "title": "Introduction to Statistical Relational Learning",
     "type": "book",
-    "links": [],
     "authors": [
         "Lise Getoor",
         "Benjamin Taskar"
     ],
-    "venue": "Book"
+    "title": "Introduction to Statistical Relational Learning",
+    "venue": "Book",
+    "year": "2007",
+    "publisher": "The MIT Press",
+    "organization": "The MIT Press",
+    "links": []
 }

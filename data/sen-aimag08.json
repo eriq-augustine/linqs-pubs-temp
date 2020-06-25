@@ -1,11 +1,5 @@
 {
-    "pages": "93--106",
-    "year": "2008",
-    "number": "3",
-    "volume": "29",
-    "title": "Collective Classification in Network Data",
     "type": "article",
-    "links": [],
     "authors": [
         "Prithviraj Sen",
         "Galileo Mark Namata",
@@ -14,5 +8,11 @@
         "Brian Gallagher",
         "Tina Eliassi-Rad"
     ],
-    "venue": "AI Magazine (AIMag)"
+    "title": "Collective Classification in Network Data",
+    "venue": "AI Magazine (AIMag)",
+    "year": "2008",
+    "pages": "93--106",
+    "volume": "29",
+    "number": "3",
+    "links": []
 }

@@ -1,12 +1,12 @@
 {
-    "note": "Slides: http://www.cs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf",
-    "year": "2012",
-    "title": "Entity Resolution: Theory, Practice \\& Open Challenges",
     "type": "conference",
-    "links": [],
     "authors": [
         "Lise Getoor",
         "Ashwin Machanavajjhala"
     ],
-    "venue": "International Conference on Very Large Data Bases (VLDB)"
+    "title": "Entity Resolution: Theory, Practice \\& Open Challenges",
+    "venue": "International Conference on Very Large Data Bases (VLDB)",
+    "year": "2012",
+    "note": "Slides: http://www.cs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf",
+    "links": []
 }

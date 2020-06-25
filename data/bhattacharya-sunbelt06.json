@@ -1,11 +1,11 @@
 {
-    "year": "2006",
-    "title": "Entity Resolution in Social Networks",
     "type": "conference",
-    "links": [],
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "venue": "International Sunbelt Social Network Conference (Sunbelt)"
+    "title": "Entity Resolution in Social Networks",
+    "venue": "International Sunbelt Social Network Conference (Sunbelt)",
+    "year": "2006",
+    "links": []
 }

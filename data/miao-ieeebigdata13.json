@@ -1,13 +1,13 @@
 {
-    "year": "2013",
-    "title": "A Hypergraph-Partitioned Vertex Programming Approach for Large-scale Consensus Optimization",
     "type": "conference",
-    "links": [],
     "authors": [
         "Hui Miao",
         "Xiangyang Liu",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "venue": "IEEE International Conference on Big Data (IEEE BigData)"
+    "title": "A Hypergraph-Partitioned Vertex Programming Approach for Large-scale Consensus Optimization",
+    "venue": "IEEE International Conference on Big Data (IEEE BigData)",
+    "year": "2013",
+    "links": []
 }

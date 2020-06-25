@@ -1,8 +1,5 @@
 {
-    "year": "2015",
-    "title": "HawkesTopic: A Joint Model for Network Inference and Topic Modeling from Text-Based Cascades",
     "type": "conference",
-    "links": [],
     "authors": [
         "Xinran He",
         "Theodoros Rekatsinas",
@@ -10,5 +7,8 @@
         "Lise Getoor",
         "Yan Liu"
     ],
-    "venue": "International Conference on Machine Learning (ICML)"
+    "title": "HawkesTopic: A Joint Model for Network Inference and Topic Modeling from Text-Based Cascades",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": "2015",
+    "links": []
 }

@@ -1,12 +1,12 @@
 {
-    "year": "2011",
-    "title": "A Probabilistic Approach for Learning Folksonomies from Structured Data",
     "type": "conference",
-    "links": [],
     "authors": [
         "Anon Plangprasopchok",
         "Kristina Lerman",
         "Lise Getoor"
     ],
-    "venue": "International Conference on Web Search and Data Mining (WSDM)"
+    "title": "A Probabilistic Approach for Learning Folksonomies from Structured Data",
+    "venue": "International Conference on Web Search and Data Mining (WSDM)",
+    "year": "2011",
+    "links": []
 }

@@ -1,10 +1,5 @@
 {
-    "organization": "ACM",
-    "publisher": "ACM",
-    "year": "2015",
-    "title": "HyPER: A Flexible and Extensible Probabilistic Framework for Hybrid Recommender Systems",
     "type": "conference",
-    "links": [],
     "authors": [
         "Pigi Kouki",
         "Shobeir Fakhraei",
@@ -12,5 +7,10 @@
         "Magdalini Eirinaki",
         "Lise Getoor"
     ],
-    "venue": "The ACM Conference on Recommender Systems (RecSys)"
+    "title": "HyPER: A Flexible and Extensible Probabilistic Framework for Hybrid Recommender Systems",
+    "venue": "The ACM Conference on Recommender Systems (RecSys)",
+    "year": "2015",
+    "publisher": "ACM",
+    "organization": "ACM",
+    "links": []
 }

@@ -1,12 +1,12 @@
 {
-    "note": "Arxiv preprint arXiv:1107.4966v2",
-    "year": "2011",
-    "title": "Lifted Graphical Models: A Survey",
     "type": "unpublished",
-    "links": [],
     "authors": [
         "Lilyana Mihalkova",
         "Lise Getoor"
     ],
-    "venue": "unknown (UNKNOWN)"
+    "title": "Lifted Graphical Models: A Survey",
+    "venue": "unknown (UNKNOWN)",
+    "year": "2011",
+    "note": "Arxiv preprint arXiv:1107.4966v2",
+    "links": []
 }

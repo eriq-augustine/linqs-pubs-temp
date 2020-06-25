@@ -1,15 +1,15 @@
 {
-    "pages": "1--45",
-    "year": "2015",
-    "number": "1",
-    "volume": "99",
-    "title": "Lifted graphical models: a survey",
     "type": "article",
-    "links": [],
     "authors": [
         "Angelika Kimmig",
         "Lilyana Mihalkova",
         "Lise Getoor"
     ],
-    "venue": "Machine Learning Journal (MLJ)"
+    "title": "Lifted graphical models: a survey",
+    "venue": "Machine Learning Journal (MLJ)",
+    "year": "2015",
+    "pages": "1--45",
+    "volume": "99",
+    "number": "1",
+    "links": []
 }

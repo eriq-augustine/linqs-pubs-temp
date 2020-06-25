@@ -1,9 +1,5 @@
 {
-    "keywords": "Comparative Analysis, Model Comparison, Uncertain Graphs, Visualizing Uncertainty",
-    "year": "2011",
-    "title": "G-PARE: A Visual Analytic Tool for Comparative Analysis of Uncertain Graphs",
     "type": "conference",
-    "links": [],
     "authors": [
         "Hossam Sharara",
         "Awalin Sopan",
@@ -11,5 +7,9 @@
         "Lise Getoor",
         "Lisa Singh"
     ],
-    "venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)"
+    "title": "G-PARE: A Visual Analytic Tool for Comparative Analysis of Uncertain Graphs",
+    "venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
+    "year": "2011",
+    "keywords": "Comparative Analysis, Model Comparison, Uncertain Graphs, Visualizing Uncertainty",
+    "links": []
 }

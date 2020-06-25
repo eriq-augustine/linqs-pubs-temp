@@ -1,8 +1,5 @@
 {
-    "year": "2020",
-    "title": "Contrastive Entity Linkage: Mining Variational Attributes from Large Catalogs for Entity Linkage",
     "type": "conference",
-    "links": [],
     "authors": [
         "Varun Embar",
         "Bunyamin Sisman",
@@ -11,5 +8,8 @@
         "Christos Faloutsos",
         "Lise Getoor"
     ],
-    "venue": "Automated Knowledge Base Construction (AKBC)"
+    "title": "Contrastive Entity Linkage: Mining Variational Attributes from Large Catalogs for Entity Linkage",
+    "venue": "Automated Knowledge Base Construction (AKBC)",
+    "year": "2020",
+    "links": []
 }

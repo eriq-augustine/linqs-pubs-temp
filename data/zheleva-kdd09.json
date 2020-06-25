@@ -1,13 +1,13 @@
 {
-    "month": "June",
-    "year": "2009",
-    "title": "Co-evolution of Social and Affiliation Networks",
     "type": "conference",
-    "links": [],
     "authors": [
         "Elena Zheleva",
         "Hossam Sharara",
         "Lise Getoor"
     ],
-    "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)"
+    "title": "Co-evolution of Social and Affiliation Networks",
+    "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
+    "year": "2009",
+    "month": "June",
+    "links": []
 }

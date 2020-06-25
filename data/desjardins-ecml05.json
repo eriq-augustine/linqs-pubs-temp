@@ -1,12 +1,12 @@
 {
-    "year": "2005",
-    "title": "Bayesian Network Learning with Abstraction Hierarchies and Context-Specific Independence",
     "type": "conference",
-    "links": [],
     "authors": [
         "Marie desJardins",
         "Priyang Rathod",
         "Lise Getoor"
     ],
-    "venue": "European Conference on Machine Learning (ECML)"
+    "title": "Bayesian Network Learning with Abstraction Hierarchies and Context-Specific Independence",
+    "venue": "European Conference on Machine Learning (ECML)",
+    "year": "2005",
+    "links": []
 }

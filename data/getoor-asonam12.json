@@ -1,14 +1,14 @@
 {
-    "organization": "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining",
-    "publisher": "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining",
-    "note": "URL: http://www.cs.umd.edu/~getoor/Tutorials/ER_ASONAM2012.pdf",
-    "year": "2012",
-    "title": "Entity Resolution for Social Network Analysis and Mining",
     "type": "conference",
-    "links": [],
     "authors": [
         "Lise Getoor",
         "Ashwin Machanavajjhala"
     ],
-    "venue": "International Conference on Advances in Social Networks Analysis and Mining (ASONAM)"
+    "title": "Entity Resolution for Social Network Analysis and Mining",
+    "venue": "International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
+    "year": "2012",
+    "publisher": "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining",
+    "organization": "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining",
+    "note": "URL: http://www.cs.umd.edu/~getoor/Tutorials/ER_ASONAM2012.pdf",
+    "links": []
 }

@@ -1,14 +1,14 @@
 {
-    "pages": "621--657",
-    "month": "Dec",
-    "year": "2007",
-    "volume": "30",
-    "title": "Query-time Entity Resolution",
     "type": "article",
-    "links": [],
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "venue": "Journal of Artificial Intelligence Research (JAIR)"
+    "title": "Query-time Entity Resolution",
+    "venue": "Journal of Artificial Intelligence Research (JAIR)",
+    "year": "2007",
+    "pages": "621--657",
+    "month": "Dec",
+    "volume": "30",
+    "links": []
 }

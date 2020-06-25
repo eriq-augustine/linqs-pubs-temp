@@ -1,20 +1,20 @@
 {
-    "editor": "Huan Liu and Hiroshi Motoda",
-    "chapter": "18",
-    "edition": "1",
-    "organization": "Chapman and Hall/CRC Press",
-    "publisher": "Chapman and Hall/CRC Press",
-    "pages": "355--376",
-    "year": "2008",
-    "volume": "1",
-    "series": "Computational Methods of Feature Selection",
-    "title": "A Feature Generation Algorithm with Applications to Biological Sequence Classification",
     "type": "book",
-    "links": [],
     "authors": [
         "Rezarta Islamaj",
         "Lise Getoor",
         "John Wilbur"
     ],
-    "venue": "Book"
+    "title": "A Feature Generation Algorithm with Applications to Biological Sequence Classification",
+    "venue": "Book",
+    "year": "2008",
+    "publisher": "Chapman and Hall/CRC Press",
+    "pages": "355--376",
+    "volume": "1",
+    "chapter": "18",
+    "editor": "Huan Liu and Hiroshi Motoda",
+    "organization": "Chapman and Hall/CRC Press",
+    "series": "Computational Methods of Feature Selection",
+    "edition": "1",
+    "links": []
 }

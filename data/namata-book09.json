@@ -1,22 +1,22 @@
 {
-    "editor": "Mehran Sahami and Ashok Srivastava",
-    "abstract": "Text classification, the classification of text documents according to categories or topics, is an important component of any text processing system. There is a large body of work which makes use of content — the words appearing in the documents, the structure of the documents — and external sources to build accurate document classifiers. In addition, there is a growing body of literature on methods which attempt to make use of the link structure among the documents in order to improve document classification performance. Text documents can be connected together in a variety of ways. The most common link structure is the citation graph: eg, papers cite other papers and webpages link to other webpages. But links among papers can be constructed from other relationships such as co-author, co-citation, appearance at a conference venue, and others. All of these can be combined together to create a interlinked collection of text documents. In these cases, we are often not interested in determining the topic of just a single document, but we have a collection of unlabeled (or partially labeled) documents, and we want to correctly infer values for all of the missing labels.",
-    "chapter": "3",
-    "edition": "1",
-    "organization": "Taylor and Francis Group",
-    "publisher": "Taylor and Francis Group",
-    "pages": "51--69",
-    "year": "2009",
-    "volume": "1",
-    "series": "Text Mining: Classification, Clustering, and Applications",
-    "title": "Collective Classification for Text Classification",
     "type": "book",
-    "links": [],
     "authors": [
         "Galileo Mark Namata",
         "Prithviraj Sen",
         "Mustafa Bilgic",
         "Lise Getoor"
     ],
-    "venue": "Book"
+    "title": "Collective Classification for Text Classification",
+    "venue": "Book",
+    "year": "2009",
+    "publisher": "Taylor and Francis Group",
+    "pages": "51--69",
+    "volume": "1",
+    "chapter": "3",
+    "editor": "Mehran Sahami and Ashok Srivastava",
+    "organization": "Taylor and Francis Group",
+    "series": "Text Mining: Classification, Clustering, and Applications",
+    "edition": "1",
+    "links": [],
+    "abstract": "Text classification, the classification of text documents according to categories or topics, is an important component of any text processing system. There is a large body of work which makes use of content \u2014 the words appearing in the documents, the structure of the documents \u2014 and external sources to build accurate document classifiers. In addition, there is a growing body of literature on methods which attempt to make use of the link structure among the documents in order to improve document classification performance. Text documents can be connected together in a variety of ways. The most common link structure is the citation graph: eg, papers cite other papers and webpages link to other webpages. But links among papers can be constructed from other relationships such as co-author, co-citation, appearance at a conference venue, and others. All of these can be combined together to create a interlinked collection of text documents. In these cases, we are often not interested in determining the topic of just a single document, but we have a collection of unlabeled (or partially labeled) documents, and we want to correctly infer values for all of the missing labels."
 }

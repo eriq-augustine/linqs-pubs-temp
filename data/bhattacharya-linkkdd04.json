@@ -1,11 +1,11 @@
 {
-    "year": "2004",
-    "title": "Deduplication and Group Detection using Links",
     "type": "conference",
-    "links": [],
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "venue": "KDD Workshop on Link Analysis and Group Detection (LinkKDD)"
+    "title": "Deduplication and Group Detection using Links",
+    "venue": "KDD Workshop on Link Analysis and Group Detection (LinkKDD)",
+    "year": "2004",
+    "links": []
 }

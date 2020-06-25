@@ -1,14 +1,14 @@
 {
-    "abstract": "<p>In social networks, notions such as trust, fondness, or respect between users can be expressed by associating a strength with each tie. This provides a view of social interaction as a weighted graph. Sociological models for such weighted networks can differ significantly in their basic motivations and intuitions. In this paper, we present a flexible framework for probabilistic modeling of social networks that allows one to represent these different models and more. The framework, probabilistic soft logic (PSL), is particularly well-suited for this domain, as it combines a declarative, first-order logic-based syntax for describing relational models with a soft-logic representation, which maps naturally to the non-discrete strength of social trust. We demonstrate the flexibility and effectiveness of PSL for trust prediction using two different approaches: a structural balance model based on social triangles, and a social status model based on a consistent status hierarchy. We test these models on real social network data and find that PSL is an effective tool for trust prediction.</p>",
-    "year": "2013",
-    "title": "A Flexible Framework for Probabilistic Models of Social Trust",
     "type": "conference",
-    "links": [],
     "authors": [
         "Bert Huang",
         "Angelika Kimmig",
         "Lise Getoor",
         "Jennifer Golbeck"
     ],
-    "venue": "International Conference on Social Computing, Behavioral-Cultural Modeling, and Prediction (SBP)"
+    "title": "A Flexible Framework for Probabilistic Models of Social Trust",
+    "venue": "International Conference on Social Computing, Behavioral-Cultural Modeling, and Prediction (SBP)",
+    "year": "2013",
+    "links": [],
+    "abstract": "<p>In social networks, notions such as trust, fondness, or respect between users can be expressed by associating a strength with each tie. This provides a view of social interaction as a weighted graph. Sociological models for such weighted networks can differ significantly in their basic motivations and intuitions. In this paper, we present a flexible framework for probabilistic modeling of social networks that allows one to represent these different models and more. The framework, probabilistic soft logic (PSL), is particularly well-suited for this domain, as it combines a declarative, first-order logic-based syntax for describing relational models with a soft-logic representation, which maps naturally to the non-discrete strength of social trust. We demonstrate the flexibility and effectiveness of PSL for trust prediction using two different approaches: a structural balance model based on social triangles, and a social status model based on a consistent status hierarchy. We test these models on real social network data and find that PSL is an effective tool for trust prediction.</p>"
 }

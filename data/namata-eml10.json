@@ -1,11 +1,11 @@
 {
-    "year": "2010",
-    "title": "Link Prediction",
     "type": "article",
-    "links": [],
     "authors": [
         "Galileo Mark Namata",
         "Lise Getoor"
     ],
-    "venue": "Encyclopedia of Machine Learning (EML)"
+    "title": "Link Prediction",
+    "venue": "Encyclopedia of Machine Learning (EML)",
+    "year": "2010",
+    "links": []
 }

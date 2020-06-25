@@ -1,11 +1,11 @@
 {
-    "year": "1997",
-    "title": "Online Scheduling for Reprographic Machines",
     "type": "conference",
-    "links": [],
     "authors": [
         "Lise Getoor",
         "Markus Fromherz"
     ],
-    "venue": "AAAI Workshop on Online Search (OLS)"
+    "title": "Online Scheduling for Reprographic Machines",
+    "venue": "AAAI Workshop on Online Search (OLS)",
+    "year": "1997",
+    "links": []
 }

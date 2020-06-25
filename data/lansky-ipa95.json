@@ -1,8 +1,5 @@
 {
-    "year": "1995",
-    "title": "The Collage/Khoros Link: Planning for Image Processing Tasks",
     "type": "conference",
-    "links": [],
     "authors": [
         "Amy Lansky",
         "Mark Friedman",
@@ -10,5 +7,8 @@
         "Scott Schmidler",
         "Nick Short Jr."
     ],
-    "venue": "AAAI Spring Symposium on Integrated Planning Applications (IPA)"
+    "title": "The Collage/Khoros Link: Planning for Image Processing Tasks",
+    "venue": "AAAI Spring Symposium on Integrated Planning Applications (IPA)",
+    "year": "1995",
+    "links": []
 }

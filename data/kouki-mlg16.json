@@ -1,15 +1,15 @@
 {
-    "abstract": "<p class=\"p1\">Entity resolution is an important graph mining problem. Entity resolution is particularly interesting and challenging when there is rich relational structure. In this paper, we study the problem of performing entity resolution in familial networks. In our setting, we are given partial views of a familial network as described from<span class=\"Apple-converted-space\">\\&nbsp; \\&nbsp; </span>the point of view of different people in the network and our goal is to reconstruct the underlying familial network from these perspective partial views. The data and relations provided may be inaccurate, missing or incomplete. In our approach, we start by augmenting the known set of familial relations with additional ones that are either inversed or derived from the original set of relations by linkage heuristics. Additionally, we propose a set of measures that capture the similarity of persons in the familial network based on both personal and relational information. We present a supervised learning approach where we view entity resolution in familial networks as a classification problem. Our experiments on real-world data from multiple-informant pedigrees show that our approach works well and that we can improve performance by considering separate similarity scores for each relation type.</p>",
-    "month": "2016",
-    "year": "2016",
-    "title": "Entity Resolution in Familial Networks",
     "type": "conference",
-    "links": [],
     "authors": [
         "Pigi Kouki",
         "Christopher Marcum",
         "Laura Koehly",
         "Lise Getoor"
     ],
-    "venue": "KDD Workshop on Mining and Learning with Graphs (MLG)"
+    "title": "Entity Resolution in Familial Networks",
+    "venue": "KDD Workshop on Mining and Learning with Graphs (MLG)",
+    "year": "2016",
+    "month": "2016",
+    "links": [],
+    "abstract": "<p class=\"p1\">Entity resolution is an important graph mining problem. Entity resolution is particularly interesting and challenging when there is rich relational structure. In this paper, we study the problem of performing entity resolution in familial networks. In our setting, we are given partial views of a familial network as described from<span class=\"Apple-converted-space\">\\&nbsp; \\&nbsp; </span>the point of view of different people in the network and our goal is to reconstruct the underlying familial network from these perspective partial views. The data and relations provided may be inaccurate, missing or incomplete. In our approach, we start by augmenting the known set of familial relations with additional ones that are either inversed or derived from the original set of relations by linkage heuristics. Additionally, we propose a set of measures that capture the similarity of persons in the familial network based on both personal and relational information. We present a supervised learning approach where we view entity resolution in familial networks as a classification problem. Our experiments on real-world data from multiple-informant pedigrees show that our approach works well and that we can improve performance by considering separate similarity scores for each relation type.</p>"
 }

@@ -1,10 +1,10 @@
 {
     "type": "phdthesis",
-    "year": "2001",
-    "title": "Learning Statistical Models from Relational Data",
-    "links": [],
     "authors": [
         "Lise Getoor"
     ],
-    "venue": "Stanford"
+    "title": "Learning Statistical Models from Relational Data",
+    "venue": "Stanford",
+    "year": "2001",
+    "links": []
 }

@@ -1,13 +1,13 @@
 {
-    "year": "2007",
-    "title": "A Dual-View Approach to Interactive Network Visualization",
     "type": "conference",
-    "links": [],
     "authors": [
         "Galileo Mark Namata",
         "Brian Staats",
         "Lise Getoor",
         "Ben Shneiderman"
     ],
-    "venue": "International Conference on Information and Knowledge Management (CIKM)"
+    "title": "A Dual-View Approach to Interactive Network Visualization",
+    "venue": "International Conference on Information and Knowledge Management (CIKM)",
+    "year": "2007",
+    "links": []
 }

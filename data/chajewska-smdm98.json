@@ -1,12 +1,12 @@
 {
-    "year": "1998",
-    "title": "Using Classification Techniques for Utility Elicitation: A Comparison between StandardGamble and Visual Analog Scale Methods",
     "type": "conference",
-    "links": [],
     "authors": [
         "Ursulza Chajewska",
         "Joseph Norman",
         "Lise Getoor"
     ],
-    "venue": "Meeting of the Society for Medical Decision Making (SMDM)"
+    "title": "Using Classification Techniques for Utility Elicitation: A Comparison between StandardGamble and Visual Analog Scale Methods",
+    "venue": "Meeting of the Society for Medical Decision Making (SMDM)",
+    "year": "1998",
+    "links": []
 }

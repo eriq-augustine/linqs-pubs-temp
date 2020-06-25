@@ -1,16 +1,16 @@
 {
-    "month": "December",
-    "note": "Full version in ACM library",
-    "year": "2008",
-    "number": "1",
-    "volume": "27",
-    "title": "Trusting Spam Reporters: A Reporter-based Reputation System for Email Filtering",
     "type": "article",
-    "links": [],
     "authors": [
         "Elena Zheleva",
         "Alek Kolcz",
         "Lise Getoor"
     ],
-    "venue": "ACM Transactions on Information Systems (TOIS)"
+    "title": "Trusting Spam Reporters: A Reporter-based Reputation System for Email Filtering",
+    "venue": "ACM Transactions on Information Systems (TOIS)",
+    "year": "2008",
+    "month": "December",
+    "volume": "27",
+    "note": "Full version in ACM library",
+    "number": "1",
+    "links": []
 }

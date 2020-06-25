@@ -1,12 +1,12 @@
 {
-    "year": "2014",
-    "title": "Collective Stance Classification of Posts in Online Debate Forums",
     "type": "conference",
-    "links": [],
     "authors": [
         "Dhanya Sridhar",
         "Lise Getoor",
         "Marilyn Walker"
     ],
-    "venue": "ACL Joint Workshop on Social Dynamics and Personal Attributes in Social Media (SDPASM)"
+    "title": "Collective Stance Classification of Posts in Online Debate Forums",
+    "venue": "ACL Joint Workshop on Social Dynamics and Personal Attributes in Social Media (SDPASM)",
+    "year": "2014",
+    "links": []
 }

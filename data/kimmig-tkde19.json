@@ -1,18 +1,18 @@
 {
-    "doi": "10.1109/TKDE.2018.2865785",
-    "keywords": "Cognition, Complexity theory, Data engineering, Knowledge engineering, Metadata, Probabilistic logic, Schema mapping, Task analysis, collective mapping discovery, data integration, inference mechanisms, meta data, optimisation, optimization, potential mappings, probabilistic reasoning techniques, probability, schema mapping optimization problem, uncertainty handling",
-    "abstract": "We propose a probabilistic approach to the problem of schema mapping. Our approach is declarative, scalable, and extensible. It builds upon recent results in both schema mapping and probabilistic reasoning and contributes novel techniques in both fields. We introduce the problem of schema mapping selection, that is, choosing the best mapping from a space of potential mappings, given both metadata constraints and a data example. As selection has to reason holistically about the inputs and the dependencies between the chosen mappings, we define a new schema mapping optimization problem which captures interactions between mappings as well as inconsistencies and incompleteness in the input. We then introduce Collective Mapping Discovery (CMD), our solution to this problem using state-of-the-art probabilistic reasoning techniques. Our evaluation on a wide range of integration scenarios, including several real-world domains, demonstrates that CMD effectively combines data and metadata information to infer highly accurate mappings even with significant levels of noise.",
-    "pages": "1426--1439",
-    "year": "2019",
-    "volume": "31",
-    "title": "A Collective, Probabilistic Approach to Schema Mapping Using Diverse Noisy Evidence",
     "type": "article",
-    "links": [],
     "authors": [
         "Angelika Kimmig",
         "Alex Memory",
-        "Renée J. Miller",
+        "Ren\u00e9e J. Miller",
         "Lise Getoor"
     ],
-    "venue": "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
+    "title": "A Collective, Probabilistic Approach to Schema Mapping Using Diverse Noisy Evidence",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
+    "year": "2019",
+    "keywords": "Cognition, Complexity theory, Data engineering, Knowledge engineering, Metadata, Probabilistic logic, Schema mapping, Task analysis, collective mapping discovery, data integration, inference mechanisms, meta data, optimisation, optimization, potential mappings, probabilistic reasoning techniques, probability, schema mapping optimization problem, uncertainty handling",
+    "pages": "1426--1439",
+    "volume": "31",
+    "doi": "10.1109/TKDE.2018.2865785",
+    "links": [],
+    "abstract": "We propose a probabilistic approach to the problem of schema mapping. Our approach is declarative, scalable, and extensible. It builds upon recent results in both schema mapping and probabilistic reasoning and contributes novel techniques in both fields. We introduce the problem of schema mapping selection, that is, choosing the best mapping from a space of potential mappings, given both metadata constraints and a data example. As selection has to reason holistically about the inputs and the dependencies between the chosen mappings, we define a new schema mapping optimization problem which captures interactions between mappings as well as inconsistencies and incompleteness in the input. We then introduce Collective Mapping Discovery (CMD), our solution to this problem using state-of-the-art probabilistic reasoning techniques. Our evaluation on a wide range of integration scenarios, including several real-world domains, demonstrates that CMD effectively combines data and metadata information to infer highly accurate mappings even with significant levels of noise."
 }

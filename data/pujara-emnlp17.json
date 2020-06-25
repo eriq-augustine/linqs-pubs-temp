@@ -1,17 +1,17 @@
 {
-    "year": "2017",
-    "title": "Sparsity and Noise: Where Knowledge Graph Embeddings Fall Short",
     "type": "conference",
-    "links": [
-        {
-            "label": "code",
-            "href": "https://github.com/eriq-augustine/meta-kg"
-        }
-    ],
     "authors": [
         "Jay Pujara",
         "Eriq Augustine",
         "Lise Getoor"
     ],
-    "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+    "title": "Sparsity and Noise: Where Knowledge Graph Embeddings Fall Short",
+    "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "year": "2017",
+    "links": [
+        {
+            "label": "code",
+            "href": "https://github.com/eriq-augustine/meta-kg"
+        }
+    ]
 }

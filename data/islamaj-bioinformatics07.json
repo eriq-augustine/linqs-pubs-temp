@@ -1,18 +1,18 @@
 {
-    "keywords": "feature generation, functional biological signals, splice-site",
-    "month": "October",
-    "note": "Electronic version is available at http://www.biomedcentral.com/1471-2105/8/410",
-    "year": "2007",
-    "number": "410",
-    "volume": "8",
-    "title": "Features generated for computational splice-site prediction correspond to functional elements",
     "type": "article",
-    "links": [],
     "authors": [
         "Rezarta Islamaj",
         "Lise Getoor",
         "W. John Wilbur",
         "Stephen Mount"
     ],
-    "venue": "BMC Bioinformatics (Bioinformatics)"
+    "title": "Features generated for computational splice-site prediction correspond to functional elements",
+    "venue": "BMC Bioinformatics (Bioinformatics)",
+    "year": "2007",
+    "keywords": "feature generation, functional biological signals, splice-site",
+    "month": "October",
+    "volume": "8",
+    "note": "Electronic version is available at http://www.biomedcentral.com/1471-2105/8/410",
+    "number": "410",
+    "links": []
 }

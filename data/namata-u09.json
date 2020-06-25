@@ -1,11 +1,11 @@
 {
-    "year": "2009",
-    "title": "Identifying Graphs From Noisy and Incomplete Data",
     "type": "conference",
-    "links": [],
     "authors": [
         "Galileo Mark Namata",
         "Lise Getoor"
     ],
-    "venue": "KDD Workshop on Knowledge Discovery from Uncertain Data (U)"
+    "title": "Identifying Graphs From Noisy and Incomplete Data",
+    "venue": "KDD Workshop on Knowledge Discovery from Uncertain Data (U)",
+    "year": "2009",
+    "links": []
 }

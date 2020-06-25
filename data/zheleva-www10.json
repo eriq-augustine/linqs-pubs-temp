@@ -1,13 +1,13 @@
 {
-    "year": "2010",
-    "title": "Statistical Models of Music-listening Sessions in Social Media",
     "type": "conference",
-    "links": [],
     "authors": [
         "Elena Zheleva",
         "John Guiver",
         "Eduarda Mendes Rodrigues",
         "Natasa Milic-Frayling"
     ],
-    "venue": "International World Wide Web Conference (WWW)"
+    "title": "Statistical Models of Music-listening Sessions in Social Media",
+    "venue": "International World Wide Web Conference (WWW)",
+    "year": "2010",
+    "links": []
 }

@@ -1,11 +1,5 @@
 {
-    "keywords": "MOOC, learner engagement, probabilistic modeling, structured prediction",
-    "organization": "AAAI Press",
-    "publisher": "AAAI Press",
-    "year": "2014",
-    "title": "Learning Latent Engagement Patterns of Students in Online Courses",
     "type": "conference",
-    "links": [],
     "authors": [
         "Arti Ramesh",
         "Dan Goldwasser",
@@ -13,5 +7,11 @@
         "Hal Daume III",
         "Lise Getoor"
     ],
-    "venue": "National Conference on Artificial Intelligence (AAAI)"
+    "title": "Learning Latent Engagement Patterns of Students in Online Courses",
+    "venue": "National Conference on Artificial Intelligence (AAAI)",
+    "year": "2014",
+    "publisher": "AAAI Press",
+    "keywords": "MOOC, learner engagement, probabilistic modeling, structured prediction",
+    "organization": "AAAI Press",
+    "links": []
 }

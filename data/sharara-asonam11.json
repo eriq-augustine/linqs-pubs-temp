@@ -1,17 +1,17 @@
 {
-    "pages": "115--126",
-    "month": "April",
-    "year": "2011",
-    "number": "2",
-    "volume": "1",
-    "title": "Understanding Actor Loyalty to Event-Based Groups in Affiliation Networks",
     "type": "article",
-    "links": [],
     "authors": [
         "Hossam Sharara",
         "Lisa Singh",
         "Lise Getoor",
         "Janet Mann"
     ],
-    "venue": "International Conference on Advances in Social Networks Analysis and Mining (ASONAM)"
+    "title": "Understanding Actor Loyalty to Event-Based Groups in Affiliation Networks",
+    "venue": "International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
+    "year": "2011",
+    "pages": "115--126",
+    "month": "April",
+    "volume": "1",
+    "number": "2",
+    "links": []
 }

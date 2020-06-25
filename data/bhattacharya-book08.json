@@ -1,19 +1,19 @@
 {
-    "abstract": "<p>Abstract In many clustering problems, in addition to attribute data, we have relational information, linking different data points. In this chapter, we focus on the problem of collective relational clustering that makes use of both attribute and relational information. The approach is collective in that clustering decisions are not taken in an independent fashion for each pair of data points. Instead, the different pairwise decisions depend on each other. The first set of dependencies is among multiple decisions involving the same data point. The other set of dependencies come from the relationships. Decisions for any two references that are related in the data are also dependent on each other. Hence, the approach is collective as well as relational. We focus on the entity resolution problem as an application of the clustering problem, and we survey different proposed approaches that are collective or make use of relationships. One of the approaches is an agglomerative greedy clustering algorithm where the cluster similarity measure combines both attributes and relationships in a collective way. We discuss the algorithmic details of this approach and identifying data characteristics that influence its correctness. We also present experimental results on multiple real-world and syntheticOften in clustering problems, in addition to the attributes describing the data items to be clustered, there are links among the items. These links are co-occurrence links indicating that the data items were observed together in, for example, a market basket, a text document, or some other relational context. Relational clustering approaches make use of both the attributes of the instances and the observed co-occurrences to do a better job at clustering.</p>",
-    "chapter": "10",
-    "edition": "1",
-    "organization": "Chapman and Hall",
-    "publisher": "Chapman and Hall",
-    "pages": "221-244",
-    "year": "2008",
-    "volume": "1",
-    "series": "Constrained Clustering: Advances in Algorithms, Theory, and Applications",
-    "title": "Collective Relational Clustering",
     "type": "book",
-    "links": [],
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "venue": "Book"
+    "title": "Collective Relational Clustering",
+    "venue": "Book",
+    "year": "2008",
+    "publisher": "Chapman and Hall",
+    "pages": "221-244",
+    "volume": "1",
+    "chapter": "10",
+    "organization": "Chapman and Hall",
+    "series": "Constrained Clustering: Advances in Algorithms, Theory, and Applications",
+    "edition": "1",
+    "links": [],
+    "abstract": "<p>Abstract In many clustering problems, in addition to attribute data, we have relational information, linking different data points. In this chapter, we focus on the problem of collective relational clustering that makes use of both attribute and relational information. The approach is collective in that clustering decisions are not taken in an independent fashion for each pair of data points. Instead, the different pairwise decisions depend on each other. The first set of dependencies is among multiple decisions involving the same data point. The other set of dependencies come from the relationships. Decisions for any two references that are related in the data are also dependent on each other. Hence, the approach is collective as well as relational. We focus on the entity resolution problem as an application of the clustering problem, and we survey different proposed approaches that are collective or make use of relationships. One of the approaches is an agglomerative greedy clustering algorithm where the cluster similarity measure combines both attributes and relationships in a collective way. We discuss the algorithmic details of this approach and identifying data characteristics that influence its correctness. We also present experimental results on multiple real-world and syntheticOften in clustering problems, in addition to the attributes describing the data items to be clustered, there are links among the items. These links are co-occurrence links indicating that the data items were observed together in, for example, a market basket, a text document, or some other relational context. Relational clustering approaches make use of both the attributes of the instances and the observed co-occurrences to do a better job at clustering.</p>"
 }

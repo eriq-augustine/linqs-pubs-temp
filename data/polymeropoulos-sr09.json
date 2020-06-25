@@ -1,9 +1,5 @@
 {
-    "keywords": "bioinformatics gene expression analysis antipsychotic pharmacogenetics",
-    "year": "2009",
-    "title": "Common effect of antipsychotics on the biosynthesis and regulation of fatty acids and cholesterol supports a key role of lipid homeostasis in schizophrenia.",
     "type": "article",
-    "links": [],
     "authors": [
         "Mihales Polymeropoulos",
         "Louis Licamele",
@@ -14,5 +10,9 @@
         "Lise Getoor",
         "Christian Lavedan"
     ],
-    "venue": "Schizophrenia Research (SR)"
+    "title": "Common effect of antipsychotics on the biosynthesis and regulation of fatty acids and cholesterol supports a key role of lipid homeostasis in schizophrenia.",
+    "venue": "Schizophrenia Research (SR)",
+    "year": "2009",
+    "keywords": "bioinformatics gene expression analysis antipsychotic pharmacogenetics",
+    "links": []
 }

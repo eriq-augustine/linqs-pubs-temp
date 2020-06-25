@@ -1,13 +1,13 @@
 {
-    "year": "2015",
-    "title": "Finding Quality in Quantity: The Challenge of Discovering Valuable Sources for Integration",
     "type": "conference",
-    "links": [],
     "authors": [
         "Theodoros Rekatsinas",
         "Xin Luna Dong",
         "Lise Getoor",
         "Divesh Srivastava"
     ],
-    "venue": "Biennial Conference on Innovative Data Systems Research (CIDR)"
+    "title": "Finding Quality in Quantity: The Challenge of Discovering Valuable Sources for Integration",
+    "venue": "Biennial Conference on Innovative Data Systems Research (CIDR)",
+    "year": "2015",
+    "links": []
 }

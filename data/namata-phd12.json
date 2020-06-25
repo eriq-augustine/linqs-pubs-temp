@@ -1,10 +1,10 @@
 {
     "type": "phdthesis",
-    "year": "2012",
-    "title": "Identifying Graphs from Noisy Observational Data",
-    "links": [],
     "authors": [
         "Galileo Mark Namata"
     ],
-    "venue": "University of Maryland, College Park"
+    "title": "Identifying Graphs from Noisy Observational Data",
+    "venue": "University of Maryland, College Park",
+    "year": "2012",
+    "links": []
 }

@@ -1,13 +1,13 @@
 {
-    "note": "Winner of Best Student Paper award",
-    "year": "2013",
-    "title": "Large-margin Structured Learning for Link Ranking",
     "type": "conference",
-    "links": [],
     "authors": [
         "Stephen Bach",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "venue": "NIPS Workshop on Frontiers of Network Analysis: Methods, Models, and Applications (FNAMMA)"
+    "title": "Large-margin Structured Learning for Link Ranking",
+    "venue": "NIPS Workshop on Frontiers of Network Analysis: Methods, Models, and Applications (FNAMMA)",
+    "year": "2013",
+    "note": "Winner of Best Student Paper award",
+    "links": []
 }

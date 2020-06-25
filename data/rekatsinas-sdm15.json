@@ -1,11 +1,5 @@
 {
-    "organization": "SIAM",
-    "publisher": "SIAM",
-    "note": "Best Research Paper Award",
-    "year": "2015",
-    "title": "SourceSeer: Forecasting Rare Disease Outbreaks Using Multiple Data Sources",
     "type": "conference",
-    "links": [],
     "authors": [
         "Theodoros Rekatsinas",
         "Saurav Ghosh",
@@ -15,5 +9,11 @@
         "Lise Getoor",
         "Naren Ramakrishnan"
     ],
-    "venue": "SIAM International Conference on Data Mining (SDM)"
+    "title": "SourceSeer: Forecasting Rare Disease Outbreaks Using Multiple Data Sources",
+    "venue": "SIAM International Conference on Data Mining (SDM)",
+    "year": "2015",
+    "publisher": "SIAM",
+    "organization": "SIAM",
+    "note": "Best Research Paper Award",
+    "links": []
 }

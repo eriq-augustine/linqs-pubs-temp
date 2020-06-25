@@ -1,13 +1,13 @@
 {
-    "year": "2011",
-    "title": "Multi-dimensional Trajectory Analysis for Career Histories",
     "type": "conference",
-    "links": [],
     "authors": [
         "Hossam Sharara",
         "Daniel Halgin",
         "Lise Getoor",
         "Steve Borgatti"
     ],
-    "venue": "International Sunbelt Social Network Conference (Sunbelt)"
+    "title": "Multi-dimensional Trajectory Analysis for Career Histories",
+    "venue": "International Sunbelt Social Network Conference (Sunbelt)",
+    "year": "2011",
+    "links": []
 }

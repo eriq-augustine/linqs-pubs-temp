@@ -1,13 +1,13 @@
 {
-    "year": "2007",
-    "title": "Visual Mining of Multi-Modal Social Networks at Different Abstraction Levels",
     "type": "conference",
-    "links": [],
     "authors": [
         "Lisa Singh",
         "Mitchell Beard",
         "Lise Getoor",
         "M. Brian Blake"
     ],
-    "venue": "IEEE Conference on Information Visualization Symposium of Visual Data Mining (IVVDM)"
+    "title": "Visual Mining of Multi-Modal Social Networks at Different Abstraction Levels",
+    "venue": "IEEE Conference on Information Visualization Symposium of Visual Data Mining (IVVDM)",
+    "year": "2007",
+    "links": []
 }

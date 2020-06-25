@@ -1,11 +1,11 @@
 {
-    "year": "2007",
-    "title": "Combining statistical and logical inference for ontology alignment",
     "type": "conference",
-    "links": [],
     "authors": [
         "Octavian Udrea",
         "Lise Getoor"
     ],
-    "venue": "IJCAI Workshop on Semantic Web for Collaborative Knowledge Acquisition (SWECKA)"
+    "title": "Combining statistical and logical inference for ontology alignment",
+    "venue": "IJCAI Workshop on Semantic Web for Collaborative Knowledge Acquisition (SWECKA)",
+    "year": "2007",
+    "links": []
 }

@@ -1,11 +1,11 @@
 {
-    "year": "1999",
-    "title": "Efficient Learning Using Constrained Sufficient Statistics",
     "type": "conference",
-    "links": [],
     "authors": [
         "Nir Friedman",
         "Lise Getoor"
     ],
-    "venue": "International Workshop on Artificial Intelligence and Statistics (AISTATS)"
+    "title": "Efficient Learning Using Constrained Sufficient Statistics",
+    "venue": "International Workshop on Artificial Intelligence and Statistics (AISTATS)",
+    "year": "1999",
+    "links": []
 }

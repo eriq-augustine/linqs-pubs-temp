@@ -1,12 +1,12 @@
 {
-    "keywords": "gene expression bioinformatics drug therapeutics",
-    "year": "2010",
-    "title": "Indirect two-sided relative ranking: a robust similarity measure for gene expression data",
     "type": "article",
-    "links": [],
     "authors": [
         "Louis Licamele",
         "Lise Getoor"
     ],
-    "venue": "BMC Bioinformatics (Bioinformatics)"
+    "title": "Indirect two-sided relative ranking: a robust similarity measure for gene expression data",
+    "venue": "BMC Bioinformatics (Bioinformatics)",
+    "year": "2010",
+    "keywords": "gene expression bioinformatics drug therapeutics",
+    "links": []
 }

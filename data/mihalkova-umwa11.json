@@ -1,12 +1,12 @@
 {
-    "year": "2011",
-    "title": "Learning to Predict Web Collaborations",
     "type": "conference",
-    "links": [],
     "authors": [
         "Lilyana Mihalkova",
         "Walaa Eldin Moustafa",
         "Lise Getoor"
     ],
-    "venue": "WSDM Workshop on User Modeling for Web Applications (UMWA)"
+    "title": "Learning to Predict Web Collaborations",
+    "venue": "WSDM Workshop on User Modeling for Web Applications (UMWA)",
+    "year": "2011",
+    "links": []
 }

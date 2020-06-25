@@ -1,20 +1,20 @@
 {
-    "editor": "Patrick Healy and Nikola S. Nikolov",
-    "organization": "Springer",
-    "publisher": "Springer",
-    "pages": "505--507",
-    "month": "September",
-    "year": "2005",
-    "volume": "3843",
-    "series": "Lecture Notes in Computer Science",
-    "title": "D-Dupe: An Interactive Tool for Entity Resolution in Social Networks",
     "type": "conference",
-    "links": [],
     "authors": [
         "Mustafa Bilgic",
         "Louis Licamele",
         "Lise Getoor",
         "Ben Shneiderman"
     ],
-    "venue": "International Symposium on Graph Drawing (ISGD)"
+    "title": "D-Dupe: An Interactive Tool for Entity Resolution in Social Networks",
+    "venue": "International Symposium on Graph Drawing (ISGD)",
+    "year": "2005",
+    "publisher": "Springer",
+    "pages": "505--507",
+    "month": "September",
+    "volume": "3843",
+    "editor": "Patrick Healy and Nikola S. Nikolov",
+    "organization": "Springer",
+    "series": "Lecture Notes in Computer Science",
+    "links": []
 }

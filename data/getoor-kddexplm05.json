@@ -1,14 +1,14 @@
 {
-    "month": "december",
-    "year": "2005",
-    "number": "2",
-    "volume": "7",
-    "title": "Link Mining: A Survey",
     "type": "article",
-    "links": [],
     "authors": [
         "Lise Getoor",
         "Christopher Diehl"
     ],
-    "venue": "SIGKDD Explorations Newsletter - Special Issue on Link Mining (KDDExpLM)"
+    "title": "Link Mining: A Survey",
+    "venue": "SIGKDD Explorations Newsletter - Special Issue on Link Mining (KDDExpLM)",
+    "year": "2005",
+    "month": "december",
+    "volume": "7",
+    "number": "2",
+    "links": []
 }

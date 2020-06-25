@@ -1,11 +1,11 @@
 {
-    "year": "2003",
-    "title": "Link-based Text Classification",
     "type": "conference",
-    "links": [],
     "authors": [
         "Qing Lu",
         "Lise Getoor"
     ],
-    "venue": "IJCAI Workshop on Text Mining and Link Analysis (TextLink)"
+    "title": "Link-based Text Classification",
+    "venue": "IJCAI Workshop on Text Mining and Link Analysis (TextLink)",
+    "year": "2003",
+    "links": []
 }

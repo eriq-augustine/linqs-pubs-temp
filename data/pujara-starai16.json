@@ -1,16 +1,16 @@
 {
-    "doi": "2016",
-    "abstract": "<p class=\"p1\">Entity resolution, the problem of identifying the underlying entity of references found in data, has been researched for many decades in many communities. A common theme in this research has been the importance of incorporating relational features into the resolution process. Relational entity resolution is particularly important in knowledge graphs (KGs), which have a regular structure capturing entities and their interrelationships. We identify three major problems in KG entity resolution: (1) intra-KG reference ambiguity; (2) inter-KG reference ambiguity; and (3) ambiguity when extending KGs with new facts. We implement a framework that generalizes across these three settings and exploits this regular structure of KGs. Our framework has many advantages over custom solutions widely deployed in industry, including collective inference, scalability, and interpretability. We apply our framework to two real-world KG entity resolution problems, ambiguity in NELL and merging data from Freebase and MusicBrainz, demonstrating the importance of relational features.</p>",
-    "organization": "IJCAI 2016",
-    "publisher": "IJCAI 2016",
-    "note": "On arXiv: https://arxiv.org/abs/1607.00992",
-    "year": "2016",
-    "title": "Generic Statistical Relational Entity Resolution in Knowledge Graphs",
     "type": "conference",
-    "links": [],
     "authors": [
         "Jay Pujara",
         "Lise Getoor"
     ],
-    "venue": "IJCAI Workshop on Statistical Relational Artificial Intelligence (StarAI)"
+    "title": "Generic Statistical Relational Entity Resolution in Knowledge Graphs",
+    "venue": "IJCAI Workshop on Statistical Relational Artificial Intelligence (StarAI)",
+    "year": "2016",
+    "publisher": "IJCAI 2016",
+    "organization": "IJCAI 2016",
+    "note": "On arXiv: https://arxiv.org/abs/1607.00992",
+    "doi": "2016",
+    "links": [],
+    "abstract": "<p class=\"p1\">Entity resolution, the problem of identifying the underlying entity of references found in data, has been researched for many decades in many communities. A common theme in this research has been the importance of incorporating relational features into the resolution process. Relational entity resolution is particularly important in knowledge graphs (KGs), which have a regular structure capturing entities and their interrelationships. We identify three major problems in KG entity resolution: (1) intra-KG reference ambiguity; (2) inter-KG reference ambiguity; and (3) ambiguity when extending KGs with new facts. We implement a framework that generalizes across these three settings and exploits this regular structure of KGs. Our framework has many advantages over custom solutions widely deployed in industry, including collective inference, scalability, and interpretability. We apply our framework to two real-world KG entity resolution problems, ambiguity in NELL and merging data from Freebase and MusicBrainz, demonstrating the importance of relational features.</p>"
 }

@@ -1,13 +1,13 @@
 {
-    "month": "July",
-    "year": "2007",
-    "title": "Relationship Identification for Social Network Discovery",
     "type": "conference",
-    "links": [],
     "authors": [
         "Christopher Diehl",
         "Galileo Mark Namata",
         "Lise Getoor"
     ],
-    "venue": "National Conference on Artificial Intelligence (AAAI)"
+    "title": "Relationship Identification for Social Network Discovery",
+    "venue": "National Conference on Artificial Intelligence (AAAI)",
+    "year": "2007",
+    "month": "July",
+    "links": []
 }

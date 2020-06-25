@@ -1,13 +1,13 @@
 {
-    "year": "2017",
-    "title": "Detecting Cyber-bullying from Sparse Data and Inconsistent Labels",
     "type": "conference",
-    "links": [],
     "authors": [
         "Sabina Tomkins",
         "Lise Getoor",
         "Yunfei Chen",
         "Yi Zhang"
     ],
-    "venue": "NIPS Workshop on Learning with Limited Labeled Data (LLD)"
+    "title": "Detecting Cyber-bullying from Sparse Data and Inconsistent Labels",
+    "venue": "NIPS Workshop on Learning with Limited Labeled Data (LLD)",
+    "year": "2017",
+    "links": []
 }

@@ -1,19 +1,19 @@
 {
-    "chapter": "1",
-    "edition": "1",
-    "organization": "CRC Press",
-    "publisher": "CRC Press",
-    "pages": "1--25",
-    "year": "2015",
-    "volume": "1",
-    "series": "Healthcare Data Analytics",
-    "title": "Data Analytics for Pharmaceutical Discoveries",
     "type": "book",
-    "links": [],
     "authors": [
         "Shobeir Fakhraei",
         "Eberechukwu Onukwugha",
         "Lise Getoor"
     ],
-    "venue": "Book"
+    "title": "Data Analytics for Pharmaceutical Discoveries",
+    "venue": "Book",
+    "year": "2015",
+    "publisher": "CRC Press",
+    "pages": "1--25",
+    "volume": "1",
+    "chapter": "1",
+    "organization": "CRC Press",
+    "series": "Healthcare Data Analytics",
+    "edition": "1",
+    "links": []
 }

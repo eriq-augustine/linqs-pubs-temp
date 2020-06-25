@@ -1,11 +1,11 @@
 {
-    "year": "2003",
-    "title": "Link-based Classification Using Labeled and Unlabeled Data",
     "type": "conference",
-    "links": [],
     "authors": [
         "Qing Lu",
         "Lise Getoor"
     ],
-    "venue": "ICML Workshop on The Continuum from Labeled to Unlabeled Data in Machine Learning and Data Mining (CLUMLDM)"
+    "title": "Link-based Classification Using Labeled and Unlabeled Data",
+    "venue": "ICML Workshop on The Continuum from Labeled to Unlabeled Data in Machine Learning and Data Mining (CLUMLDM)",
+    "year": "2003",
+    "links": []
 }

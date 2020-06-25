@@ -1,14 +1,14 @@
 {
-    "note": "To reference this work, please cite the JMLR paper.",
-    "year": "2015",
-    "title": "Hinge-Loss Markov Random Fields and Probabilistic Soft Logic",
     "type": "article",
-    "links": [],
     "authors": [
         "Stephen Bach",
         "Matthias Broecheler",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "venue": "ArXiv (arxiv)"
+    "title": "Hinge-Loss Markov Random Fields and Probabilistic Soft Logic",
+    "venue": "ArXiv (arxiv)",
+    "year": "2015",
+    "note": "To reference this work, please cite the JMLR paper.",
+    "links": []
 }

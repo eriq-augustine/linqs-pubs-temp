@@ -1,16 +1,16 @@
 {
-    "organization": "ACM",
-    "publisher": "ACM",
-    "note": "Winner of a Best Paper award",
-    "year": "2011",
-    "series": "ACM International Conference Proceedings Series",
-    "title": "Using Classifier Cascades for Scalable E-Mail Classification",
     "type": "conference",
-    "links": [],
     "authors": [
         "Jay Pujara",
         "Hal Daume III",
         "Lise Getoor"
     ],
-    "venue": "Collaboration, Electronic Messaging, Anti-Abuse and Spam Conference (CEAS)"
+    "title": "Using Classifier Cascades for Scalable E-Mail Classification",
+    "venue": "Collaboration, Electronic Messaging, Anti-Abuse and Spam Conference (CEAS)",
+    "year": "2011",
+    "publisher": "ACM",
+    "organization": "ACM",
+    "note": "Winner of a Best Paper award",
+    "series": "ACM International Conference Proceedings Series",
+    "links": []
 }

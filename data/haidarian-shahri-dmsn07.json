@@ -1,8 +1,5 @@
 {
-    "year": "2007",
-    "title": "A Graph-based Approach to Vehicle Tracking in Traffic Camera Video Streams",
     "type": "conference",
-    "links": [],
     "authors": [
         "Hamid Haidarian-Shahri",
         "Galileo Mark Namata",
@@ -10,5 +7,8 @@
         "Amol Deshpande",
         "Nick Roussopoulos"
     ],
-    "venue": "International Workshop on Data Management for Sensor Networks (DMSN)"
+    "title": "A Graph-based Approach to Vehicle Tracking in Traffic Camera Video Streams",
+    "venue": "International Workshop on Data Management for Sensor Networks (DMSN)",
+    "year": "2007",
+    "links": []
 }

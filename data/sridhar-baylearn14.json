@@ -1,8 +1,5 @@
 {
-    "year": "2014",
-    "title": "Collective classification of stance and disagreement in online debate forums",
     "type": "conference",
-    "links": [],
     "authors": [
         "Dhanya Sridhar",
         "James Foulds",
@@ -10,5 +7,8 @@
         "Marilyn Walker",
         "Lise Getoor"
     ],
-    "venue": "Bay Area Machine Learning Symposium (BayLearn)"
+    "title": "Collective classification of stance and disagreement in online debate forums",
+    "venue": "Bay Area Machine Learning Symposium (BayLearn)",
+    "year": "2014",
+    "links": []
 }

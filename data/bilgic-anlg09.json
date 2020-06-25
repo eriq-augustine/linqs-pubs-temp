@@ -1,11 +1,11 @@
 {
-    "year": "2009",
-    "title": "Link-based Active Learning",
     "type": "conference",
-    "links": [],
     "authors": [
         "Mustafa Bilgic",
         "Lise Getoor"
     ],
-    "venue": "NIPS Workshop on Analyzing Networks and Learning with Graphs (ANLG)"
+    "title": "Link-based Active Learning",
+    "venue": "NIPS Workshop on Analyzing Networks and Learning with Graphs (ANLG)",
+    "year": "2009",
+    "links": []
 }

@@ -1,11 +1,5 @@
 {
-    "organization": "JMLR",
-    "publisher": "JMLR",
-    "pages": "1328--1336",
-    "year": "2013",
-    "title": "Predictable Dual-View Hashing",
     "type": "conference",
-    "links": [],
     "authors": [
         "Mohammad Rastegari",
         "Jonghyun Choi",
@@ -13,5 +7,11 @@
         "Hal Daume III",
         "Larry Davis"
     ],
-    "venue": "International Conference on Machine Learning (ICML)"
+    "title": "Predictable Dual-View Hashing",
+    "venue": "International Conference on Machine Learning (ICML)",
+    "year": "2013",
+    "publisher": "JMLR",
+    "pages": "1328--1336",
+    "organization": "JMLR",
+    "links": []
 }

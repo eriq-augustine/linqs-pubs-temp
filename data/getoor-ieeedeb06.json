@@ -1,13 +1,13 @@
 {
-    "month": "march",
-    "year": "2006",
-    "number": "1",
-    "volume": "29",
-    "title": "An Introduction to Probabilistic Graphical Models for Relational Data",
     "type": "article",
-    "links": [],
     "authors": [
         "Lise Getoor"
     ],
-    "venue": "IEEE Data Engineering Bulletin (IEEEDEB)"
+    "title": "An Introduction to Probabilistic Graphical Models for Relational Data",
+    "venue": "IEEE Data Engineering Bulletin (IEEEDEB)",
+    "year": "2006",
+    "month": "march",
+    "volume": "29",
+    "number": "1",
+    "links": []
 }

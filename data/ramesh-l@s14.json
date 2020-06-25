@@ -1,12 +1,5 @@
 {
-    "keywords": "MOOC, learner engagement, learning analytics, online education, probabilistic modeling, structured prediction",
-    "organization": "ACM",
-    "publisher": "ACM",
-    "year": "2014",
-    "series": "Annual Conference Series",
-    "title": "Uncovering Hidden Engagement Patterns for Predicting Learner Performance in MOOCs",
     "type": "conference",
-    "links": [],
     "authors": [
         "Arti Ramesh",
         "Dan Goldwasser",
@@ -14,5 +7,12 @@
         "Hal Daume III",
         "Lise Getoor"
     ],
-    "venue": "ACM Conference on Learning at Scale (L@S)"
+    "title": "Uncovering Hidden Engagement Patterns for Predicting Learner Performance in MOOCs",
+    "venue": "ACM Conference on Learning at Scale (L@S)",
+    "year": "2014",
+    "publisher": "ACM",
+    "keywords": "MOOC, learner engagement, learning analytics, online education, probabilistic modeling, structured prediction",
+    "organization": "ACM",
+    "series": "Annual Conference Series",
+    "links": []
 }

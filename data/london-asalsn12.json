@@ -1,12 +1,12 @@
 {
-    "year": "2012",
-    "title": "Improved Generalization Bounds for Large-scale Structured Prediction",
     "type": "conference",
-    "links": [],
     "authors": [
         "Ben London",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "venue": "NIPS Workshop on Algorithmic and Statistical Approaches for Large Social Networks (ASALSN)"
+    "title": "Improved Generalization Bounds for Large-scale Structured Prediction",
+    "venue": "NIPS Workshop on Algorithmic and Statistical Approaches for Large Social Networks (ASALSN)",
+    "year": "2012",
+    "links": []
 }

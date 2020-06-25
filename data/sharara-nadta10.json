@@ -1,12 +1,12 @@
 {
-    "year": "2010",
-    "title": "Active Surveying",
     "type": "conference",
-    "links": [],
     "authors": [
         "Hossam Sharara",
         "Lise Getoor",
         "Myra Norton"
     ],
-    "venue": "NIPS Workshop on Networks Across Disciplines: Theory and Applications (NADTA)"
+    "title": "Active Surveying",
+    "venue": "NIPS Workshop on Networks Across Disciplines: Theory and Applications (NADTA)",
+    "year": "2010",
+    "links": []
 }

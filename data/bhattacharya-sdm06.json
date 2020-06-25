@@ -1,13 +1,13 @@
 {
-    "month": "April",
-    "note": "Winner of the Best Paper Award.",
-    "year": "2006",
-    "title": "A Latent Dirichlet Model for Unsupervised Entity Resolution",
     "type": "conference",
-    "links": [],
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "venue": "SIAM Conference on Data Mining (SDM)"
+    "title": "A Latent Dirichlet Model for Unsupervised Entity Resolution",
+    "venue": "SIAM Conference on Data Mining (SDM)",
+    "year": "2006",
+    "month": "April",
+    "note": "Winner of the Best Paper Award.",
+    "links": []
 }

@@ -1,8 +1,5 @@
 {
-    "year": "2006",
-    "title": "Is there a grand challenge or X-prize for data mining?",
     "type": "conference",
-    "links": [],
     "authors": [
         "Gregory Piatetsky-Shapiro",
         "Robert Grossman",
@@ -11,5 +8,8 @@
         "Lise Getoor",
         "Mohammed Zaki"
     ],
-    "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)"
+    "title": "Is there a grand challenge or X-prize for data mining?",
+    "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
+    "year": "2006",
+    "links": []
 }

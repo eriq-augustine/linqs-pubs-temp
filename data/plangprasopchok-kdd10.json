@@ -1,12 +1,12 @@
 {
-    "year": "2010",
-    "title": "Growing a tree in the forest: constructing folksonomies by integrating structured metadata",
     "type": "conference",
-    "links": [],
     "authors": [
         "Anon Plangprasopchok",
         "Kristina Lerman",
         "Lise Getoor"
     ],
-    "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)"
+    "title": "Growing a tree in the forest: constructing folksonomies by integrating structured metadata",
+    "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
+    "year": "2010",
+    "links": []
 }

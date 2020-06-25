@@ -1,12 +1,12 @@
 {
-    "year": "2014",
-    "title": "On the Strong Convexity of Variational Inference",
     "type": "conference",
-    "links": [],
     "authors": [
         "Ben London",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "venue": "NIPS Workshop on Advances in Variational Inference (AVI)"
+    "title": "On the Strong Convexity of Variational Inference",
+    "venue": "NIPS Workshop on Advances in Variational Inference (AVI)",
+    "year": "2014",
+    "links": []
 }

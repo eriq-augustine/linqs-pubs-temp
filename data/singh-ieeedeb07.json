@@ -1,14 +1,14 @@
 {
-    "month": "jul",
-    "year": "2007",
-    "number": "2",
-    "volume": "30",
-    "title": "Increasing the predictive power of affiliation networks.",
     "type": "article",
-    "links": [],
     "authors": [
         "Lisa Singh",
         "Lise Getoor"
     ],
-    "venue": "IEEE Data Engineering Bulletin (IEEEDEB)"
+    "title": "Increasing the predictive power of affiliation networks.",
+    "venue": "IEEE Data Engineering Bulletin (IEEEDEB)",
+    "year": "2007",
+    "month": "jul",
+    "volume": "30",
+    "number": "2",
+    "links": []
 }
