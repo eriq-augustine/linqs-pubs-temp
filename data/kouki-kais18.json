@@ -10,7 +10,7 @@
     "title": "Collective Entity Resolution in Multi-Relational Familial Networks",
     "venue": "International Journal on Knowledge and Information Systems (KAIS)",
     "year": "2018",
-    "pages": "1547–1581",
+    "pages": "1547--1581",
     "volume": "61",
     "links": [],
     "abstract": "Entity resolution in settings with rich relational structure often introduces complex dependencies between co-references. Exploiting these dependencies is challenging -- it requires seamlessly combining statistical, relational, and logical dependencies. One task of particular interest is entity resolution in familial networks. In this setting, multiple partial representations of a family tree are provided, from the perspective of different family members, and the challenge is to reconstruct a family tree from these multiple, noisy, partial views. This reconstruction is crucial for applications such as understanding genetic inheritance, tracking disease contagion, and performing census surveys. Here, we design a model that incorporates statistical signals (such as name similarity), relational information (such as sibling overlap), logical constraints (such as transitivity and bijective matching), and predictions from other algorithms (such as logistic regression and support vector machines), in a collective model. We show how to integrate these features using probabilistic soft logic, a scalable probabilistic programming framework. In experiments on real-world data, our model significantly outperforms state-of-the-art classifiers that use relational features but are incapable of collective reasoning."
