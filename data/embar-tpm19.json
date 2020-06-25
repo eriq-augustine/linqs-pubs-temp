@@ -1,0 +1,14 @@
+{
+    "abstract": "Hinge-loss Markov random fields (HL-MRFs) are a class of undirected graphical models that has been successfully applied to model richly structured data. HL-MRFs are defined over a set of continuous random variables in the range [0,1], which makes computing the MAP convex. However, computation of marginal distributions remain intractable. In this paper, we introduce a novel sampling-based algorithm to compute marginal distributions. We define the notion of association blocks, which help identify islands of high probability, and propose a novel approach to sample from these regions. We validate our approach by estimating both average precision and various properties of a social network. We show that the proposed approach outperforms MAP estimates in both average precision and the accuracy of the properties by 20\\% and 40\\% respectively on the large social network.",
+    "month": "06/2019",
+    "year": "2019",
+    "title": "Tractable Marginal Inference for Hinge-Loss Markov Random Fields",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Varun Embar",
+        "Sriram Srinivasan",
+        "Lise Getoor"
+    ],
+    "venue": "ICML Workshop on Tractable Probabilistic Modeling (TPM)"
+}

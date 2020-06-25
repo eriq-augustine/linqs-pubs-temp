@@ -1,0 +1,13 @@
+{
+    "abstract": "<p>Opinion leaders play an important role in influencingpeople's beliefs, actions and behaviors. Althougha number of methods have been proposedfor identifying influentials using secondary sourcesof information, the use of primary sources, suchas surveys, is still favored in many domains. Inthis work we present a new surveying methodwhich combines secondary data with partial knowledgefrom primary sources to guide the informationgathering process. We apply our proposed activesurveying method to the problem of identifying keyopinion leaders in the medical field, and show howwe are able to accurately identify the opinion leaderswhile minimizing the amount of primary datarequired, which results in significant cost reductionin data acquisition without sacrificing its integrity.</p>",
+    "year": "2011",
+    "title": "Active Surveying: A Probabilistic Approach for Identifying Key Opinion Leaders",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Sharara Hossam",
+        "Lise Getoor",
+        "Norton Myra"
+    ],
+    "venue": "International Joint Conference on Artificial Intelligence (IJCAI)"
+}

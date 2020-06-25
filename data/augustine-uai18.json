@@ -1,0 +1,17 @@
+{
+    "publisher": "Uncertainty in Artificial Intelligence (UAI)",
+    "year": "2018",
+    "title": "MLTrain: Collective Reasoning With Probabilistic Soft Logic",
+    "type": "article",
+    "links": [
+        {
+            "label": "code",
+            "href": "https://github.com/linqs/psl-examples/tree/uai18"
+        }
+    ],
+    "authors": [
+        "Eriq Augustine",
+        "Golnoosh Farnadi"
+    ],
+    "venue": "Uncertainty in Artificial Intelligence (UAI)"
+}

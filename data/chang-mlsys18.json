@@ -1,0 +1,14 @@
+{
+    "abstract": "<p>Many real-world systems generate a tremendous amount of data cataloging the actions, responses, and internal states. Prominent examples include user logs on web servers, instrumentation of source code, and performance statistics in large data centers. The magnitude of this data makes it impossible to log individual events, but instead requires capturing aggregate statistics at a coarser granularity, resulting in statistical distributions instead of discrete values. We survey several popular statistical distance measures and demonstrate how appropriate statistical distances can allow meaningful clustering of web log data.</p>",
+    "year": "2018",
+    "title": "Clustering System Data using Aggregate Measures",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Johnnie Chang",
+        "Robert Chen",
+        "Jay Pujara",
+        "Lise Getoor"
+    ],
+    "venue": "Conference on Machine Learning and Systems (MLSys)"
+}

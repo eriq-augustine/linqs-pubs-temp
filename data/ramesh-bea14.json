@@ -1,0 +1,18 @@
+{
+    "keywords": "LDA, MOOC Discussion Forums, Seeded LDA, structured prediction",
+    "abstract": "<p>Discussion forums serve as a platform for student discussions in massive open online courses (MOOCs). Analyzing content in these forums can uncover useful information for improving student retention and help in initiating instructor intervention. In this work, we explore the use of topic models, particularly seeded topic models toward this goal. We demonstrate that features derived from topic analysis help in predicting student survival.</p>",
+    "organization": "ACL",
+    "publisher": "ACL",
+    "year": "2014",
+    "title": "Understanding MOOC Discussion Forums using Seeded LDA",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Arti Ramesh",
+        "Dan Goldwasser",
+        "Bert Huang",
+        "Hal Daume III",
+        "Lise Getoor"
+    ],
+    "venue": "ACL Workshop on Innovative Use of NLP for Building Educational Applications (BEA)"
+}

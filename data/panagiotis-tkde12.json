@@ -1,0 +1,16 @@
+{
+    "abstract": "A fundamental data integration task faced by online commercial portals and commerce search engines is the integration of products coming from multiple providers to their product catalogs. In this scenario, the commercial portal has its own taxonomy (the \"master taxonomy\"), while each data provider organizes its products into a different taxonomy (the \"provider taxonomy\"). In this paper, we consider the problem of categorizing products from the data providers into the master taxonomy, while making use of the provider taxonomy information. Our approach is based on a taxonomy-aware processing step that adjusts the results of a text-based classifier to ensure that products that are close together in the provider taxonomy remain close in the master taxonomy. We formulate this intuition as a structured prediction optimization problem. To the best of our knowledge, this is the first approach that leverages the structure of taxonomies in order to enhance catalog integration. We propose algorithms that are scalable and thus applicable to the large datasets that are typical on the Web. We evaluate our algorithms on real-world data and we show that taxonomy-aware classification provides a significant improvement over existing approaches.",
+    "chapter": "1643--1655",
+    "year": "2012",
+    "volume": "25",
+    "title": "TACI: Taxonomy-Aware Catalog Integration",
+    "type": "article",
+    "links": [],
+    "authors": [
+        "Papadimitriou Panagiotis",
+        "Tsaparas Panayiotis",
+        "Fuxman Ariel",
+        "Lise Getoor"
+    ],
+    "venue": "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
+}

@@ -1,0 +1,12 @@
+{
+    "note": "An extended version of this paper can be found at http://linqs.cs.umd.edu/basilic/web/Publications/2008/zheleva:kdd07-lncs/",
+    "year": "2007",
+    "title": "Preserving the Privacy of Sensitive Relationships in Graph Data",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Elena Zheleva",
+        "Lise Getoor"
+    ],
+    "venue": "KDD Workshop on Privacy, Security, and Trust in KDD (PinKDD)"
+}

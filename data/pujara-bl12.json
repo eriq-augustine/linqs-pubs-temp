@@ -1,0 +1,12 @@
+{
+    "abstract": "<p>In the past decade, a number of advances in topic modeling have produced sophisticated models that are capable of generating hierarchies of topics. One challenge for these models is scalability: they are incapable of working at the massive scale of millions of documents and hundreds of thousands of terms. We address this challenge with a technique that learns a hierarchy of topics by iteratively applying topic models and processing subtrees of the hierarchy in parallel. This approach has a number of scalability advantages compared to existing techniques, and shows promising results in experiments assessing runtime and human evaluations of quality. We detail extensions to this approach that may further improve hierarchical topic modeling for large-scale applications.</p>",
+    "year": "2012",
+    "title": "Large-Scale Hierarchical Topic Models",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Jay Pujara",
+        "Peter Skomoroch"
+    ],
+    "venue": "NIPS Workshop on Big Learn (BL)"
+}

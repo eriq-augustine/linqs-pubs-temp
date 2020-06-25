@@ -1,0 +1,16 @@
+{
+    "abstract": "<p>Microblogging sites like Twitter provide a platform for sharing ideas and expressing opinions. The widespread popularity of these platforms and the complex social structure that arises within these communities provides a unique opportunity to understand the interactions between users. The political domain, especially in a multi-party system, presents compelling challenges, as political parties have different levels of alignment based on their political strategies. We use Twitter to understand the nuanced relationships between differing political entities in Latin America. Our model incorporates diverse signals from the content of tweets and social context from retweets, mentions and hashtag usage. Since direct communications between entities are relatively rare, we explore models based on the posts of users who interact with multiple political organizations. We present a quantitative and qualitative analysis of the results of models using different features, and demonstrate that a model capable of using sentiment strength, social context, and issue alignment has superior performance to less sophisticated baselines.</p>",
+    "year": "2016",
+    "title": "Unsupervised Models for Predicting Strategic Relations between Organizations",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Shachi Kumar",
+        "Jay Pujara",
+        "Lise Getoor",
+        "David Mares",
+        "Dipak Gupta",
+        "Ellen Riloff"
+    ],
+    "venue": "International Conference on Advances in Social Networks Analysis and Mining (ASONAM)"
+}

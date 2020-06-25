@@ -1,0 +1,13 @@
+{
+    "abstract": "Data describing networks (communication networks, transaction networks, disease transmission networks, collaboration networks, etc.) is becoming increasingly ubiquitous.While this observational data is useful, it often only hintsat the actual underlying social or technological structureswhich give rise to the interactions. For example, an emailcommunication network provides useful insight but is notthe same as the \"real\" social network among individuals. Inthis paper, we introduce the problem of graph identification,i.e., the discovery of the true graph structure underlyingan observed network. We cast the problem as a probabilistic inference task, in which we must infer the nodes, edges,and node labels of a hidden graph, based on evidence provided by the observed network. This in turn correspondsto the problems of performing entity resolution, link prediction, and node labeling to infer the hidden graph. Whileeach of these problems have been studied separately, theyhave never been considered together as a coherent task. Wepresent a simple yet novel approach to address all three problems simultaneously. Our approach, called C3, consists ofCoupled Collective Classifiers that are iteratively appliedto propagate information among solutions to the problems.We empirically demonstrate that C3is superior, in termsof both predictive accuracy and runtime, to state-of-the-artprobabilistic approaches on three real-world problems.",
+    "year": "2011",
+    "title": "Collective Graph Identification",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Galileo Mark Namata",
+        "Stanley Kok",
+        "Lise Getoor"
+    ],
+    "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)"
+}

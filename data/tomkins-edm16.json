@@ -1,0 +1,14 @@
+{
+    "keywords": "high school MOOCs, online education, student learning",
+    "abstract": "<p>With the success and proliferation of Massive Open Online Courses (MOOCs) for college curricula, there is demand for adapting this modern mode of education for high school courses. Online and open courses have the potential to fill a much needed gap in high school curricula, especially in fields such as computer science, where there is shortage of trained teachers nationwide. In this paper, we analyze student post-test performance to determine the success of a high school computer science MOOC. We empirically characterize student success by using students' performance on the Advanced Placement (AP) exam, which we treat as a post test. This post-test performance is more indicative of long-term learning than course performance, and allows us to model the extent to which students have internalized course material. Additionally, we analyze and compare the performance of a subset of students who received in-person coaching at their high school, to those students who took the course independently. This comparison provides better understanding of the role of a teacher in a student's learning. We build a predictive machine learning model, and use it to identify the key factors contributing to the success of online high school courses. Our analysis demonstrates that high schoolers can thrive in MOOCs.</p>",
+    "year": "2016",
+    "title": "Predicting Post-Test Performance from Online Student Behavior: A High School MOOC Case Study",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Sabina Tomkins",
+        "Arti Ramesh",
+        "Lise Getoor"
+    ],
+    "venue": "Educational Data Mining (EDM)"
+}

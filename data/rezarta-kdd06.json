@@ -1,0 +1,19 @@
+{
+    "address": "Berlin, Germany",
+    "organization": "Springer",
+    "publisher": "Springer",
+    "pages": "553-560",
+    "month": "September",
+    "year": "2006",
+    "volume": "4213",
+    "series": "Lecture Notes in Computer Science",
+    "title": "Feature Generation Algorithm: an Application to Splice Site Prediction",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Rezarta Islamaj",
+        "Lise Getoor",
+        "W. John Wilbur"
+    ],
+    "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)"
+}

@@ -1,0 +1,15 @@
+{
+    "address": "Baltimore",
+    "month": "October",
+    "year": "2006",
+    "title": "D-Dupe: An Interactive Tool for Entity Resolution in Social Networks",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Mustafa Bilgic",
+        "Louis Licamele",
+        "Lise Getoor",
+        "Ben Shneiderman"
+    ],
+    "venue": "Visual Analytics Science and Technology (VAST)"
+}

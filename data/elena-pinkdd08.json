@@ -1,0 +1,18 @@
+{
+    "organization": "Springer",
+    "publisher": "Springer",
+    "pages": "153-171",
+    "month": "March",
+    "note": "This is an extended version of the original workshop paper.",
+    "year": "2008",
+    "volume": "4890",
+    "series": "Lecture Notes in Computer Science",
+    "title": "Preserving the Privacy of Sensitive Relationships in Graph Data",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Elena Zheleva",
+        "Lise Getoor"
+    ],
+    "venue": "KDD Workshop on Privacy, Security, and Trust in KDD (PinKDD)"
+}

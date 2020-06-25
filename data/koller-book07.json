@@ -1,0 +1,22 @@
+{
+    "editor": "Lise Getoor and Benjamin Taskar",
+    "abstract": "<p>Probabilistic graphical models are an elegant framework which combines uncertainty (probabilities) and logical structure (independence constraints) to compactly represent complex, real-world phenomena. The framework is quite general in that many of the commonly proposed statistical models (Kalman filters, hidden Markov models, Ising models) can be described as graphical models. Graphical models have enjoyed a surge of interest in the last two decades, due both to the flexibility and power of the representation and to the increased ability to effectively learn and perform inference in large networks.</p>",
+    "chapter": "2",
+    "edition": "1",
+    "organization": "MIT Press",
+    "publisher": "MIT Press",
+    "pages": "13--55",
+    "year": "2007",
+    "volume": "1",
+    "series": "An Introduction to Statistical Relational Learning",
+    "title": "Graphical Models in a Nutshell",
+    "type": "book",
+    "links": [],
+    "authors": [
+        "Daphne Koller",
+        "Nir Friedman",
+        "Lise Getoor",
+        "Benjamin Taskar"
+    ],
+    "venue": "Book"
+}

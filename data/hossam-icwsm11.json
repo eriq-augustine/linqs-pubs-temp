@@ -1,0 +1,13 @@
+{
+    "abstract": "<p>Viral marketing mechanisms use the existing social network between customers to spread information about products and encourage product adoption. Existing viral marketing modelsfocus on the dynamics of the diffusion process, however theytypically: (a) only consider a single product campaign and (b)fail to model the evolution of the social network, as the trustbetween individuals changes over time, during the course ofmultiple campaigns. In this work, we propose an adaptive viralmarketing model which captures: (1) multiple differentproduct campaigns, (2) the diversity in customer preferencesamong different product categories, and (3) changing confidencein peers' recommendations over time. By applyingour model to a real-world network extracted from the Diggsocial news website, we provide insights into the effects ofnetwork dynamics on the different products' adoption. Ourexperiments show that our proposed model outperforms earliernon-adaptive diffusion models in predicting future productadoptions. We also show how this model can be used toexplore new viral marketing strategies that are more successfulthan classic strategies which ignore the dynamic nature ofsocial networks.</p>",
+    "year": "2011",
+    "title": "Differential Adaptive Diffusion: Understanding Diversity and Learning whom to Trust in Viral Marketing",
+    "type": "conference",
+    "links": [],
+    "authors": [
+        "Hossam Sharara",
+        "William Rand",
+        "Lise Getoor"
+    ],
+    "venue": " International Conference on Web and Social Media (ICWSM)"
+}
