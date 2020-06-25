@@ -1,5 +1,5 @@
 {
-    "type": "unpublished",
+    "type": "techreport",
     "authors": [
         "Tamer Elsayed",
         "Doug Oard",
@@ -7,10 +7,8 @@
         "Lise Getoor"
     ],
     "title": "Personal Name Resolution in Email: A Heuristic Approach",
-    "venue": "unknown (UNKNOWN)",
     "year": "2008",
-    "publisher": "University of Maryland, College Park",
-    "month": "March",
+    "venue": "University of Maryland, College Park",
     "number": "LAMP-TR150",
     "links": []
 }

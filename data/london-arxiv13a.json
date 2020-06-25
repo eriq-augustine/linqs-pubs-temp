@@ -6,9 +6,9 @@
         "Lise Getoor"
     ],
     "title": "Graph-based Generalization Bounds for Learning Binary Relations",
-    "venue": "unknown (UNKNOWN)",
+    "venue": "arXiv",
     "year": "2013",
-    "publisher": "University of Maryland College Park",
-    "note": "http://arxiv.org/abs/1302.5348",
-    "links": []
+    "links": [
+        {"label": "paper", "href": "http://arxiv.org/abs/1302.5348"}
+    ]
 }

@@ -7,9 +7,9 @@
         "Lise Getoor"
     ],
     "title": "Multi-relational Learning Using Weighted Tensor Decomposition with Modular Loss",
-    "venue": "unknown (UNKNOWN)",
+    "venue": "arXiv",
     "year": "2013",
-    "publisher": "University of Maryland College Park",
-    "note": "http://arxiv.org/abs/1303.1733",
-    "links": []
+    "links": [
+        {"label": "paper", "href": "http://arxiv.org/abs/1303.1733"}
+    ]
 }
