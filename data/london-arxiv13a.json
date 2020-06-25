@@ -5,10 +5,13 @@
         "Bert Huang",
         "Lise Getoor"
     ],
-    "title": "Graph-based Generalization Bounds for Learning Binary Relations",
+    "title": "Graph-Based Generalization Bounds for Learning Binary Relations",
     "venue": "arXiv",
     "year": "2013",
     "links": [
-        {"label": "paper", "href": "http://arxiv.org/abs/1302.5348"}
+        {
+            "label": "paper",
+            "href": "http://arxiv.org/abs/1302.5348"
+        }
     ]
 }

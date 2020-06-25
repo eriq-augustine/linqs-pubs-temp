@@ -6,10 +6,13 @@
         "Bert Huang",
         "Lise Getoor"
     ],
-    "title": "Multi-relational Learning Using Weighted Tensor Decomposition with Modular Loss",
+    "title": "Multi-Relational Learning Using Weighted Tensor Decomposition with Modular Loss",
     "venue": "arXiv",
     "year": "2013",
     "links": [
-        {"label": "paper", "href": "http://arxiv.org/abs/1303.1733"}
+        {
+            "label": "paper",
+            "href": "http://arxiv.org/abs/1303.1733"
+        }
     ]
 }
