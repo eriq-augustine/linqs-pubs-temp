@@ -13,7 +13,6 @@
     "volume": "1",
     "chapter": "10",
     "editor": "Charu Aggarwal",
-    "organization": "Springer",
     "series": "Social Network Data Analytics",
     "links": [],
     "abstract": "<p>In this chapter, we survey the literature on privacy in social networks. We focus both on online social networks and online affiliation networks. We formally define the possible privacy breaches and describe the privacy attacks that have been studied. We present definitions of privacy in the context of anonymization together with existing anonymization techniques.</p>"
