@@ -19,6 +19,7 @@ REQUIRED_KEYS = [
 
 SKIP_KEYS = [
     'month',
+    'series',
 ]
 
 # Keys (outside of REQUIRED_KEYS) that are required for specific types.
@@ -44,13 +45,11 @@ SORTED_KEYS = [
     'address',
     'keywords',
     'pages',
-    'month',
     'volume',
     'chapter',
     'editor',
     'organization',
     'note',
-    'series',
     'number',
     'doi',
     'edition',
