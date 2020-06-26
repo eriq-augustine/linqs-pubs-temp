@@ -5,7 +5,7 @@ import os
 import re
 
 DATA_PATH = 'data'
-WRITE_BACK_FILE = True
+WRITE_BACK_FILE = False
 
 ALLOWED_TYPES = {'article', 'book', 'conference', 'inbook', 'phdthesis', 'techreport', 'tutorial', 'unpublished'}
 
@@ -156,9 +156,6 @@ def main():
     for dirent in sorted(os.listdir(DATA_PATH)):
         path = os.path.join(DATA_PATH, dirent)
 
-        # TEST
-        # print(path)
-
         with open(path, 'r') as file:
             data = sortKeys(json.load(file))
 
@@ -169,6 +166,7 @@ def main():
         if (WRITE_BACK_FILE):
             with open(path, 'w') as file:
                 json.dump(data, file, indent = 4)
+                file.write("\n")
 
 if (__name__ == '__main__'):
     main()
