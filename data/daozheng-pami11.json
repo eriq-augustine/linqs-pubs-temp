@@ -1,12 +1,12 @@
 {
     "type": "article",
+    "title": "Dynamic Processing Allocation in Video",
     "authors": [
         "Chen Daozheng",
         "Bilgic Mustafa",
         "Lise Getoor",
         "Jacobs David"
     ],
-    "title": "Dynamic Processing Allocation in Video",
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)",
     "year": "2011",
     "pages": "2174--2187",

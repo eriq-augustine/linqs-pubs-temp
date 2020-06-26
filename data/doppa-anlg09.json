@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Chance-Constrained Programs for Link Prediction",
     "authors": [
         "Janardhan Doppa",
         "Jun Yu",
         "Prasad Tadepalli",
         "Lise Getoor"
     ],
-    "title": "Chance-Constrained Programs for Link Prediction",
     "venue": "NIPS Workshop on Analyzing Networks and Learning with Graphs (ANLG)",
     "year": "2009",
     "links": []

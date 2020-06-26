@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Leveraging Data and Structure in Ontology Integration",
     "authors": [
         "Octavian Udrea",
         "Lise Getoor",
         "Ren\u00e9e J. Miller"
     ],
-    "title": "Leveraging Data and Structure in Ontology Integration",
     "venue": "International Conference on Management of Data (SIGMOD)",
     "year": "2007",
     "pages": "449--460",

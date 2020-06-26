@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Entity Resolution in Geospatial Data Integration",
     "authors": [
         "Vivek Sehgal",
         "Lise Getoor",
         "Peter Viechnicki"
     ],
-    "title": "Entity Resolution in Geospatial Data Integration",
     "venue": "International Conference on Advances in Geographic Information Systems (SIGSPATIAL)",
     "year": "2006",
     "links": []

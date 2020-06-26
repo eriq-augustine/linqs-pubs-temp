@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Decision-Driven Models with Probabilistic Soft Logic",
     "authors": [
         "Stephen Bach",
         "Matthias Broecheler",
         "Stanley Kok",
         "Lise Getoor"
     ],
-    "title": "Decision-Driven Models with Probabilistic Soft Logic",
     "venue": "NIPS Workshop on Predictive Models in Personalized Medicine (PMPM)",
     "year": "2010",
     "links": []

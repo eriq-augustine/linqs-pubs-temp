@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Coarse-to-Fine, Cost-Sensitive Classification of E-Mail",
     "authors": [
         "Jay Pujara",
         "Lise Getoor"
     ],
-    "title": "Coarse-to-Fine, Cost-Sensitive Classification of E-Mail",
     "venue": "NIPS Workshop on Coarse-to-Fine Processing (CTFP)",
     "year": "2010",
     "links": []

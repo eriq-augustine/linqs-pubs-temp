@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Entity Resolution in Familial Networks",
     "authors": [
         "Pigi Kouki",
         "Christopher Marcum",
         "Laura Koehly",
         "Lise Getoor"
     ],
-    "title": "Entity Resolution in Familial Networks",
     "venue": "KDD Workshop on Mining and Learning with Graphs (MLG)",
     "year": "2016",
     "links": [],

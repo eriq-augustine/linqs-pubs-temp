@@ -1,11 +1,11 @@
 {
     "type": "article",
+    "title": "Learning Structured Statistical Models From Relational Data",
     "authors": [
         "Lise Getoor",
         "Nir Friedman",
         "Daphne Koller"
     ],
-    "title": "Learning Structured Statistical Models From Relational Data",
     "venue": "Electronic Transactions on Artificial Intelligence (ETAI)",
     "year": "2002",
     "pages": "1--13",

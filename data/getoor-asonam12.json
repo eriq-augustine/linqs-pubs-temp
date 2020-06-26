@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Entity Resolution for Social Network Analysis and Mining",
     "authors": [
         "Lise Getoor",
         "Ashwin Machanavajjhala"
     ],
-    "title": "Entity Resolution for Social Network Analysis and Mining",
     "venue": "International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
     "year": "2012",
     "publisher": "IEEE",

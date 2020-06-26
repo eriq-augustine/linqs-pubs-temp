@@ -1,14 +1,14 @@
 {
     "type": "article",
+    "title": "An Introduction to Probabilistic Graphical Models for Relational Data",
     "authors": [
         "Lise Getoor"
     ],
-    "title": "An Introduction to Probabilistic Graphical Models for Relational Data",
     "venue": "IEEE Data Engineering Bulletin (DEBU)",
     "year": "2006",
-    "publisher": "IEEE",
     "pages": "32--39",
     "volume": "29",
     "number": "1",
+    "publisher": "IEEE",
     "links": []
 }

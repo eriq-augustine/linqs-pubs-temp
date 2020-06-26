@@ -1,5 +1,6 @@
 {
     "type": "article",
+    "title": "Soft Quantification in Statistical Relational Learning",
     "authors": [
         "Golnoosh Farnadi",
         "Stephen Bach",
@@ -7,7 +8,6 @@
         "Lise Getoor",
         "Martine De Cock"
     ],
-    "title": "Soft Quantification in Statistical Relational Learning",
     "venue": "Machine Learning Journal (MLJ)",
     "year": "2017",
     "pages": "1971--1991",

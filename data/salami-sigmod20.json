@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Causal Relational Learning",
     "authors": [
         "Babak Salami",
         "Harsh Parikh",
@@ -8,7 +9,6 @@
         "Lise Getoor",
         "Dan Suciu"
     ],
-    "title": "Causal Relational Learning",
     "venue": "International Conference on Management of Data (SIGMOD)",
     "year": "2020",
     "links": [],

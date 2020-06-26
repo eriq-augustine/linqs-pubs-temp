@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Fairness in Relational Domains",
     "authors": [
         "Golnoosh Farnadi",
         "Behrouz Babaki",
         "Lise Getoor"
     ],
-    "title": "Fairness in Relational Domains",
     "venue": "Artificial Intelligence, Ethics, and Society (AIES)",
     "year": "2018",
     "links": [],

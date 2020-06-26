@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Empirical Analysis of Collective Stability",
     "authors": [
         "Bert Huang",
         "Ben London",
         "Benjamin Taskar",
         "Lise Getoor"
     ],
-    "title": "Empirical Analysis of Collective Stability",
     "venue": "ICML Workshop on Structured Learning; Inferring Graphs from Structured and Unstructured Inputs (SLG)",
     "year": "2013",
     "links": [],

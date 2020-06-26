@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Entity Resolution: Theory, Practice, and Open Challenges",
     "authors": [
         "Lise Getoor",
         "Ashwin Machanavajjhala"
     ],
-    "title": "Entity Resolution: Theory, Practice, and Open Challenges",
     "venue": "National Conference on Artificial Intelligence (AAAI)",
     "year": "2012",
     "note": "URL: http://www.cs.umd.edu/projects/linqs/Tutorials/ER-AAAI12/Home.html",

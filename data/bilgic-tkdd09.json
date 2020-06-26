@@ -1,10 +1,10 @@
 {
     "type": "article",
+    "title": "Reflect and Correct: A Misclassification Prediction Approach to Active Inference",
     "authors": [
         "Mustafa Bilgic",
         "Lise Getoor"
     ],
-    "title": "Reflect and Correct: A Misclassification Prediction Approach to Active Inference",
     "venue": "ACM Transactions on Knowledge Discovery from Data (TKDD)",
     "year": "2009",
     "pages": "1--32",

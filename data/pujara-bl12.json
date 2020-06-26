@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Large-Scale Hierarchical Topic Models",
     "authors": [
         "Jay Pujara",
         "Peter Skomoroch"
     ],
-    "title": "Large-Scale Hierarchical Topic Models",
     "venue": "NIPS Workshop on Big Learn (BL)",
     "year": "2012",
     "links": [],

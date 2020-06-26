@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "GrDB: A System for Declarative and Interactive Analysis of Noisy Information Networks",
     "authors": [
         "Walaa Eldin Moustafa",
         "Hui Miao",
         "Amol Deshpande",
         "Lise Getoor"
     ],
-    "title": "GrDB: A System for Declarative and Interactive Analysis of Noisy Information Networks",
     "venue": "International Conference on Management of Data (SIGMOD)",
     "year": "2013",
     "links": [],

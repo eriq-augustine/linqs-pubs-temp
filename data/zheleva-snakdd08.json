@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Using Friendship Ties and Family Circles for Link Prediction",
     "authors": [
         "Elena Zheleva",
         "Lise Getoor",
         "Jennifer Golbeck",
         "Ugur Kuter"
     ],
-    "title": "Using Friendship Ties and Family Circles for Link Prediction",
     "venue": "KDD Workshop on Social Network Mining and Analysis (SNAKDD)",
     "year": "2008",
     "links": []

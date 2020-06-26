@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Drug-Target Interaction Prediction for Drug Repurposing with Probabilistic Similarity Logic",
     "authors": [
         "Shobeir Fakhraei",
         "Louiqa Raschid",
         "Lise Getoor"
     ],
-    "title": "Drug-Target Interaction Prediction for Drug Repurposing with Probabilistic Similarity Logic",
     "venue": "KDD Workshop on Data Mining in Bioinformatics (BIOKDD)",
     "year": "2013",
     "publisher": "ACM",

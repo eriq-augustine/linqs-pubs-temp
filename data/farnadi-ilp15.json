@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Statistical Relational Learning with Soft Quantifiers",
     "authors": [
         "Golnoosh Farnadi",
         "Stephen Bach",
@@ -8,7 +9,6 @@
         "Lise Getoor",
         "Martine De Cock"
     ],
-    "title": "Statistical Relational Learning with Soft Quantifiers",
     "venue": "International Conference on Inductive Logic Programming (ILP)",
     "year": "2015",
     "note": "Winner of Best Student Paper award.",

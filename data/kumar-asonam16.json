@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Unsupervised Models for Predicting Strategic Relations between Organizations",
     "authors": [
         "Shachi Kumar",
         "Jay Pujara",
@@ -8,7 +9,6 @@
         "Dipak Gupta",
         "Ellen Riloff"
     ],
-    "title": "Unsupervised Models for Predicting Strategic Relations between Organizations",
     "venue": "International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
     "year": "2016",
     "links": [],

@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "From Instances to Classes in Probabilistic Relational Models",
     "authors": [
         "Lise Getoor",
         "Daphne Koller",
         "Nir Friedman"
     ],
-    "title": "From Instances to Classes in Probabilistic Relational Models",
     "venue": "ICML Workshop on Attribute-Value and Relational Learning: Crossing the Boundaries (AVRL)",
     "year": "2000",
     "links": []

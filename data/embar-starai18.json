@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Scalable Structure Learning for Probabilistic Soft Logic",
     "authors": [
         "Varun Embar",
         "Dhanya Sridhar",
         "Golnoosh Farnadi",
         "Lise Getoor"
     ],
-    "title": "Scalable Structure Learning for Probabilistic Soft Logic",
     "venue": "IJCAI Workshop on Statistical Relational AI (StarAI)",
     "year": "2018",
     "links": [],

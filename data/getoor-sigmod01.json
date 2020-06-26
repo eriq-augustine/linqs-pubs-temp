@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Selectivity Estimation Using Probabilistic Relational Models",
     "authors": [
         "Lise Getoor",
         "Daphne Koller",
         "Benjamin Taskar"
     ],
-    "title": "Selectivity Estimation Using Probabilistic Relational Models",
     "venue": "International Conference on Management of Data (SIGMOD)",
     "year": "2001",
     "links": []

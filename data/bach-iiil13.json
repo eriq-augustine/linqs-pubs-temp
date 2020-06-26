@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Learning Latent Groups with Hinge-Loss Markov Random Fields",
     "authors": [
         "Stephen Bach",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "title": "Learning Latent Groups with Hinge-Loss Markov Random Fields",
     "venue": "ICML Workshop on Inferning Interactions between Inference and Learning (IIIL)",
     "year": "2013",
     "links": []

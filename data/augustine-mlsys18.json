@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "A Comparison of Bottom-Up Approaches to Grounding for Templated Markov Random Fields",
     "authors": [
         "Eriq Augustine",
         "Lise Getoor"
     ],
-    "title": "A Comparison of Bottom-Up Approaches to Grounding for Templated Markov Random Fields",
     "venue": "Conference on Machine Learning and Systems (MLSys)",
     "year": "2018",
     "links": [

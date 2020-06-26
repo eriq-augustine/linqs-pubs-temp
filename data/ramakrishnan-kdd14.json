@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "'Beating the News' with EMBERS: Forecasting Civil Unrest Using Open Source Indicators",
     "authors": [
         "Naren Ramakrishnan",
         "Patrick Butler",
@@ -29,7 +30,6 @@
         "Dipak Gupta",
         "David Mares"
     ],
-    "title": "'Beating the News' with EMBERS: Forecasting Civil Unrest Using Open Source Indicators",
     "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
     "year": "2014",
     "links": [],

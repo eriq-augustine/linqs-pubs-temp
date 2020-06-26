@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Scaling MPE Inference for Constrained Continuous Markov Random Fields with Consensus Optimization",
     "authors": [
         "Stephen Bach",
         "Matthias Broecheler",
         "Lise Getoor",
         "Dianne O'Leary"
     ],
-    "title": "Scaling MPE Inference for Constrained Continuous Markov Random Fields with Consensus Optimization",
     "venue": "Conference on Neural Information Processing Systems (NIPS)",
     "year": "2012",
     "links": [],

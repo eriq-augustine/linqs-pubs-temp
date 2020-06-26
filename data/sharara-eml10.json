@@ -1,15 +1,15 @@
 {
     "type": "inbook",
+    "title": "Group Detection",
     "authors": [
         "Hossam Sharara",
         "Lise Getoor"
     ],
-    "title": "Group Detection",
     "venue": "Encyclopedia of Machine Learning (EML)",
     "year": "2010",
-    "publisher": "Springer-Verlag",
     "pages": "489--492",
-    "editor": "Claude Sammut and Geoffrey I. Webb",
     "edition": "1",
+    "editor": "Claude Sammut and Geoffrey I. Webb",
+    "publisher": "Springer-Verlag",
     "links": []
 }

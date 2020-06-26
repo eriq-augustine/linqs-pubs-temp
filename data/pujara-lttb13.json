@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Joint Judgments with a Budget: Strategies for Reducing the Cost of Inference",
     "authors": [
         "Jay Pujara",
         "Hui Miao",
         "Lise Getoor"
     ],
-    "title": "Joint Judgments with a Budget: Strategies for Reducing the Cost of Inference",
     "venue": "ICML Workshop on Learning with Test-Time Budgets (LTTB)",
     "year": "2013",
     "links": []

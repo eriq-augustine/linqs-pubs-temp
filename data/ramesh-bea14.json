@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Understanding MOOC Discussion Forums Using Seeded LDA",
     "authors": [
         "Arti Ramesh",
         "Dan Goldwasser",
@@ -7,7 +8,6 @@
         "Hal Daume III",
         "Lise Getoor"
     ],
-    "title": "Understanding MOOC Discussion Forums Using Seeded LDA",
     "venue": "ACL Workshop on Innovative Use of NLP for Building Educational Applications (BEA)",
     "year": "2014",
     "publisher": "ACL",

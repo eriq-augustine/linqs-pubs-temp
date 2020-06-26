@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Active Inference for Retrieval in Camera Networks",
     "authors": [
         "Chen Daozheng",
         "Bilgic Mustafa",
@@ -8,7 +9,6 @@
         "Mihalkova Lilyana",
         "Yeh Tom"
     ],
-    "title": "Active Inference for Retrieval in Camera Networks",
     "venue": "IEEE Workshop on Person-Oriented Vision (POV)",
     "year": "2011",
     "links": [],

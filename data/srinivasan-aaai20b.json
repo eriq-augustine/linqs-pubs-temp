@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Tandem Inference: An Out-of-Core Streaming Algorithm for Very Large-Scale Relational Inference",
     "authors": [
         "Sriram Srinivasan",
         "Eriq Augustine",
         "Lise Getoor"
     ],
-    "title": "Tandem Inference: An Out-of-Core Streaming Algorithm for Very Large-Scale Relational Inference",
     "venue": "National Conference on Artificial Intelligence (AAAI)",
     "year": "2020",
     "links": [],

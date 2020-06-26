@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Scalable Probabilistic Causal Structure Discovery",
     "authors": [
         "Dhanya Sridhar",
         "Jay Pujara",
         "Lise Getoor"
     ],
-    "title": "Scalable Probabilistic Causal Structure Discovery",
     "venue": "International Joint Conference on Artificial Intelligence (IJCAI)",
     "year": "2018",
     "links": [

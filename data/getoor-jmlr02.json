@@ -1,12 +1,12 @@
 {
     "type": "article",
+    "title": "Learning Probabilistic Models of Link Structure",
     "authors": [
         "Lise Getoor",
         "Nir Friedman",
         "Daphne Koller",
         "Benjamin Taskar"
     ],
-    "title": "Learning Probabilistic Models of Link Structure",
     "venue": "Journal of Machine Learning Research (JMLR)",
     "year": "2002",
     "pages": "679--707",

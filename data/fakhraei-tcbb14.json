@@ -1,12 +1,12 @@
 {
     "type": "article",
+    "title": "Network-Based Drug-Target Interaction Prediction with Probabilistic Soft Logic",
     "authors": [
         "Shobeir Fakhraei",
         "Bert Huang",
         "Louiqa Raschid",
         "Lise Getoor"
     ],
-    "title": "Network-Based Drug-Target Interaction Prediction with Probabilistic Soft Logic",
     "venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)",
     "year": "2014",
     "pages": "775--787",

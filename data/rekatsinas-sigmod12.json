@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Local Structure and Determinism in Probabilistic Databases",
     "authors": [
         "Theodoros Rekatsinas",
         "Amol Deshpande",
         "Lise Getoor"
     ],
-    "title": "Local Structure and Determinism in Probabilistic Databases",
     "venue": "International Conference on Management of Data (SIGMOD)",
     "year": "2012",
     "links": [],

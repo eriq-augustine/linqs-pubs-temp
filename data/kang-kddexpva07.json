@@ -1,11 +1,11 @@
 {
     "type": "article",
+    "title": "Visual Analysis of Dynamic Group Membership in Temporal Social Networks",
     "authors": [
         "Hyunmo Kang",
         "Lise Getoor",
         "Lisa Singh"
     ],
-    "title": "Visual Analysis of Dynamic Group Membership in Temporal Social Networks",
     "venue": "SIGKDD Explorations Newsletter - Special Issue on Visual Analytics (KDDExpVA)",
     "year": "2007",
     "pages": "13--21",

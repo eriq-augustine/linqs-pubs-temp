@@ -1,9 +1,9 @@
 {
     "type": "phdthesis",
+    "title": "A Probabilistic Approach to Modeling Socio-Behavioral Interactions",
     "authors": [
         "Arti Ramesh"
     ],
-    "title": "A Probabilistic Approach to Modeling Socio-Behavioral Interactions",
     "venue": "University of Maryland, College Park",
     "year": "2016",
     "keywords": "MOOC, Socio-behavioral models, latent variable models, learning analytics, structured prediction",

@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Probabilistic Soft Logic for Trust Analysis in Social Networks",
     "authors": [
         "Bert Huang",
         "Angelika Kimmig",
         "Lise Getoor",
         "Jennifer Golbeck"
     ],
-    "title": "Probabilistic Soft Logic for Trust Analysis in Social Networks",
     "venue": "UAI Workshop on Statistical Relational Artificial Intelligence (StarAI)",
     "year": "2012",
     "links": [],

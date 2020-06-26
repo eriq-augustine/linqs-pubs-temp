@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "The Impact of Environmental Stressors on Human Trafficking",
     "authors": [
         "Sabina Tomkins",
         "Golnoosh Farnadi",
@@ -7,7 +8,6 @@
         "Lise Getoor",
         "Steven Minton"
     ],
-    "title": "The Impact of Environmental Stressors on Human Trafficking",
     "venue": "International Conference on Data Mining (ICDM)",
     "year": "2018",
     "links": [],

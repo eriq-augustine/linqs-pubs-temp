@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Extending PSL with Fuzzy Quantifiers",
     "authors": [
         "Golnoosh Farnadi",
         "Stephen Bach",
@@ -7,7 +8,6 @@
         "Lise Getoor",
         "Martine De Cock"
     ],
-    "title": "Extending PSL with Fuzzy Quantifiers",
     "venue": "AAAI Workshop on Statistical Relational Artificial Intelligence (StarAI)",
     "year": "2014",
     "links": []

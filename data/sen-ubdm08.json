@@ -1,10 +1,10 @@
 {
     "type": "article",
+    "title": "Cost-Sensitive Learning with Conditional Markov Networks",
     "authors": [
         "Prithviraj Sen",
         "Lise Getoor"
     ],
-    "title": "Cost-Sensitive Learning with Conditional Markov Networks",
     "venue": "A Special Issue of The Data Mining and Knowledge Discovery Journal on Utility-Based Data Mining (UBDM)",
     "year": "2008",
     "pages": "136--163",

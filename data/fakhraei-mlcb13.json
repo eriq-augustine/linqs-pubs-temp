@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Collective Inference and Multi-Relational Learning for Drug\u2013Target Interaction Prediction",
     "authors": [
         "Shobeir Fakhraei",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "title": "Collective Inference and Multi-Relational Learning for Drug\u2013Target Interaction Prediction",
     "venue": "NIPS Workshop on Machine Learning in Computational Biology (MLCB)",
     "year": "2013",
     "links": [],

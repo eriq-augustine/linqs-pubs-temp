@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Entity Resolution: Theory, Practice & Open Challenges",
     "authors": [
         "Lise Getoor",
         "Ashwin Machanavajjhala"
     ],
-    "title": "Entity Resolution: Theory, Practice & Open Challenges",
     "venue": "International Conference on Very Large Data Bases (VLDB)",
     "year": "2012",
     "note": "Slides: http://www.cs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf",

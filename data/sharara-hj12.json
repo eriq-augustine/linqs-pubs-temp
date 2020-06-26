@@ -1,17 +1,17 @@
 {
     "type": "article",
+    "title": "Finding Prominent Actors in Dynamic Affiliation Networks",
     "authors": [
         "Hossam Sharara",
         "Lisa Singh",
         "Lise Getoor"
     ],
-    "title": "Finding Prominent Actors in Dynamic Affiliation Networks",
     "venue": "Human Journal (HJ)",
     "year": "2012",
-    "publisher": "Academy of Science and Engineering",
     "pages": "1--14",
     "volume": "1",
-    "note": "Best Paper Award in ASE Conference 2012",
     "number": "1",
+    "publisher": "Academy of Science and Engineering",
+    "note": "Best Paper Award in ASE Conference 2012",
     "links": []
 }

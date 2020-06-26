@@ -1,15 +1,15 @@
 {
     "type": "article",
+    "title": "Collective Entity Resolution in Relational Data",
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "title": "Collective Entity Resolution in Relational Data",
     "venue": "IEEE Data Engineering Bulletin (DEBU)",
     "year": "2006",
-    "publisher": "IEEE",
     "pages": "4--12",
     "volume": "29",
     "number": "2",
+    "publisher": "IEEE",
     "links": []
 }

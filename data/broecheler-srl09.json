@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Probabilistic Similarity Logic",
     "authors": [
         "Matthias Broecheler",
         "Lise Getoor"
     ],
-    "title": "Probabilistic Similarity Logic",
     "venue": "International Workshop on Statistical Relational Learning (SRL)",
     "year": "2009",
     "links": []

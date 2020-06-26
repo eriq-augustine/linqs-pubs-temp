@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "PXML: A Probabilistic Semistructured Data Model and Algebra",
     "authors": [
         "Edward Hung",
         "Lise Getoor",
         "V. S. Subrahmanian"
     ],
-    "title": "PXML: A Probabilistic Semistructured Data Model and Algebra",
     "venue": "IEEE International Conference on Data Engineering (ICDE)",
     "year": "2003",
     "links": []

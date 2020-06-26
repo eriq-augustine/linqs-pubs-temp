@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Utility Elicitation As a Classification Problem",
     "authors": [
         "Ursulza Chajewska",
         "Lise Getoor",
         "Joseph Norman",
         "Yuval Shahar"
     ],
-    "title": "Utility Elicitation As a Classification Problem",
     "venue": "Uncertainty in Artificial Intelligence (UAI)",
     "year": "1998",
     "links": []

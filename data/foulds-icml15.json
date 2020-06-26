@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Latent Topic Networks: A Versatile Probabilistic Programming Framework for Topic Models",
     "authors": [
         "James Foulds",
         "Shachi Kumar",
         "Lise Getoor"
     ],
-    "title": "Latent Topic Networks: A Versatile Probabilistic Programming Framework for Topic Models",
     "venue": "International Conference on Machine Learning (ICML)",
     "year": "2015",
     "links": [],

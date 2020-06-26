@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Effective Label Acquisition for Collective Classification",
     "authors": [
         "Mustafa Bilgic",
         "Lise Getoor"
     ],
-    "title": "Effective Label Acquisition for Collective Classification",
     "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
     "year": "2008",
     "pages": "43--51",

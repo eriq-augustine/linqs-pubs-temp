@@ -1,9 +1,9 @@
 {
     "type": "phdthesis",
+    "title": "On the Stability of Structured Prediction",
     "authors": [
         "Ben London"
     ],
-    "title": "On the Stability of Structured Prediction",
     "venue": "University of Maryland",
     "year": "2015",
     "links": []

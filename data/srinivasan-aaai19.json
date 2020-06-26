@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Lifted Hinge-Loss Markov Random Fields",
     "authors": [
         "Sriram Srinivasan",
         "Behrouz Babaki",
         "Golnoosh Farnadi",
         "Lise Getoor"
     ],
-    "title": "Lifted Hinge-Loss Markov Random Fields",
     "venue": "National Conference on Artificial Intelligence (AAAI)",
     "year": "2019",
     "links": [],

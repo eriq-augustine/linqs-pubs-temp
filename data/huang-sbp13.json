@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "A Flexible Framework for Probabilistic Models of Social Trust",
     "authors": [
         "Bert Huang",
         "Angelika Kimmig",
         "Lise Getoor",
         "Jennifer Golbeck"
     ],
-    "title": "A Flexible Framework for Probabilistic Models of Social Trust",
     "venue": "International Conference on Social Computing, Behavioral-Cultural Modeling, and Prediction (SBP)",
     "year": "2013",
     "links": [],

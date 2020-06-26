@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Using Probabilistic Relational Models for Collaborative Filtering",
     "authors": [
         "Lise Getoor",
         "Mehran Sahami"
     ],
-    "title": "Using Probabilistic Relational Models for Collaborative Filtering",
     "venue": "KDD Workshop on Web Usage Analysis and User Profiling (WEBKDD)",
     "year": "1999",
     "links": []

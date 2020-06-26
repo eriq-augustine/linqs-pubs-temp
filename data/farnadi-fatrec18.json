@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "A Fairness-Aware Hybrid Recommender System",
     "authors": [
         "Golnoosh Farnadi",
         "Pigi Kouki",
@@ -7,7 +8,6 @@
         "Sriram Srinivasan",
         "Lise Getoor"
     ],
-    "title": "A Fairness-Aware Hybrid Recommender System",
     "venue": "RecSys Workshop on Responsible Recommendation (FATREC)",
     "year": "2018",
     "links": [],

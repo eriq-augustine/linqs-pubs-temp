@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Learning Probabilistic Relational Models",
     "authors": [
         "Lise Getoor",
         "Nir Friedman",
         "Daphne Koller",
         "Avi Pfeffer"
     ],
-    "title": "Learning Probabilistic Relational Models",
     "venue": "Relational Data Mining (RDM)",
     "year": "2001",
     "publisher": "Springer-Verlag",

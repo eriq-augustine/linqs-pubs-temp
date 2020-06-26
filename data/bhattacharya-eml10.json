@@ -1,15 +1,15 @@
 {
     "type": "inbook",
+    "title": "Entity Resolution",
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "title": "Entity Resolution",
     "venue": "Encyclopedia of Machine Learning (EML)",
     "year": "2010",
-    "publisher": "Springer-Verlag",
     "pages": "321--326",
-    "editor": "Claude Sammut and Geoffrey I. Webb",
     "edition": "1",
+    "editor": "Claude Sammut and Geoffrey I. Webb",
+    "publisher": "Springer-Verlag",
     "links": []
 }

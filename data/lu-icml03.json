@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Link-Based Classification",
     "authors": [
         "Qing Lu",
         "Lise Getoor"
     ],
-    "title": "Link-Based Classification",
     "venue": "International Conference on Machine Learning (ICML)",
     "year": "2003",
     "links": []

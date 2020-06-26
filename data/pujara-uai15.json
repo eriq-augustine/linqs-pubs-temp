@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Budgeted Online Collective Inference",
     "authors": [
         "Jay Pujara",
         "Ben London",
         "Lise Getoor"
     ],
-    "title": "Budgeted Online Collective Inference",
     "venue": "Uncertainty in Artificial Intelligence (UAI)",
     "year": "2015",
     "links": [],

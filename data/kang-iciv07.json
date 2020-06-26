@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "GeoDDupe: A Novel Interface for Interactive Entity Resolution in Geospatial Data",
     "authors": [
         "Hyunmo Kang",
         "Vivek Sehgal",
         "Lise Getoor"
     ],
-    "title": "GeoDDupe: A Novel Interface for Interactive Entity Resolution in Geospatial Data",
     "venue": "International Conference on Information Visualization (ICIV)",
     "year": "2007",
     "publisher": "IEEE",

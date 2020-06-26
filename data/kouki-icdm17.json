@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Collective Entity Resolution in Familial Networks",
     "authors": [
         "Pigi Kouki",
         "Jay Pujara",
@@ -7,7 +8,6 @@
         "Laura Koehly",
         "Lise Getoor"
     ],
-    "title": "Collective Entity Resolution in Familial Networks",
     "venue": "International Conference on Data Mining (ICDM)",
     "year": "2017",
     "links": [

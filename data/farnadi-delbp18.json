@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Fairness-Aware Relational Learning and Inference",
     "authors": [
         "Golnoosh Farnadi",
         "Behrouz Babaki",
         "Lise Getoor"
     ],
-    "title": "Fairness-Aware Relational Learning and Inference",
     "venue": "AAAI Workshop on Declarative Learning Based Programming (DeLBP)",
     "year": "2018",
     "links": []

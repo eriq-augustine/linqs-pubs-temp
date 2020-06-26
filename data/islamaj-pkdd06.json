@@ -1,16 +1,16 @@
 {
     "type": "conference",
+    "title": "Feature Generation Algorithm: An Application to Splice Site Prediction",
     "authors": [
         "Rezarta Islamaj",
         "Lise Getoor",
         "W. John Wilbur"
     ],
-    "title": "Feature Generation Algorithm: An Application to Splice Site Prediction",
     "venue": "European Conference on Principles and Practice of Knowledge Discovery in Databases (PKDD)",
     "year": "2006",
-    "publisher": "Springer-Verlag",
-    "address": "Berlin, Germany",
     "pages": "553--560",
     "volume": "4213",
+    "publisher": "Springer-Verlag",
+    "address": "Berlin, Germany",
     "links": []
 }

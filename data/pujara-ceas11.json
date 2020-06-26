@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Using Classifier Cascades for Scalable E-Mail Classification",
     "authors": [
         "Jay Pujara",
         "Hal Daume III",
         "Lise Getoor"
     ],
-    "title": "Using Classifier Cascades for Scalable E-Mail Classification",
     "venue": "Collaboration, Electronic Messaging, Anti-Abuse and Spam Conference (CEAS)",
     "year": "2011",
     "publisher": "ACM",

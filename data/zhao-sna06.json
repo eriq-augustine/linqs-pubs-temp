@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Event Classification and Relationship Labeling in Affiliation Networks",
     "authors": [
         "Bin Zhao",
         "Prithviraj Sen",
         "Lise Getoor"
     ],
-    "title": "Event Classification and Relationship Labeling in Affiliation Networks",
     "venue": "ICML Workshop on Statistical Network Analysis (SNA)",
     "year": "2006",
     "links": []

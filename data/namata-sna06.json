@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Inferring Organizational Titles in Online Communications",
     "authors": [
         "Galileo Mark Namata",
         "Lise Getoor",
         "Christopher Diehl"
     ],
-    "title": "Inferring Organizational Titles in Online Communications",
     "venue": "ICML Workshop on Statistical Network Analysis (SNA)",
     "year": "2006",
     "links": []

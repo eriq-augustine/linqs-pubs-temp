@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "User Preferences for Hybrid Explanations",
     "authors": [
         "Pigi Kouki",
         "James Schaffer",
@@ -7,7 +8,6 @@
         "John O'Donovan",
         "Lise Getoor"
     ],
-    "title": "User Preferences for Hybrid Explanations",
     "venue": "The ACM Conference on Recommender Systems (RecSys)",
     "year": "2017",
     "links": []

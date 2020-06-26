@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "RELLY: Inferring Hypernym Relationships between Relational Phrases",
     "authors": [
         "Adam Grycner",
         "Gerhard Weikum",
@@ -7,7 +8,6 @@
         "James Foulds",
         "Lise Getoor"
     ],
-    "title": "RELLY: Inferring Hypernym Relationships between Relational Phrases",
     "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
     "year": "2015",
     "links": []

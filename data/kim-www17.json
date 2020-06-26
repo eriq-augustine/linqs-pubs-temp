@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Probabilistic Visitor Stitching on Cross-Device Web Logs",
     "authors": [
         "Sungchul Kim",
         "Nikhil Kini",
@@ -7,7 +8,6 @@
         "Eunyee Koh",
         "Lise Getoor"
     ],
-    "title": "Probabilistic Visitor Stitching on Cross-Device Web Logs",
     "venue": "International Conference on World Wide Web (WWW)",
     "year": "2017",
     "pages": "1581--1589",

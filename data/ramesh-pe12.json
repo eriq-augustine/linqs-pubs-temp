@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "User Role Prediction in Online Discussion Forums Using Probabilistic Soft Logic",
     "authors": [
         "Arti Ramesh",
         "Jaebong Yoo",
@@ -7,7 +8,6 @@
         "Lise Getoor",
         "Jihie Kim"
     ],
-    "title": "User Role Prediction in Online Discussion Forums Using Probabilistic Soft Logic",
     "venue": "NIPS Workshop on Personalizing Education (PE)",
     "year": "2012",
     "links": []

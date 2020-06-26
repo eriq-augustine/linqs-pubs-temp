@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Unsupervised Sense Disambiguation Using Bilingual Probabilistic Models",
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor",
         "Yoshua Bengio"
     ],
-    "title": "Unsupervised Sense Disambiguation Using Bilingual Probabilistic Models",
     "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
     "year": "2004",
     "links": []

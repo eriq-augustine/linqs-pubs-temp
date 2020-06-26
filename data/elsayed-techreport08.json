@@ -1,12 +1,12 @@
 {
     "type": "techreport",
+    "title": "Personal Name Resolution in Email: A Heuristic Approach",
     "authors": [
         "Tamer Elsayed",
         "Doug Oard",
         "Galileo Mark Namata",
         "Lise Getoor"
     ],
-    "title": "Personal Name Resolution in Email: A Heuristic Approach",
     "venue": "University of Maryland, College Park",
     "year": "2008",
     "number": "LAMP-TR150",

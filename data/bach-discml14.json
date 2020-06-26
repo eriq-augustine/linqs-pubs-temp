@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Rounding Guarantees for Message-Passing MAP Inference with Logical Dependencies",
     "authors": [
         "Stephen Bach",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "title": "Rounding Guarantees for Message-Passing MAP Inference with Logical Dependencies",
     "venue": "NIPS Workshop on Discrete and Combinatorial Problems in Machine Learning (DISCML)",
     "year": "2014",
     "links": []

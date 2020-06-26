@@ -1,19 +1,19 @@
 {
     "type": "book",
+    "title": "A Survey of Link Mining Tasks for Analyzing Noisy and Incomplete Networks",
     "authors": [
         "Galileo Mark Namata",
         "Hossam Sharara",
         "Lise Getoor"
     ],
-    "title": "A Survey of Link Mining Tasks for Analyzing Noisy and Incomplete Networks",
     "venue": "Link Mining: Models, Algorithms, and Applications",
     "year": "2010",
-    "publisher": "Springer-Verlag",
     "pages": "107--133",
     "volume": "1",
-    "chapter": "4",
-    "editor": "Philip Yu and Jiawei Han and Christos Faloutsos",
     "edition": "1",
+    "editor": "Philip Yu and Jiawei Han and Christos Faloutsos",
+    "publisher": "Springer-Verlag",
+    "chapter": "4",
     "links": [],
     "abstract": "<p>Many data sets of interest today are best described as networks or graphs of interlinked entities. Examples include Web and text collections, social networks and social media sites, information, transaction and communication networks, and all manner of scientific networks, including biological networks. Unfortunately, often the data collection and extraction process for gathering these network data sets is imprecise, noisy, and/or incomplete. In this chapter, we review a collection of link mining algorithms that are well suited to analyzing and making inferences about networks, especially in the case where the data is noisy or missing.</p>"
 }

@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Estimating Causal Effects of Tone in Online Debates",
     "authors": [
         "Dhanya Sridhar",
         "Lise Getoor"
     ],
-    "title": "Estimating Causal Effects of Tone in Online Debates",
     "venue": "International Joint Conference on Artificial Intelligence (IJCAI)",
     "year": "2019",
     "links": [],

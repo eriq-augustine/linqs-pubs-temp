@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "HOMER: Ontology Visualization and Analysis",
     "authors": [
         "Octavian Udrea",
         "Ren\u00e9e J. Miller",
         "Lise Getoor"
     ],
-    "title": "HOMER: Ontology Visualization and Analysis",
     "venue": "International Semantic Web Conference (ISWC)",
     "year": "2007",
     "links": []

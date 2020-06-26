@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "BOWL: Bayesian Optimization for Weight Learning in Probabilistic Soft Logic",
     "authors": [
         "Sriram Srinivasan",
         "Golnoosh Farnadi",
         "Lise Getoor"
     ],
-    "title": "BOWL: Bayesian Optimization for Weight Learning in Probabilistic Soft Logic",
     "venue": "National Conference on Artificial Intelligence (AAAI)",
     "year": "2020",
     "links": [],

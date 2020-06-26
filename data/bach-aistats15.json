@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Unifying Local Consistency and MAX SAT Relaxations for Scalable Inference with Rounding Guarantees",
     "authors": [
         "Stephen Bach",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "title": "Unifying Local Consistency and MAX SAT Relaxations for Scalable Inference with Rounding Guarantees",
     "venue": "Artificial Intelligence and Statistics (AISTATS)",
     "year": "2015",
     "links": []

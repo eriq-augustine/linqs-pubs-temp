@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Leveraging Social Context for Searching Social Media",
     "authors": [
         "Marc Smith",
         "Vladimir Barash",
         "Lise Getoor",
         "Hady Lauw"
     ],
-    "title": "Leveraging Social Context for Searching Social Media",
     "venue": "CIKM Workshop on Search in Social Media (SSM)",
     "year": "2008",
     "links": []

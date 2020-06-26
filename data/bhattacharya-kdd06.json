@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Query-Time Entity Resolution",
     "authors": [
         "Indrajit Bhattacharya",
         "Louis Licamele",
         "Lise Getoor"
     ],
-    "title": "Query-Time Entity Resolution",
     "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
     "year": "2006",
     "links": []

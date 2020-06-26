@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Joint Probabilistic Inference of Causal Structure",
     "authors": [
         "Dhanya Sridhar",
         "Lise Getoor"
     ],
-    "title": "Joint Probabilistic Inference of Causal Structure",
     "venue": "KDD Workshop on Causal Discovery (CD)",
     "year": "2016",
     "links": [],

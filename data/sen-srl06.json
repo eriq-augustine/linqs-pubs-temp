@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Empirical Comparison of Approximate Inference Algorithms for Networked Data",
     "authors": [
         "Prithviraj Sen",
         "Lise Getoor"
     ],
-    "title": "Empirical Comparison of Approximate Inference Algorithms for Networked Data",
     "venue": "ICML Workshop on Statistical Relational Learning (SRL)",
     "year": "2006",
     "links": []

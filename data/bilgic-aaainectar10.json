@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Active Inference for Collective Classification",
     "authors": [
         "Mustafa Bilgic",
         "Lise Getoor"
     ],
-    "title": "Active Inference for Collective Classification",
     "venue": "AAAI New Scientific and Technical Advances in Research (AAAINECTAR)",
     "year": "2010",
     "pages": "1652--1655",

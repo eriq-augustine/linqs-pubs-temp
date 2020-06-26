@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Tractable Marginal Inference for Hinge-Loss Markov Random Fields",
     "authors": [
         "Varun Embar",
         "Sriram Srinivasan",
         "Lise Getoor"
     ],
-    "title": "Tractable Marginal Inference for Hinge-Loss Markov Random Fields",
     "venue": "ICML Workshop on Tractable Probabilistic Modeling (TPM)",
     "year": "2019",
     "links": [],

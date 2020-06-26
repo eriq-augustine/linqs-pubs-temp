@@ -1,9 +1,9 @@
 {
     "type": "article",
+    "title": "Link Mining: A New Data Mining Challenge",
     "authors": [
         "Lise Getoor"
     ],
-    "title": "Link Mining: A New Data Mining Challenge",
     "venue": "SIGKDD Explorations (KDDEXP)",
     "year": "2003",
     "pages": "85--89",

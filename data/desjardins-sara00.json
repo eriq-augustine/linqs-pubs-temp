@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Using Feature Hierarchies in Bayesian Network Learning",
     "authors": [
         "Marie desJardins",
         "Lise Getoor",
         "Daphne Koller"
     ],
-    "title": "Using Feature Hierarchies in Bayesian Network Learning",
     "venue": "Symposium on Abstraction, Reformulation and Approximation (SARA)",
     "year": "2000",
     "links": []

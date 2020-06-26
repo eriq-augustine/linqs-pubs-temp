@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Collective Activity Detection Using Hinge-Loss Markov Random Fields",
     "authors": [
         "Ben London",
         "Sameh Khamis",
@@ -8,7 +9,6 @@
         "Lise Getoor",
         "Larry Davis"
     ],
-    "title": "Collective Activity Detection Using Hinge-Loss Markov Random Fields",
     "venue": "CVPR Workshop on Structured Prediction - Tractability, Learning and Inference (STPLI)",
     "year": "2013",
     "links": [],

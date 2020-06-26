@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Weakly Supervised Models of Aspect-Sentiment for Online Course Discussion Forums",
     "authors": [
         "Arti Ramesh",
         "Shachi Kumar",
         "James Foulds",
         "Lise Getoor"
     ],
-    "title": "Weakly Supervised Models of Aspect-Sentiment for Online Course Discussion Forums",
     "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
     "year": "2015",
     "keywords": "Discussion Forums, HL-MRFs, MOOCs, Online Courses, SRL",

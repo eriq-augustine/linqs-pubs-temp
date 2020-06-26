@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Uncovering Hidden Engagement Patterns for Predicting Learner Performance in MOOCs",
     "authors": [
         "Arti Ramesh",
         "Dan Goldwasser",
@@ -7,7 +8,6 @@
         "Hal Daume III",
         "Lise Getoor"
     ],
-    "title": "Uncovering Hidden Engagement Patterns for Predicting Learner Performance in MOOCs",
     "venue": "ACM Conference on Learning at Scale (L@S)",
     "year": "2014",
     "publisher": "ACM",

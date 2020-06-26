@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Characterizing RNA Secondary-Structure Features and Their Effects on Splice-Site Prediction",
     "authors": [
         "Rezarta Islamaj",
         "Lise Getoor",
         "W. John Wilbur"
     ],
-    "title": "Characterizing RNA Secondary-Structure Features and Their Effects on Splice-Site Prediction",
     "venue": "ICDM Workshop on Mining and Management of Biological Data (MMB)",
     "year": "2007",
     "links": []

@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Bisimulation-Based Approximate Lifted Inference",
     "authors": [
         "Prithviraj Sen",
         "Amol Deshpande",
         "Lise Getoor"
     ],
-    "title": "Bisimulation-Based Approximate Lifted Inference",
     "venue": "Uncertainty in Artificial Intelligence (UAI)",
     "year": "2009",
     "links": []

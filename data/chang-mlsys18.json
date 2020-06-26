@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Clustering System Data Using Aggregate Measures",
     "authors": [
         "Johnnie Chang",
         "Robert Chen",
         "Jay Pujara",
         "Lise Getoor"
     ],
-    "title": "Clustering System Data Using Aggregate Measures",
     "venue": "Conference on Machine Learning and Systems (MLSys)",
     "year": "2018",
     "links": [],

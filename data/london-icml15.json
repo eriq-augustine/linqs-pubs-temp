@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "The Benefits of Learning with Strongly Convex Approximate Inference",
     "authors": [
         "Ben London",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "title": "The Benefits of Learning with Strongly Convex Approximate Inference",
     "venue": "International Conference on Machine Learning (ICML)",
     "year": "2015",
     "links": [],

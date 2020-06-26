@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Adaptive Neighborhood Graph Construction for Inference in Multi-Relational Networks",
     "authors": [
         "Shobeir Fakhraei",
         "Sridhar Dhanya",
         "Jay Pujara",
         "Lise Getoor"
     ],
-    "title": "Adaptive Neighborhood Graph Construction for Inference in Multi-Relational Networks",
     "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
     "year": "2016",
     "publisher": "ACM",

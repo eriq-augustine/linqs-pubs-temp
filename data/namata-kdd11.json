@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Collective Graph Identification",
     "authors": [
         "Galileo Mark Namata",
         "Stanley Kok",
         "Lise Getoor"
     ],
-    "title": "Collective Graph Identification",
     "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
     "year": "2011",
     "links": [],

@@ -1,18 +1,18 @@
 {
     "type": "article",
+    "title": "Features Generated for Computational Splice-Site Prediction Correspond to Functional Elements",
     "authors": [
         "Rezarta Islamaj",
         "Lise Getoor",
         "W. John Wilbur",
         "Stephen Mount"
     ],
-    "title": "Features Generated for Computational Splice-Site Prediction Correspond to Functional Elements",
     "venue": "BMC Bioinformatics (Bioinformatics)",
     "year": "2007",
-    "keywords": "feature generation, functional biological signals, splice-site",
     "pages": "410-425",
     "volume": "8",
     "number": "1",
+    "keywords": "feature generation, functional biological signals, splice-site",
     "links": [
         {
             "label": "other",

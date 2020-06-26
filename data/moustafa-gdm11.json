@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Declarative Analysis of Noisy Information Networks",
     "authors": [
         "Walaa Eldin Moustafa",
         "Galileo Mark Namata",
         "Amol Deshpande",
         "Lise Getoor"
     ],
-    "title": "Declarative Analysis of Noisy Information Networks",
     "venue": "ICDE Workshop on Graph Data Management (GDM)",
     "year": "2011",
     "links": [],

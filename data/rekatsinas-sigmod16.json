@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "SourceSight: Enabling Effective Source Selection",
     "authors": [
         "Theodoros Rekatsinas",
         "Amol Deshpande",
@@ -7,7 +8,6 @@
         "Lise Getoor",
         "Divesh Srivastava"
     ],
-    "title": "SourceSight: Enabling Effective Source Selection",
     "venue": "International Conference on Management of Data (SIGMOD)",
     "year": "2016",
     "links": [],

@@ -35,27 +35,31 @@ TYPE_FIELDS = {
 }
 
 SORTED_KEYS = [
+    # Core
     'type',
-    'authors',
     'title',
+    'authors',
     'venue',
     'year',
 
-    'publisher',
-    'address',
-    'keywords',
+    # Type-dependent
     'pages',
     'volume',
-    'chapter',
-    'editor',
-    'organization',
-    'note',
     'number',
-    'doi',
     'edition',
+    'editor',
+    'publisher',
 
+    # Extra.
+    'chapter',
+    'address',
+    'organization',
+    'doi',
+    'note',
+
+    # Variable size.
+    'keywords',
     'links',
-
     'abstract',
 ]
 

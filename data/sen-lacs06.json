@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Cost-Sensitive Learning with Conditional Markov Networks",
     "authors": [
         "Prithviraj Sen",
         "Lise Getoor"
     ],
-    "title": "Cost-Sensitive Learning with Conditional Markov Networks",
     "venue": "SDM Workshop on Link Analysis, Counterterrorism and Security (LACS)",
     "year": "2006",
     "links": []

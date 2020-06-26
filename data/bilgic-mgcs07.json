@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Combining Collective Classification and Link Prediction",
     "authors": [
         "Mustafa Bilgic",
         "Galileo Mark Namata",
         "Lise Getoor"
     ],
-    "title": "Combining Collective Classification and Link Prediction",
     "venue": "ICDM Workshop on Mining Graphs and Complex Structures (MGCS)",
     "year": "2007",
     "links": []

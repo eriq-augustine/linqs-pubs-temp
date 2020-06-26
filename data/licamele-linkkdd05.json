@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Capital and Benefit in Social Networks",
     "authors": [
         "Louis Licamele",
         "Mustafa Bilgic",
         "Lise Getoor",
         "Nick Roussopoulos"
     ],
-    "title": "Capital and Benefit in Social Networks",
     "venue": "KDD Workshop on Link Analysis and Group Detection (LinkKDD)",
     "year": "2005",
     "links": []

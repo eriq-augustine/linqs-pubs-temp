@@ -1,13 +1,13 @@
 {
     "type": "conference",
+    "title": "To Join or Not to Join: The Illusion of Privacy in Social Networks with Mixed Public and Private User Profiles",
     "authors": [
         "Elena Zheleva",
         "Lise Getoor"
     ],
-    "title": "To Join or Not to Join: The Illusion of Privacy in Social Networks with Mixed Public and Private User Profiles",
     "venue": "International World Wide Web conference (WWW)",
     "year": "2009",
-    "keywords": "anonymity online, groups, privacy, sensitive attribute inference, social networks",
     "note": "Earlier version appears as CS-TR-4926.",
+    "keywords": "anonymity online, groups, privacy, sensitive attribute inference, social networks",
     "links": []
 }

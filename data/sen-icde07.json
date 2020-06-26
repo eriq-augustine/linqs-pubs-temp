@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Representing and Querying Correlated Tuples in Probabilistic Databases",
     "authors": [
         "Prithviraj Sen",
         "Amol Deshpande"
     ],
-    "title": "Representing and Querying Correlated Tuples in Probabilistic Databases",
     "venue": "International Conference on Data Engineering (ICDE)",
     "year": "2007",
     "links": []

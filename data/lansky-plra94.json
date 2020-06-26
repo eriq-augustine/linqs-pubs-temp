@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Practical Planning in COLLAGE",
     "authors": [
         "Amy Lansky",
         "Lise Getoor"
     ],
-    "title": "Practical Planning in COLLAGE",
     "venue": "AAAI Fall Symposium on Planning and Learning: On to Real Applications (PLRA)",
     "year": "1994",
     "links": []

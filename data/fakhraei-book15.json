@@ -1,16 +1,16 @@
 {
     "type": "inbook",
+    "title": "Data Analytics for Pharmaceutical Discoveries",
     "authors": [
         "Shobeir Fakhraei",
         "Eberechukwu Onukwugha",
         "Lise Getoor"
     ],
-    "title": "Data Analytics for Pharmaceutical Discoveries",
     "venue": "Healthcare Data Analytics",
     "year": "2015",
-    "publisher": "CRC Press",
     "pages": "599--623",
-    "editor": "Chandan K. Reddy and Charu C. Aggarwal",
     "edition": "1",
+    "editor": "Chandan K. Reddy and Charu C. Aggarwal",
+    "publisher": "CRC Press",
     "links": []
 }

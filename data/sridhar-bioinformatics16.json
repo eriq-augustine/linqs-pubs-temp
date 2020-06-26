@@ -1,11 +1,11 @@
 {
     "type": "article",
+    "title": "A Probabilistic Approach for Collective Similarity-Based Drug-Drug Interaction Prediction",
     "authors": [
         "Dhanya Sridhar",
         "Shobeir Fakhraei",
         "Lise Getoor"
     ],
-    "title": "A Probabilistic Approach for Collective Similarity-Based Drug-Drug Interaction Prediction",
     "venue": "Bioinformatics (Bioinformatics)",
     "year": "2016",
     "pages": "3175--3182",

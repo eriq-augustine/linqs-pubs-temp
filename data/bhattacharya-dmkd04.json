@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Iterative Record Linkage for Cleaning and Integration",
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "title": "Iterative Record Linkage for Cleaning and Integration",
     "venue": "SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery (DMKD)",
     "year": "2004",
     "links": []

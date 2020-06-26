@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Resolving Personal Names in Email Using Context Expansion",
     "authors": [
         "Tamer Elsayed",
         "Doug Oard",
         "Galileo Mark Namata"
     ],
-    "title": "Resolving Personal Names in Email Using Context Expansion",
     "venue": "Annual Meeting of the Association of Computational Linguistics (ACL)",
     "year": "2008",
     "pages": "265--268",

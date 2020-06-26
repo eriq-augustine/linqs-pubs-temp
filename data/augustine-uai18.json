@@ -1,10 +1,10 @@
 {
     "type": "tutorial",
+    "title": "MLtrain: Collective Reasoning with Probabilistic Soft Logic",
     "authors": [
         "Eriq Augustine",
         "Golnoosh Farnadi"
     ],
-    "title": "MLtrain: Collective Reasoning with Probabilistic Soft Logic",
     "venue": "Uncertainty in Artificial Intelligence (UAI)",
     "year": "2018",
     "publisher": "AUAI",

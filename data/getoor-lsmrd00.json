@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Learning Probabilistic Relational Models with Structural Uncertainty",
     "authors": [
         "Lise Getoor",
         "Daphne Koller",
         "Benjamin Taskar",
         "Nir Friedman"
     ],
-    "title": "Learning Probabilistic Relational Models with Structural Uncertainty",
     "venue": "AAAI Workshop on Learning Statistical Models from Relational Data (LSMRD)",
     "year": "2000",
     "links": []

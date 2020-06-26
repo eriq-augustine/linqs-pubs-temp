@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "A Unified Probabilistic Approach for Semantic Clustering of Relational Phrases",
     "authors": [
         "Adam Grycner",
         "Gerhard Weikum",
@@ -7,7 +8,6 @@
         "James Foulds",
         "Lise Getoor"
     ],
-    "title": "A Unified Probabilistic Approach for Semantic Clustering of Relational Phrases",
     "venue": "Conference on Neural Information Processing Systems (NIPS)",
     "year": "2014",
     "links": [],

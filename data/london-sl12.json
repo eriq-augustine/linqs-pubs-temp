@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Multi-Relational Weighted Tensor Decomposition",
     "authors": [
         "Ben London",
         "Theodoros Rekatsinas",
         "Bert Huang",
         "Lise Getoor"
     ],
-    "title": "Multi-Relational Weighted Tensor Decomposition",
     "venue": "NIPS Workshop on Spectral Learning (SL)",
     "year": "2012",
     "links": []

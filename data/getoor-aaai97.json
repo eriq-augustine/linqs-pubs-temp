@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Effictive Redundant Constraints for Online Scheduling",
     "authors": [
         "Lise Getoor",
         "Gregor Ottosson",
         "Markus Fromherz",
         "Bjorn Carlson"
     ],
-    "title": "Effictive Redundant Constraints for Online Scheduling",
     "venue": "National Conference on Artificial Intelligence (AAAI)",
     "year": "1997",
     "links": []

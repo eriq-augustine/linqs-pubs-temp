@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Entity Resolution in Big Data",
     "authors": [
         "Lise Getoor",
         "Ashwin Machanavajjhala"
     ],
-    "title": "Entity Resolution in Big Data",
     "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
     "year": "2013",
     "note": "Slides: http://www.umiacs.umd.edu/~getoor/Tutorials/ER_KDD2013.pdf",

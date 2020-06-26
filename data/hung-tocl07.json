@@ -1,11 +1,11 @@
 {
     "type": "article",
+    "title": "Probabilistic Interval XML",
     "authors": [
         "Edward Hung",
         "Lise Getoor",
         "V. S. Subrahmanian"
     ],
-    "title": "Probabilistic Interval XML",
     "venue": "ACM Transactions on Computational Logic (TOCL)",
     "year": "2007",
     "pages": "1--24",

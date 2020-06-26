@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Estimating Aggregate Properties in Relational Networks with Unobserved Data",
     "authors": [
         "Varun Embar",
         "Sriram Srinivasan",
         "Lise Getoor"
     ],
-    "title": "Estimating Aggregate Properties in Relational Networks with Unobserved Data",
     "venue": "AAAI Workshop on Statistical Relational Artificial Intelligence (StarAI)",
     "year": "2020",
     "links": [],

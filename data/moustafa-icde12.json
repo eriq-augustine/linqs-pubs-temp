@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Ego-Centric Graph Pattern Census",
     "authors": [
         "Walaa Eldin Moustafa",
         "Amol Deshpande",
         "Lise Getoor"
     ],
-    "title": "Ego-Centric Graph Pattern Census",
     "venue": "International Conference on Data Engineering (ICDE)",
     "year": "2012",
     "links": []

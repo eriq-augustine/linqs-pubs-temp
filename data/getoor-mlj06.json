@@ -1,10 +1,10 @@
 {
     "type": "article",
+    "title": "PRL: A Logical Approach to Probabilistic Relational Models",
     "authors": [
         "Lise Getoor",
         "John Grant"
     ],
-    "title": "PRL: A Logical Approach to Probabilistic Relational Models",
     "venue": "Machine Learning Journal (MLJ)",
     "year": "2006",
     "pages": "7--31",

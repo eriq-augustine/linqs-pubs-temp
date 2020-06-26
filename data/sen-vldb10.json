@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Read-Once Functions and Query Evaluation in Probabilistic Databases",
     "authors": [
         "Prithviraj Sen",
         "Amol Deshpande",
         "Lise Getoor"
     ],
-    "title": "Read-Once Functions and Query Evaluation in Probabilistic Databases",
     "venue": "International Conference on Very Large Data Bases (VLDB)",
     "year": "2010",
     "links": []

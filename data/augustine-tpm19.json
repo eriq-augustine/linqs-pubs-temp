@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Tractable Probabilistic Reasoning Through Effective Grounding",
     "authors": [
         "Eriq Augustine",
         "Theodoros Rekatsinas",
         "Lise Getoor"
     ],
-    "title": "Tractable Probabilistic Reasoning Through Effective Grounding",
     "venue": "ICML Workshop on Tractable Probabilistic Modeling (TPM)",
     "year": "2019",
     "links": [],

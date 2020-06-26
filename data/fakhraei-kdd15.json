@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Collective Spammer Detection in Evolving Multi-Relational Social Networks",
     "authors": [
         "Shobeir Fakhraei",
         "James Foulds",
         "Madhusudana Shashanka",
         "Lise Getoor"
     ],
-    "title": "Collective Spammer Detection in Evolving Multi-Relational Social Networks",
     "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
     "year": "2015",
     "note": "Data and Code: https://github.com/shobeir/fakhraei_kdd2015",

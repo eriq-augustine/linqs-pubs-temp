@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Probabilistic Similarity Logic",
     "authors": [
         "Matthias Broecheler",
         "Lilyana Mihalkova",
         "Lise Getoor"
     ],
-    "title": "Probabilistic Similarity Logic",
     "venue": "The Conference on Uncertainty in Artificial Intelligence (UAI)",
     "year": "2010",
     "links": []

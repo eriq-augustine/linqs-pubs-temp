@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Group Proximity Measure for Recommending Groups in Online Social Networks",
     "authors": [
         "Barna Saha",
         "Lise Getoor"
     ],
-    "title": "Group Proximity Measure for Recommending Groups in Online Social Networks",
     "venue": "KDD Workshop on Social Network Mining and Analysis (SNAKDD)",
     "year": "2008",
     "links": []

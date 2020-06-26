@@ -1,5 +1,6 @@
 {
     "type": "article",
+    "title": "Structured Machine Learning: The Next Ten Years",
     "authors": [
         "Thomas Dietterich",
         "Pedro Domingos",
@@ -7,12 +8,11 @@
         "Stephen Muggleton",
         "Prasad Tadepalli"
     ],
-    "title": "Structured Machine Learning: The Next Ten Years",
     "venue": "Machine Learning Journal (MLJ)",
     "year": "2008",
     "pages": "3--23",
     "volume": "73",
-    "note": "Full version is available at http://dx.doi.org/10.1007/s10994-008-5079-1",
     "number": "1",
+    "note": "Full version is available at http://dx.doi.org/10.1007/s10994-008-5079-1",
     "links": []
 }

@@ -1,5 +1,6 @@
 {
     "type": "article",
+    "title": "Capturing Planned Protests From Open Source Indicators",
     "authors": [
         "Sathappan Muthiah",
         "Bert Huang",
@@ -9,7 +10,6 @@
         "Graham Katz",
         "Naren Ramakrishnan"
     ],
-    "title": "Capturing Planned Protests From Open Source Indicators",
     "venue": "AI Magazine (AIMag)",
     "year": "2016",
     "pages": "63--75",

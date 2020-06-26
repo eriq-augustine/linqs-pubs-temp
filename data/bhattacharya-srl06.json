@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Relational Clustering for Entity Resolution Queries",
     "authors": [
         "Indrajit Bhattacharya",
         "Louis Licamele",
         "Lise Getoor"
     ],
-    "title": "Relational Clustering for Entity Resolution Queries",
     "venue": "ICML Workshop on Statistical Relational Learning (SRL)",
     "year": "2006",
     "links": []

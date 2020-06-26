@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Exploiting Shared Correlations in Probabilistic Databases",
     "authors": [
         "Prithviraj Sen",
         "Amol Deshpande",
         "Lise Getoor"
     ],
-    "title": "Exploiting Shared Correlations in Probabilistic Databases",
     "venue": "International Conference on Very Large Data Bases (VLDB)",
     "year": "2008",
     "links": []

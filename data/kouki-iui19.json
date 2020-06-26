@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Personalized Explanations for Hybrid Recommender Systems",
     "authors": [
         "Pigi Kouki",
         "James Schaffer",
@@ -7,7 +8,6 @@
         "John O'Donovan",
         "Lise Getoor"
     ],
-    "title": "Personalized Explanations for Hybrid Recommender Systems",
     "venue": "Intelligent User Interfaces (IUI)",
     "year": "2019",
     "links": [],

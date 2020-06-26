@@ -1,9 +1,9 @@
 {
     "type": "conference",
+    "title": "Multi-Relational Data Mining Using Probabilistic Models",
     "authors": [
         "Lise Getoor"
     ],
-    "title": "Multi-Relational Data Mining Using Probabilistic Models",
     "venue": "KDD Workshop on Multi-Relational Data Mining (MRDM)",
     "year": "2001",
     "links": []

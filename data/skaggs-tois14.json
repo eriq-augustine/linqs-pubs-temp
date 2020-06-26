@@ -1,10 +1,10 @@
 {
     "type": "article",
+    "title": "Topic Modeling for Wikipedia Link Disambiguation",
     "authors": [
         "Bradley Skaggs",
         "Lise Getoor"
     ],
-    "title": "Topic Modeling for Wikipedia Link Disambiguation",
     "venue": "ACM Transactions on Information Systems (TOIS)",
     "year": "2014",
     "pages": "10:1--10:24",

@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Predictable Dual-View Hashing",
     "authors": [
         "Mohammad Rastegari",
         "Jonghyun Choi",
@@ -7,10 +8,9 @@
         "Hal Daume III",
         "Larry Davis"
     ],
-    "title": "Predictable Dual-View Hashing",
     "venue": "International Conference on Machine Learning (ICML)",
     "year": "2013",
-    "publisher": "JMLR",
     "pages": "1328--1336",
+    "publisher": "JMLR",
     "links": []
 }

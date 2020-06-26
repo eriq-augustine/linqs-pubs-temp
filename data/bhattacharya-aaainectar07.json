@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Online Collective Entity Resolution",
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "title": "Online Collective Entity Resolution",
     "venue": "AAAI New Scientific and Technical Advances in Research (AAAINECTAR)",
     "year": "2007",
     "publisher": "AAAI",

@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "PAC-Bayes Generalization Bounds for Randomized Structured Prediction",
     "authors": [
         "Ben London",
         "Bert Huang",
         "Benjamin Taskar",
         "Lise Getoor"
     ],
-    "title": "PAC-Bayes Generalization Bounds for Randomized Structured Prediction",
     "venue": "NIPS Workshop on Perturbation, Optimization and Statistics (POS)",
     "year": "2013",
     "links": []

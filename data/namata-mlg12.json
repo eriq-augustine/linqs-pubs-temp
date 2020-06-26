@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Query-Driven Active Surveying for Collective Classification",
     "authors": [
         "Galileo Mark Namata",
         "Ben London",
         "Lise Getoor",
         "Bert Huang"
     ],
-    "title": "Query-Driven Active Surveying for Collective Classification",
     "venue": "ICML Workshop on Mining and Learning with Graphs (MLG)",
     "year": "2012",
     "links": [],

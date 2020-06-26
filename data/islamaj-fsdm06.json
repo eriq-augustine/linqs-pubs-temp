@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "A Feature Generation Algorithm for Sequences with Application to Splice Site Prediction",
     "authors": [
         "Rezarta Islamaj",
         "Lise Getoor",
         "W. John Wilbur"
     ],
-    "title": "A Feature Generation Algorithm for Sequences with Application to Splice Site Prediction",
     "venue": "PKDD Workshop on Feature Selection for Data Mining (FSDM)",
     "year": "2006",
     "address": "Bethesda, Maryland",

@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Computing Marginal Distributions Over Continuous Markov Networks for Statistical Relational Learning",
     "authors": [
         "Matthias Broecheler",
         "Lise Getoor"
     ],
-    "title": "Computing Marginal Distributions Over Continuous Markov Networks for Statistical Relational Learning",
     "venue": "Advances in Neural Information Processing Systems (NIPS)",
     "year": "2010",
     "links": []

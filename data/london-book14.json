@@ -1,16 +1,16 @@
 {
     "type": "book",
+    "title": "Collective Classification of Network Data",
     "authors": [
         "Ben London",
         "Lise Getoor"
     ],
-    "title": "Collective Classification of Network Data",
     "venue": "Data Classification: Algorithms and Applications",
     "year": "2014",
-    "publisher": "CRC Press",
     "pages": "399--416",
-    "chapter": "15",
-    "editor": "Charu Aggarwal",
     "edition": "1",
+    "editor": "Charu Aggarwal",
+    "publisher": "CRC Press",
+    "chapter": "15",
     "links": []
 }

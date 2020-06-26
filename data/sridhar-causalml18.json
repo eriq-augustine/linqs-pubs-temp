@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Estimating Causal Effects of Exercise From Mood Logging Data",
     "authors": [
         "Dhanya Sridhar",
         "Aaron Springer",
@@ -7,7 +8,6 @@
         "Steve Whittaker",
         "Lise Getoor"
     ],
-    "title": "Estimating Causal Effects of Exercise From Mood Logging Data",
     "venue": "ICML Workshop on Causal Machine Learning (CausalML)",
     "year": "2018",
     "links": [],

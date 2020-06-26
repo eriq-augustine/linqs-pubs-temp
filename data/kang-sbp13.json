@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "LA-LDA: A Limited Attention Topic Model for Social Recommendation",
     "authors": [
         "Jeonhyung Kang",
         "Kristina Lerman",
         "Lise Getoor"
     ],
-    "title": "LA-LDA: A Limited Attention Topic Model for Social Recommendation",
     "venue": "International Conference on Social Computing, Behavioral-Cultural Modeling, and Prediction (SBP)",
     "year": "2013",
     "links": []

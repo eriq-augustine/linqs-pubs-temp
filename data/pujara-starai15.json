@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Online Inference for Knowledge Graph Construction.",
     "authors": [
         "Jay Pujara",
         "Ben London",
         "Lise Getoor",
         "William Cohen"
     ],
-    "title": "Online Inference for Knowledge Graph Construction.",
     "venue": "UAI Workshop on Statistical Relational Artificial Intelligence (STARAI)",
     "year": "2015",
     "links": []

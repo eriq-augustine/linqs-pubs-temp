@@ -1,10 +1,10 @@
 {
     "type": "article",
+    "title": "Link Mining: A Survey",
     "authors": [
         "Lise Getoor",
         "Christopher Diehl"
     ],
-    "title": "Link Mining: A Survey",
     "venue": "SIGKDD Explorations (KDDEXP)",
     "year": "2005",
     "pages": "3--12",

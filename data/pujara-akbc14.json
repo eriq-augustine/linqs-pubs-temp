@@ -1,10 +1,10 @@
 {
     "type": "conference",
+    "title": "Building Dynamic Knowledge Graphs",
     "authors": [
         "Jay Pujara",
         "Lise Getoor"
     ],
-    "title": "Building Dynamic Knowledge Graphs",
     "venue": "NIPS Workshop on Automated Knowledge Base Construction (AKBC)",
     "year": "2014",
     "links": []

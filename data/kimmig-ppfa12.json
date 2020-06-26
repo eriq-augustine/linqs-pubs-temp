@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "A Short Introduction to Probabilistic Soft Logic",
     "authors": [
         "Angelika Kimmig",
         "Stephen Bach",
@@ -7,7 +8,6 @@
         "Bert Huang",
         "Lise Getoor"
     ],
-    "title": "A Short Introduction to Probabilistic Soft Logic",
     "venue": "NIPS Workshop on Probabilistic Programming Foundations and Applications (PPFA)",
     "year": "2012",
     "links": [],

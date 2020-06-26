@@ -1,5 +1,6 @@
 {
     "type": "conference",
+    "title": "Graph Summarization in Annotated Data Using Probabilistic Soft Logic",
     "authors": [
         "Alex Memory",
         "Angelika Kimmig",
@@ -7,7 +8,6 @@
         "Louiqa Raschid",
         "Lise Getoor"
     ],
-    "title": "Graph Summarization in Annotated Data Using Probabilistic Soft Logic",
     "venue": "ICSW Workshop on Uncertainty Reasoning for the Semantic Web (URSW)",
     "year": "2012",
     "links": []

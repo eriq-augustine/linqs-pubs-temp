@@ -1,11 +1,11 @@
 {
     "type": "conference",
+    "title": "Probabilistic Interval XML",
     "authors": [
         "Edward Hung",
         "Lise Getoor",
         "V. S. Subrahmanian"
     ],
-    "title": "Probabilistic Interval XML",
     "venue": "International Conference on Database Theory (ICDT)",
     "year": "2003",
     "links": []

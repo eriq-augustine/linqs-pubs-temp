@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Paired-Dual Learning for Fast Training of Latent Variable Hinge-Loss MRFs",
     "authors": [
         "Stephen Bach",
         "Bert Huang",
         "Jordan Boyd-Graber",
         "Lise Getoor"
     ],
-    "title": "Paired-Dual Learning for Fast Training of Latent Variable Hinge-Loss MRFs",
     "venue": "International Conference on Machine Learning (ICML)",
     "year": "2015",
     "note": "Stephen Bach and Bert Huang contributed equally.",

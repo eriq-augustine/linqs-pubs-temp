@@ -1,12 +1,12 @@
 {
     "type": "article",
+    "title": "TACI: Taxonomy-Aware Catalog Integration",
     "authors": [
         "Papadimitriou Panagiotis",
         "Tsaparas Panayiotis",
         "Fuxman Ariel",
         "Lise Getoor"
     ],
-    "title": "TACI: Taxonomy-Aware Catalog Integration",
     "venue": "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
     "year": "2012",
     "pages": "1643--1655",

@@ -1,10 +1,10 @@
 {
     "type": "techreport",
+    "title": "Link-Based Classification",
     "authors": [
         "Prithviraj Sen",
         "Lise Getoor"
     ],
-    "title": "Link-Based Classification",
     "venue": "University of Maryland, College Park",
     "year": "2007",
     "number": "CS-TR-4858",

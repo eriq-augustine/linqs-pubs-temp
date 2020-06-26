@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Large-Scale Knowledge Graph Identification Using PSL",
     "authors": [
         "Jay Pujara",
         "Hui Miao",
         "Lise Getoor",
         "William Cohen"
     ],
-    "title": "Large-Scale Knowledge Graph Identification Using PSL",
     "venue": "AAAI Workshop on Semantics for Big Data (S4BD)",
     "year": "2013",
     "links": []

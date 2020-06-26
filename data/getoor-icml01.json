@@ -1,12 +1,12 @@
 {
     "type": "conference",
+    "title": "Learning Probabilistic Models of Relational Structure",
     "authors": [
         "Lise Getoor",
         "Nir Friedman",
         "Daphne Koller",
         "Benjamin Taskar"
     ],
-    "title": "Learning Probabilistic Models of Relational Structure",
     "venue": "International Conference on Machine Learning (ICML)",
     "year": "2001",
     "links": []

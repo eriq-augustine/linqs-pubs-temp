@@ -1,15 +1,15 @@
 {
     "type": "conference",
+    "title": "Preserving the Privacy of Sensitive Relationships in Graph Data",
     "authors": [
         "Elena Zheleva",
         "Lise Getoor"
     ],
-    "title": "Preserving the Privacy of Sensitive Relationships in Graph Data",
     "venue": "KDD Workshop on Privacy, Security, and Trust in KDD (PinKDD)",
     "year": "2007",
-    "publisher": "Springer-Verlag",
     "pages": "153--171",
     "volume": "4890",
+    "publisher": "Springer-Verlag",
     "note": "This is an extended version of the original workshop paper.",
     "links": []
 }

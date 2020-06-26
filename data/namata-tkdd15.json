@@ -1,11 +1,11 @@
 {
     "type": "article",
+    "title": "Collective Graph Identification",
     "authors": [
         "Galileo Mark Namata",
         "Ben London",
         "Lise Getoor"
     ],
-    "title": "Collective Graph Identification",
     "venue": "ACM Transactions on Knowledge Discovery from Data (TKDD)",
     "year": "2015",
     "pages": "1--36",

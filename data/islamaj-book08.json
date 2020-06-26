@@ -1,18 +1,18 @@
 {
     "type": "inbook",
+    "title": "A Feature Generation Algorithm with Applications to Biological Sequence Classification",
     "authors": [
         "Rezarta Islamaj",
         "Lise Getoor",
         "John Wilbur"
     ],
-    "title": "A Feature Generation Algorithm with Applications to Biological Sequence Classification",
     "venue": "Computational Methods of Feature Selection",
     "year": "2008",
-    "publisher": "Chapman and Hall",
     "pages": "355--376",
     "volume": "1",
-    "chapter": "18",
-    "editor": "Huan Liu and Hiroshi Motoda",
     "edition": "1",
+    "editor": "Huan Liu and Hiroshi Motoda",
+    "publisher": "Chapman and Hall",
+    "chapter": "18",
     "links": []
 }
