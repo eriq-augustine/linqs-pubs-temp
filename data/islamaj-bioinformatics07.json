@@ -10,11 +10,13 @@
     "venue": "BMC Bioinformatics (Bioinformatics)",
     "year": "2007",
     "keywords": "feature generation, functional biological signals, splice-site",
-    "month": "October",
+    "pages": "410-425",
     "volume": "8",
     "number": "1",
-    "pages": "410-425",
     "links": [
-        {"label": "other", "href": "http://www.biomedcentral.com/1471-2105/8/410"}
+        {
+            "label": "other",
+            "href": "http://www.biomedcentral.com/1471-2105/8/410"
+        }
     ]
 }

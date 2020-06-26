@@ -9,7 +9,6 @@
     "title": "Scalable Structure Learning for Probabilistic Soft Logic",
     "venue": "IJCAI Workshop on Statistical Relational AI (StarAI)",
     "year": "2018",
-    "month": "06/2018",
     "links": [],
     "abstract": "<p>Statistical relational frameworks such as Markov logic networks and probabilistic soft logic (PSL) encode model structure with weighted first-order logical clauses. Learning these clauses from data is referred to as structure learning. Structure learning alleviates the manual cost of specifying models. However, this benefit comes with high computational costs; structure learning typically requires an expensive search over the space of clauses which involves repeated optimization of clause weights. In this paper, we propose the first two approaches to structure learning for PSL. We introduce a greedy search-based algorithm and a novel optimization method that trade-off scalability and approximations to the structure learning problem in varying ways. The highly scalable optimization method combines data-driven generation of clauses with a piecewise pseudolikelihood (PPLL) objective that learns model structure by optimizing clause weights only once. We compare both methods across five real-world tasks, showing that PPLL achieves an order of magnitude runtime speedup and AUC gains up to 15\\% over greedy search.</p>"
 }

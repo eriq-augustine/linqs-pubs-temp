@@ -5,7 +5,7 @@ import os
 import re
 
 DATA_PATH = 'data'
-WRITE_BACK_FILE = False
+WRITE_BACK_FILE = True
 
 ALLOWED_TYPES = {'article', 'book', 'conference', 'inbook', 'phdthesis', 'techreport', 'tutorial', 'unpublished'}
 
@@ -15,6 +15,10 @@ REQUIRED_KEYS = [
     'title',
     'year',
     'venue',
+]
+
+SKIP_KEYS = [
+    'month',
 ]
 
 # Keys (outside of REQUIRED_KEYS) that are required for specific types.
@@ -64,6 +68,9 @@ def sortKeys(data):
 
     keys = sorted(list(data.keys()), key = lambda key: SORTED_KEYS.index(key))
     for key in keys:
+        if (key in SKIP_KEYS):
+            continue
+
         newData[key] = data[key]
 
     return newData

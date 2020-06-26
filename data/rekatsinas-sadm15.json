@@ -12,10 +12,10 @@
     "title": "Forecasting Rare Disease Outbreaks Using Multiple Data Sources",
     "venue": "Statistical Analysis and Data Mining (SADM)",
     "year": "2015",
-    "volume": "10",
-    "number": "2",
     "pages": "136--150",
+    "volume": "10",
     "note": "Best of SDM 2015, Special Issue",
+    "number": "2",
     "links": [],
     "abstract": "<p class=\"p1\">Rapidly increasing volumes of news feeds from diverse data sources, such as online newspapers, Twitter and online blogs are proving to be extremely valuable resources in helping anticipate, detect, and forecast outbreaks of rare diseases. This paper presents SourceSeer, a novel algorithmic framework that combines spatio-temporal topic models with sourcebased anomaly detection techniques to effectively forecast the emergence and progression of infectious rare diseases. SourceSeer is capable of discovering the location focus of each source allowing sources to be used as experts with varying degrees of authoritativeness. To fuse the individual source predictions into a final outbreak prediction we employ a multiplicative weights algorithm taking into account the accuracy of each source. We evaluate the performance of SourceSeer using incidence data for hantavirus syndromes in multiple countries of Latin America provided by HealthMap over a timespan of fifteen months. We demonstrate that SourceSeer makes predictions of increased accuracy compared to several baselines and is capable of forecasting disease outbreaks in a timely manner even when no outbreaks were previously reported.</p>"
 }
