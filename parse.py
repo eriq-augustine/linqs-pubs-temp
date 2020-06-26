@@ -109,6 +109,21 @@ def titlecase(title):
 
     return title
 
+def validateEntry(filename, data):
+    for requiredKey in REQUIRED_KEYS:
+        if (requiredKey not in data):
+            raise ValueError("Could not find requried key (%s) in %s." % (requiredKey, path))
+
+    firstAuthor = data['authors'][0]
+    lastName = firstAuthor.split(' ')[-1]
+
+    if (not filename.startswith(lastName.lower())):
+        # print("mv -i '%s' '%s'" % (path, re.sub(r'/\w+-', "/%s-" % (lastName.lower()), path)))
+        raise ValueError("Filename should start with author last name (%s): [%s]." % (lastName.lower(), path))
+
+    if (not re.search(r'%s([a-z]?)\.json$' % (data['year'][-2:]), filename)):
+        raise ValueError("Filename (%s) should end with the correct year: %s (%s)." % (filename, data['year'], data['year'][-2:]))
+
 def main():
     for dirent in sorted(os.listdir(DATA_PATH)):
         path = os.path.join(DATA_PATH, dirent)
@@ -119,16 +134,7 @@ def main():
         with open(path, 'r') as file:
             data = sortKeys(json.load(file))
 
-        for requiredKey in REQUIRED_KEYS:
-            if (requiredKey not in data):
-                raise ValueError("Could not find requried key (%s) in %s." % (requiredKey, path))
-
-        firstAuthor = data['authors'][0]
-        lastName = firstAuthor.split(' ')[-1]
-
-        if (not dirent.startswith(lastName.lower())):
-            # print("mv -i '%s' '%s'" % (path, re.sub(r'/\w+-', "/%s-" % (lastName.lower()), path)))
-            raise ValueError("Filename should start with author last name (%s): [%s]." % (lastName.lower(), path))
+        validateEntry(dirent, data)
 
         data['title'] = titlecase(data['title'])
 
