@@ -1,11 +1,11 @@
 {
-    "type": "book",
+    "type": "inbook",
     "authors": [
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
     "title": "Collective Relational Clustering",
-    "venue": "Book",
+    "venue": "Constrained Clustering: Advances in Algorithms, Theory, and Applications",
     "year": "2008",
     "publisher": "Chapman and Hall",
     "pages": "221--244",

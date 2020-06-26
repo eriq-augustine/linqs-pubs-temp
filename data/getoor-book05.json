@@ -1,10 +1,10 @@
 {
-    "type": "book",
+    "type": "inbook",
     "authors": [
         "Lise Getoor"
     ],
     "title": "Link-Based Classification",
-    "venue": "Book",
+    "venue": "Advanced Methods for Knowledge Discovery from Complex Data",
     "year": "2005",
     "publisher": "Springer-Verlag",
     "pages": "189--207",

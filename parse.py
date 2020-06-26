@@ -112,14 +112,14 @@ def titlecase(title):
 def validateEntry(filename, data):
     for requiredKey in REQUIRED_KEYS:
         if (requiredKey not in data):
-            raise ValueError("Could not find requried key (%s) in %s." % (requiredKey, path))
+            raise ValueError("Could not find requried key (%s) in %s." % (requiredKey, filename))
 
     firstAuthor = data['authors'][0]
     lastName = firstAuthor.split(' ')[-1]
 
     if (not filename.startswith(lastName.lower())):
         # print("mv -i '%s' '%s'" % (path, re.sub(r'/\w+-', "/%s-" % (lastName.lower()), path)))
-        raise ValueError("Filename should start with author last name (%s): [%s]." % (lastName.lower(), path))
+        raise ValueError("Filename (%s) should start with author last name (%s)." % (filename, lastName.lower()))
 
     if (not re.search(r'%s([a-z]?)\.json$' % (data['year'][-2:]), filename)):
         raise ValueError("Filename (%s) should end with the correct year: %s (%s)." % (filename, data['year'], data['year'][-2:]))

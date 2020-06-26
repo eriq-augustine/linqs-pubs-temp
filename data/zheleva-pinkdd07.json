@@ -7,6 +7,12 @@
     "title": "Preserving the Privacy of Sensitive Relationships in Graph Data",
     "venue": "KDD Workshop on Privacy, Security, and Trust in KDD (PinKDD)",
     "year": "2007",
-    "note": "An extended version of this paper can be found at http://linqs.cs.umd.edu/basilic/web/Publications/2008/zheleva:kdd07-lncs/",
+    "publisher": "Springer-Verlag",
+    "pages": "153--171",
+    "month": "March",
+    "volume": "4890",
+    "organization": "Springer",
+    "note": "This is an extended version of the original workshop paper.",
+    "series": "Lecture Notes in Computer Science",
     "links": []
 }

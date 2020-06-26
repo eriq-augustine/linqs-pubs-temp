@@ -1,5 +1,5 @@
 {
-    "type": "book",
+    "type": "inbook",
     "authors": [
         "Galileo Mark Namata",
         "Prithviraj Sen",
@@ -7,9 +7,9 @@
         "Lise Getoor"
     ],
     "title": "Collective Classification for Text Classification",
-    "venue": "Book",
+    "venue": "Text Mining: Classification, Clustering, and Applications",
     "year": "2009",
-    "publisher": "Taylor and Francis Group",
+    "publisher": "CRC Press",
     "pages": "51--69",
     "volume": "1",
     "chapter": "3",

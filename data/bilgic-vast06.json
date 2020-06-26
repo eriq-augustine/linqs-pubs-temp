@@ -7,9 +7,10 @@
         "Ben Shneiderman"
     ],
     "title": "D-Dupe: An Interactive Tool for Entity Resolution in Social Networks",
-    "venue": "Visual Analytics Science and Technology (VAST)",
+    "venue": "IEEE Symposium on Visual Analytics Science and Technology (VAST)",
     "year": "2006",
-    "address": "Baltimore",
+    "publisher": "IEEE",
+    "address": "Baltimore, MD, USA",
     "month": "October",
     "links": []
 }
