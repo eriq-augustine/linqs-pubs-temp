@@ -11,6 +11,7 @@
     "publisher": "Morgan & Claypool",
     "volume": "4",
     "series": "Synthesis Lectures on Data Mining and Knowledge Discovery",
+    "edition": "1",
     "links": [],
     "abstract": "This synthesis lecture provides a survey of work on privacy in online social networks (OSNs). This work encompasses concerns of users as well as service providers and third parties. Our goal is to approach such concerns from a computer-science perspective, and building upon existing work on privacy, security, statistical modeling and databases to provide an overview of the technical and algorithmic issues related to privacy in OSNs. We start our survey by introducing a simple OSN data model and describe common statistical-inference techniques that can be used to infer potentially sensitive information. Next, we describe some privacy definitions and privacy mechanisms for data publishing. Finally, we describe a set of recent techniques for modeling, evaluating, and managing individual users' privacy risk within the context of OSNs."
 }

@@ -1,18 +1,17 @@
 {
-    "type": "book",
+    "type": "inbook",
     "authors": [
         "Elena Zheleva",
         "Lise Getoor"
     ],
     "title": "Privacy in Social Networks: A Survey",
-    "venue": "Book",
+    "venue": "Social Network Data Analytics",
     "year": "2011",
     "publisher": "Springer-Verlag",
     "pages": "277--306",
-    "volume": "1",
     "chapter": "10",
     "editor": "Charu Aggarwal",
-    "series": "Social Network Data Analytics",
+    "edition": "1",
     "links": [],
-    "abstract": "<p>In this chapter, we survey the literature on privacy in social networks. We focus both on online social networks and online affiliation networks. We formally define the possible privacy breaches and describe the privacy attacks that have been studied. We present definitions of privacy in the context of anonymization together with existing anonymization techniques.</p>"
+    "abstract": "In this chapter, we survey the literature on privacy in social networks. We focus both on online social networks and online affiliation networks. We formally define the possible privacy breaches and describe the privacy attacks that have been studied. We present definitions of privacy in the context of anonymization together with existing anonymization techniques."
 }

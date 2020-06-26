@@ -1,5 +1,5 @@
 {
-    "type": "book",
+    "type": "inbook",
     "authors": [
         "Lise Getoor",
         "Nir Friedman",
@@ -8,15 +8,13 @@
         "Benjamin Taskar"
     ],
     "title": "Probabilistic Relational Models",
-    "venue": "Book",
+    "venue": "An Introduction to Statistical Relational Learning",
     "year": "2007",
     "publisher": "MIT Press",
     "pages": "129--174",
-    "volume": "1",
     "chapter": "5",
     "editor": "Lise Getoor and Benjamin Taskar",
-    "series": "An Introduction to Statistical Relational Learning",
     "edition": "1",
     "links": [],
-    "abstract": "<p>Probabilistic relational models (PRMs) are a rich representation language for structured statistical models. They combine a frame-based logical representation with probabilistic semantics based on directed graphical models (Bayesian networks). This chapter gives an introduction to probabilistic relational models, describing semantics for attribute uncertainty, structural uncertainty, and class uncertainty. For each case, learning algorithms and some sample results are presented.</p>"
+    "abstract": "Probabilistic relational models (PRMs) are a rich representation language for structured statistical models. They combine a frame-based logical representation with probabilistic semantics based on directed graphical models (Bayesian networks). This chapter gives an introduction to probabilistic relational models, describing semantics for attribute uncertainty, structural uncertainty, and class uncertainty. For each case, learning algorithms and some sample results are presented."
 }

@@ -24,9 +24,9 @@ SKIP_KEYS = [
 # Keys (outside of REQUIRED_KEYS) that are required for specific types.
 TYPE_FIELDS = {
     'article': {'number', 'pages', 'volume'},
-    'book': {'publisher'},
+    'book': {'edition', 'publisher'},
     'conference': set(),
-    'inbook': {'publisher'},
+    'inbook': {'edition', 'editor', 'pages', 'publisher'},
     'phdthesis': set(),
     'techreport': set(),
     'tutorial': set(),
