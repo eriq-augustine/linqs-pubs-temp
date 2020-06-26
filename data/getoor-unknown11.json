@@ -1,11 +1,11 @@
 {
-    "type": "article",
+    "type": "tutorial",
     "authors": [
         "Lise Getoor",
         "Lilyana Mihalkova"
     ],
     "title": "Exploiting Statistical and Relational Information on the Web and in Social Media",
-    "venue": "unknown (UNKNOWN)",
+    "venue": "International Conference on Web Search and Data Mining (WSDM)",
     "year": "2011",
     "keywords": "Statistical relational learning, social media, tutorial, web",
     "links": []

@@ -1,5 +1,5 @@
 {
-    "type": "article",
+    "type": "inbook",
     "authors": [
         "Galileo Mark Namata",
         "Lise Getoor"
@@ -7,5 +7,7 @@
     "title": "Link Prediction",
     "venue": "Encyclopedia of Machine Learning (EML)",
     "year": "2010",
+    "pages": "609--612",
+    "publisher": "Springer-Verlag",
     "links": []
 }

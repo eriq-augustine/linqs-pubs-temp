@@ -7,6 +7,8 @@ import re
 DATA_PATH = 'data'
 WRITE_BACK_FILE = False
 
+ALLOWED_TYPES = {'article', 'book', 'conference', 'inbook', 'phdthesis', 'techreport', 'tutorial', 'unpublished'}
+
 REQUIRED_KEYS = [
     'type',
     'authors',
@@ -14,6 +16,18 @@ REQUIRED_KEYS = [
     'year',
     'venue',
 ]
+
+# Keys (outside of REQUIRED_KEYS) that are required for specific types.
+TYPE_FIELDS = {
+    'article': {'number', 'pages', 'volume'},
+    'book': {'publisher'},
+    'conference': set(),
+    'inbook': {'publisher'},
+    'phdthesis': set(),
+    'techreport': set(),
+    'tutorial': set(),
+    'unpublished': set(),
+}
 
 SORTED_KEYS = [
     'type',
@@ -114,6 +128,9 @@ def validateEntry(filename, data):
         if (requiredKey not in data):
             raise ValueError("Could not find requried key (%s) in %s." % (requiredKey, filename))
 
+    if (data['type'] not in ALLOWED_TYPES):
+        raise ValueError("Unknown type (%s) in %s." % (data['type'], filename))
+
     firstAuthor = data['authors'][0]
     lastName = firstAuthor.split(' ')[-1]
 
@@ -123,6 +140,10 @@ def validateEntry(filename, data):
 
     if (not re.search(r'%s([a-z]?)\.json$' % (data['year'][-2:]), filename)):
         raise ValueError("Filename (%s) should end with the correct year: %s (%s)." % (filename, data['year'], data['year'][-2:]))
+
+    for requiredKey in TYPE_FIELDS[data['type']]:
+        if (requiredKey not in data):
+            raise ValueError("File (%s) of type (%s) does not contain the required field: '%s'." % (filename, data['type'], requiredKey))
 
 def main():
     for dirent in sorted(os.listdir(DATA_PATH)):

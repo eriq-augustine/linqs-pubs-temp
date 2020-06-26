@@ -1,5 +1,5 @@
 {
-    "type": "article",
+    "type": "inbook",
     "authors": [
         "Prithviraj Sen",
         "Galileo Mark Namata",
@@ -9,5 +9,7 @@
     "title": "Collective Classification",
     "venue": "Encyclopedia of Machine Learning (EML)",
     "year": "2010",
+    "pages": "189--193",
+    "publisher": "Springer-Verlag",
     "links": []
 }

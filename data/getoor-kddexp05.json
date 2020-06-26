@@ -5,10 +5,10 @@
         "Christopher Diehl"
     ],
     "title": "Link Mining: A Survey",
-    "venue": "SIGKDD Explorations Newsletter - Special Issue on Link Mining (KDDExpLM)",
+    "venue": "SIGKDD Explorations (KDDEXP)",
     "year": "2005",
-    "month": "december",
     "volume": "7",
     "number": "2",
+    "pages": "3--12",
     "links": []
 }

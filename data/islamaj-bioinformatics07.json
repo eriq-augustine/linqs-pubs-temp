@@ -12,7 +12,9 @@
     "keywords": "feature generation, functional biological signals, splice-site",
     "month": "October",
     "volume": "8",
-    "note": "Electronic version is available at http://www.biomedcentral.com/1471-2105/8/410",
-    "number": "410",
-    "links": []
+    "number": "1",
+    "pages": "410-425",
+    "links": [
+        {"label": "other", "href": "http://www.biomedcentral.com/1471-2105/8/410"}
+    ]
 }

@@ -1,13 +1,13 @@
 {
     "type": "inbook",
     "authors": [
-        "Hossam Sharara",
+        "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "title": "Group Detection",
+    "title": "Entity Resolution",
     "venue": "Encyclopedia of Machine Learning (EML)",
     "year": "2010",
-    "pages": "489--492",
+    "pages": "321--326",
     "publisher": "Springer-Verlag",
     "links": []
 }

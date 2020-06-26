@@ -6,7 +6,10 @@
         "Lise Getoor"
     ],
     "title": "PrDB: Managing and Exploiting Rich Correlations in Probabilistic Databases",
-    "venue": "VLDBJ Special Issue on Uncertainty and Probabilistic Databases (ProbDB)",
+    "venue": "The VLDB Journal (VLDBJ)",
     "year": "2009",
+    "volume": "18",
+    "number": "5",
+    "pages": "1065--1090",
     "links": []
 }

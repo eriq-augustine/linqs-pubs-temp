@@ -1,13 +1,12 @@
 {
     "type": "inbook",
     "authors": [
-        "Hossam Sharara",
         "Lise Getoor"
     ],
-    "title": "Group Detection",
+    "title": "Link Mining and Link Discovery",
     "venue": "Encyclopedia of Machine Learning (EML)",
     "year": "2010",
-    "pages": "489--492",
+    "pages": "606--609",
     "publisher": "Springer-Verlag",
     "links": []
 }

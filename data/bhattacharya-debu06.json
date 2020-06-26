@@ -5,10 +5,12 @@
         "Lise Getoor"
     ],
     "title": "Collective Entity Resolution in Relational Data",
-    "venue": "IEEE Data Engineering Bulletin (IEEEDEB)",
+    "venue": "IEEE Data Engineering Bulletin (DEBU)",
     "year": "2006",
     "month": "june",
     "volume": "29",
     "number": "2",
+    "pages": "4--12",
+    "publisher": "IEEE",
     "links": []
 }
