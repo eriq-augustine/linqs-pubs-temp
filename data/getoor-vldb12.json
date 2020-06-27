@@ -1,5 +1,5 @@
 {
-    "type": "conference",
+    "type": "tutorial",
     "title": "Entity Resolution: Theory, Practice & Open Challenges",
     "authors": [
         "Lise Getoor",
@@ -7,6 +7,7 @@
     ],
     "venue": "International Conference on Very Large Data Bases (VLDB)",
     "year": "2012",
-    "note": "Slides: http://www.cs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf",
-    "links": []
+    "links": [
+        {"label": "slides", "href": "/assets/papers/getoor-vldb12-slides.pdf"}
+    ]
 }

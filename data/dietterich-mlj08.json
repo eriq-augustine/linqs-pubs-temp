@@ -13,6 +13,7 @@
     "pages": "3--23",
     "volume": "73",
     "number": "1",
-    "note": "Full version is available at http://dx.doi.org/10.1007/s10994-008-5079-1",
-    "links": []
+    "links": [
+        {"label": "paper", "href": "/assets/papers/dietterich-mlj08.pdf"}
+    ]
 }

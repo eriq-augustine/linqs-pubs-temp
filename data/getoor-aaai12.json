@@ -1,5 +1,5 @@
 {
-    "type": "conference",
+    "type": "tutorial",
     "title": "Entity Resolution: Theory, Practice, and Open Challenges",
     "authors": [
         "Lise Getoor",
@@ -7,6 +7,5 @@
     ],
     "venue": "National Conference on Artificial Intelligence (AAAI)",
     "year": "2012",
-    "note": "URL: http://www.cs.umd.edu/projects/linqs/Tutorials/ER-AAAI12/Home.html",
     "links": []
 }

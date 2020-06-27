@@ -35,14 +35,14 @@ TYPE_FIELDS = {
 }
 
 SORTED_KEYS = [
-    # Core
+    # Core.
     'type',
     'title',
     'authors',
     'venue',
     'year',
 
-    # Type-dependent
+    # Type-dependent.
     'pages',
     'volume',
     'number',
@@ -143,10 +143,10 @@ def validateEntry(filename, data):
 
     firstAuthor = data['authors'][0]
     lastName = firstAuthor.split(' ')[-1]
+    filenameLastName = re.sub(r'\*$', '', lastName.lower())
 
-    if (not filename.startswith(lastName.lower())):
-        # print("mv -i '%s' '%s'" % (path, re.sub(r'/\w+-', "/%s-" % (lastName.lower()), path)))
-        raise ValueError("Filename (%s) should start with author last name (%s)." % (filename, lastName.lower()))
+    if (not filename.startswith(filenameLastName)):
+        raise ValueError("Filename (%s) should start with author last name (%s)." % (filename, filenameLastName))
 
     if (not re.search(r'%s([a-z]?)\.json$' % (data['year'][-2:]), filename)):
         raise ValueError("Filename (%s) should end with the correct year: %s (%s)." % (filename, data['year'], data['year'][-2:]))

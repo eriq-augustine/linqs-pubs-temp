@@ -1,5 +1,5 @@
 {
-    "type": "conference",
+    "type": "tutorial",
     "title": "Entity Resolution for Social Network Analysis and Mining",
     "authors": [
         "Lise Getoor",
@@ -8,6 +8,7 @@
     "venue": "International Conference on Advances in Social Networks Analysis and Mining (ASONAM)",
     "year": "2012",
     "publisher": "IEEE",
-    "note": "URL: http://www.cs.umd.edu/~getoor/Tutorials/ER_ASONAM2012.pdf",
-    "links": []
+    "links": [
+        {"label": "slides", "href": "/assets/papers/getoor-asonam12-slides.pdf"}
+    ]
 }
