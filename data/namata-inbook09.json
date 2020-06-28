@@ -9,11 +9,11 @@
     ],
     "venue": "Text Mining: Classification, Clustering, and Applications",
     "year": "2009",
+    "publisher": "CRC Press",
     "pages": "51--69",
     "volume": "1",
     "edition": "1",
     "editor": "Mehran Sahami and Ashok Srivastava",
-    "publisher": "CRC Press",
     "chapter": "3",
     "links": [],
     "abstract": "Text classification, the classification of text documents according to categories or topics, is an important component of any text processing system. There is a large body of work which makes use of content \u2014 the words appearing in the documents, the structure of the documents \u2014 and external sources to build accurate document classifiers. In addition, there is a growing body of literature on methods which attempt to make use of the link structure among the documents in order to improve document classification performance. Text documents can be connected together in a variety of ways. The most common link structure is the citation graph: eg, papers cite other papers and webpages link to other webpages. But links among papers can be constructed from other relationships such as co-author, co-citation, appearance at a conference venue, and others. All of these can be combined together to create a interlinked collection of text documents. In these cases, we are often not interested in determining the topic of just a single document, but we have a collection of unlabeled (or partially labeled) documents, and we want to correctly infer values for all of the missing labels."

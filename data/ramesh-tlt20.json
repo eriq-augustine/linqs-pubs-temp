@@ -10,10 +10,10 @@
     ],
     "venue": "IEEE Transactions on Learning Technologies",
     "year": "2020",
+    "publisher": "IEEE",
     "pages": "107--122",
     "volume": "13",
     "number": "1",
-    "publisher": "IEEE",
     "links": [],
     "abstract": "Maintaining and cultivating student engagement is critical for learning. Understanding factors affecting student engagement can help in designing better courses and improving student retention. The large number of participants in massive open online courses (MOOCs) and data collected from their interactions on the MOOC open up avenues for studying student engagement at scale. In this work, we develop an interpretable statistical relational learning model for understanding student engagement in online courses using a complex combination of behavioral, linguistic, structural, and temporal cues. We show how to abstract student engagement types of active, passive, and disengagement as meaningful latent variables using logical rules in our model connecting student behavioral signals with student success in MOOCs. We demonstrate that the latent formulation for engagement helps in predicting two measures of student success: performance, their final grade in the course, and survival, their continued presence in the course till the end, across seven MOOCs. Further, in order to initiate better instructor interventions, we need to be able to predict student success early in the course. We demonstrate that we can predict student success early in the course reliably using the latent model. We also demonstrate the utility of our models in predicting student success in new courses, by training our models on one course and testing on another course. We show that the latent abstractions are helpful in predicting student success and engagement reliably in new MOOCs that haven't yet gathered student interaction data. We then perform a closer quantitative analysis of different features derived from student interactions on the MOOC and identify student activities that are good indicators of student success at different points in the course. Through a qualitative analysis of the latent engagement variable values, we demonstrate their utility in understanding students' engagement levels at various points in the course and movement of students across different types of engagement."
 }

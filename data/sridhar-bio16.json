@@ -8,10 +8,10 @@
     ],
     "venue": "Bioinformatics",
     "year": "2016",
+    "publisher": "Oxford",
     "pages": "3175--3182",
     "volume": "32",
     "number": "20",
-    "publisher": "Oxford",
     "links": [],
     "abstract": "<p>MOTIVATION: As concurrent use of multiple medications becomes ubiquitous among patients, it is crucial to characterize both adverse and synergistic interactions between drugs. Statistical methods for prediction of putative drug-drug interactions (DDIs) can guide in vitro testing and cut down significant cost and effort. With the abundance of experimental data characterizing drugs and their associated targets, such methods must effectively fuse multiple sources of information and perform inference over the network of drugs.</p>\n<p>RESULTS: We propose a probabilistic approach for jointly inferring unknown DDIs from a network of multiple drug-based similarities and known interactions. We use the highly scalable and easily extensible probabilistic programming framework Probabilistic Soft Logic We compare against two methods including a state-of-the-art DDI prediction system across three experiments and show best performing improvements of more than 50\\% in AUPR over both baselines. We find five novel interactions validated by external sources among the top-ranked predictions of our model.</p>\n<p>AVAILABILITY AND IMPLEMENTATION: Final versions of all datasets and implementations will be made publicly available.</p>\n<p>CONTACT: dsridhar@ucsc.edu.</p>"
 }

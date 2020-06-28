@@ -12,10 +12,10 @@
     ],
     "venue": "AI Magazine",
     "year": "2016",
+    "publisher": "AAAI",
     "pages": "63--75",
     "volume": "37",
     "number": "2",
-    "publisher": "AAAI",
     "links": [],
     "abstract": "Civil unrest events (protests, strikes, and \"occupy\" events) are common occurrences in both democracies and authoritarian regimes. The study of civil unrest is a key topic for political scientists as it helps capture an important mechanism by which citizenry express themselves. In countries where civil unrest is lawful, qualitative analysis has revealed that more than 75 percent of the protests are planned, organized, or announced in advance; therefore detecting references to future planned events in relevant news and social media is a direct way to develop a protest forecasting system. We report on a system for doing that in this article. It uses a combination of keyphrase learning to identify what to look for, probabilistic soft logic to reason about location occurrences in extracted results, and time normalization to resolve future time mentions. We illustrate the application of our system to 10 countries in Latin America: Argentina, Brazil, Chile, Colombia, Ecuador, El Salvador, Mexico, Paraguay, Uruguay, and Venezuela. Results demonstrate our successes in capturing significant societal unrest in these countries with an average lead time of 4.08 days. We also study the selective superiorities of news media versus social media (Twitter, Facebook) to identify relevant trade-offs."
 }

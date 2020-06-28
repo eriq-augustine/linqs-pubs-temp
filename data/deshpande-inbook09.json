@@ -8,11 +8,11 @@
     ],
     "venue": "Managing and Mining Uncertain Data",
     "year": "2009",
+    "publisher": "Springer-Verlag",
     "pages": "1--34",
     "volume": "1",
     "edition": "1",
     "editor": "Charu Aggarwal",
-    "publisher": "Springer-Verlag",
     "chapter": "1",
     "links": [],
     "abstract": "<p>Graphical models are a popular and well-studied framework for compact representation of a joint probability distribution over a large number of interdependent variables, and for efficient reasoning about such a distribution. They have been proven useful in a wide range of domains from natural language processing to computer vision to bioinformatics. In this chapter, we present an approach to using graphical models for managing and querying large-scale uncertain databases. We present a unified framework based on the concepts from graphical models that can model not only tuple-level and attribute-level uncertainties, but can also handle arbitrary correlations that may be present among the data; our framework can also naturally capture shared correlations where the same uncertainties and correlations occur repeatedly in the data. We develop an efficient strategy for query evaluation over such probabilistic databases by casting the query processing problem as an inference problem in an appropriately constructed graphical model, and present optimizations specific to probabilistic databases that enable efficient query evaluation. We conclude the chapter with a discussion of related and future work on these topics.</p>"
