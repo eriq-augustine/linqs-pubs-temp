@@ -11,5 +11,10 @@
     "year": "2009",
     "publisher": "ASALEDTMA",
     "address": "Vancouver, BC, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/chen-asaledtma09.pdf"
+        }
+    ]
 }

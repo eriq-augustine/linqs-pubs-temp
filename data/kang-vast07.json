@@ -10,5 +10,10 @@
     "year": "2007",
     "publisher": "IEEE",
     "address": "Sacramento, CA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/kang-vast07.pdf"
+        }
+    ]
 }

@@ -10,5 +10,10 @@
     "year": "2007",
     "publisher": "IEEE",
     "address": "Z\u00fcrich, Switzerland",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/kang-iv07.pdf"
+        }
+    ]
 }

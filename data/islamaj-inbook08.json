@@ -14,5 +14,10 @@
     "edition": "1",
     "editor": "Huan Liu and Hiroshi Motoda",
     "chapter": "18",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/islamaj-inbook08.pdf"
+        }
+    ]
 }

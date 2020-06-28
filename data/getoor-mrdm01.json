@@ -8,5 +8,10 @@
     "year": "2001",
     "publisher": "MRDM",
     "address": "San Francisco, CA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/getoor-mrdm01.pdf"
+        }
+    ]
 }

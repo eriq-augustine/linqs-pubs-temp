@@ -10,5 +10,10 @@
     "year": "2006",
     "publisher": "SIAM",
     "address": "Bethesda, MD, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/islamaj-fsdm06.pdf"
+        }
+    ]
 }

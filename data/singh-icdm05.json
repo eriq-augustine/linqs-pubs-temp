@@ -11,5 +11,10 @@
     "publisher": "IEEE",
     "pages": "773--776",
     "address": "Houston, TX, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/singh-icdm05.pdf"
+        }
+    ]
 }

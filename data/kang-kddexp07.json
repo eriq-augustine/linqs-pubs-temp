@@ -12,5 +12,10 @@
     "pages": "13--21",
     "volume": "9",
     "number": "2",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/kang-kddexp07.pdf"
+        }
+    ]
 }

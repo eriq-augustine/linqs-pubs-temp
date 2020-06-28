@@ -10,5 +10,10 @@
     "publisher": "SIAM",
     "address": "Bethesda, MD, USA",
     "note": "Winner of the Best Paper award.",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bhattacharya-sdm06.pdf"
+        }
+    ]
 }

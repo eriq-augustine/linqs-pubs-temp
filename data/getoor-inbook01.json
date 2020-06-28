@@ -14,6 +14,11 @@
     "edition": "1",
     "editor": "Saso Dzeroski and Nada Lavrac",
     "chapter": "13",
-    "links": [],
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/getoor-inbook01.pdf"
+        }
+    ],
     "abstract": "Probabilistic relational models (PRMs) are a language for describing statistical models over typed relational domains. A PRM models the uncertainty over the attributes of objects in the domain and uncertainty over the relations between the objects. The model specifies, for each attribute of an object, its (probabilistic) dependence on other attributes of that object and on attributes of related objects. The dependence model is defined at the level of classes of objects. The class dependence model is instantiated for any object in the class, as appropriate to the particular context of the object (i.e., the relations between this objects and others). PRMs can also represent uncertainty over the relational structure itself, e.g., by specifying a (class-level) probability that two objects will be related to each other. PRMs provide a foundation for dealing with the noise and uncertainty encountered in most real-world domains. In this chapter, we show that the compact and natural representation of PRMs allows them to be learned directly from an existing relational database using well-founded statistical techniques. We give an introduction to PRMs and an overview of methods for learning them. We show that PRMs provide a new framework for relational data mining, and offer new challenges for the endeavor of learning relational models for real-world domains."
 }

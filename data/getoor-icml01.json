@@ -11,5 +11,10 @@
     "year": "2001",
     "publisher": "Purdue",
     "address": "Williamstown, MA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/getoor-icml01.pdf"
+        }
+    ]
 }

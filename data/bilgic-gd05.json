@@ -14,5 +14,10 @@
     "volume": "3843",
     "editor": "Patrick Healy and Nikola S. Nikolov",
     "address": "Limerick, Ireland",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bilgic-gd05.pdf"
+        }
+    ]
 }

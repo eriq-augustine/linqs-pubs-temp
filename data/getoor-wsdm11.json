@@ -15,5 +15,10 @@
         "Tutorial",
         "Web"
     ],
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/getoor-wsdm11.pdf"
+        }
+    ]
 }

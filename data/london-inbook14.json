@@ -12,5 +12,10 @@
     "edition": "1",
     "editor": "Charu Aggarwal",
     "chapter": "15",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/london-inbook14.pdf"
+        }
+    ]
 }

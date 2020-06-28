@@ -11,5 +11,10 @@
     "pages": "621--657",
     "volume": "30",
     "number": "1",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bhattacharya-jair07.pdf"
+        }
+    ]
 }

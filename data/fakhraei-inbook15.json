@@ -12,5 +12,10 @@
     "pages": "599--623",
     "edition": "1",
     "editor": "Chandan Reddy and Charu Aggarwal",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/fakhraei-inbook15.pdf"
+        }
+    ]
 }

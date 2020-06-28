@@ -13,5 +13,10 @@
     "publisher": "ACM",
     "pages": "1581--1589",
     "address": "Perth, Australia",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/kim-www17.pdf"
+        }
+    ]
 }

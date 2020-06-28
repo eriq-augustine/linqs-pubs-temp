@@ -10,5 +10,10 @@
     "year": "2007",
     "publisher": "IEEE",
     "address": "Omaha, NE, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bilgic-mgcs07.pdf"
+        }
+    ]
 }

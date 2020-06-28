@@ -13,5 +13,10 @@
     "publisher": "PMLR",
     "pages": "1328--1336",
     "address": "Atlanta, GA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/rastegari-icml13.pdf"
+        }
+    ]
 }

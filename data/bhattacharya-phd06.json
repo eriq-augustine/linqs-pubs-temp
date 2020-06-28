@@ -8,5 +8,10 @@
     "year": "2006",
     "publisher": "UMD",
     "address": "College Park, MD, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bhattacharya-phd06.pdf"
+        }
+    ]
 }

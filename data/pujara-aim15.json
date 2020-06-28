@@ -13,5 +13,10 @@
     "pages": "65--74",
     "volume": "36",
     "number": "1",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/pujara-aim15.pdf"
+        }
+    ]
 }

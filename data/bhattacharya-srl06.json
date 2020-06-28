@@ -10,5 +10,10 @@
     "year": "2006",
     "publisher": "SRL",
     "address": "Pittsburgh, PA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bhattacharya-srl06.pdf"
+        }
+    ]
 }

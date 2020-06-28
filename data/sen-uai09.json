@@ -10,5 +10,10 @@
     "year": "2009",
     "publisher": "AUAI",
     "address": "Montr\u00e9al, QC, Canada",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sen-uai09.pdf"
+        }
+    ]
 }

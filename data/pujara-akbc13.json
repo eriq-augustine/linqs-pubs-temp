@@ -11,5 +11,10 @@
     "year": "2013",
     "publisher": "AKBC",
     "address": "San Francisco, CA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/pujara-akbc13.pdf"
+        }
+    ]
 }

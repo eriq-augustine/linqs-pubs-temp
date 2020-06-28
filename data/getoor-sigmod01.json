@@ -10,5 +10,10 @@
     "year": "2001",
     "publisher": "ACM",
     "address": "Santa Barbara, CA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/getoor-sigmod01.pdf"
+        }
+    ]
 }

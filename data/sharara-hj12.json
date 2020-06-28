@@ -13,5 +13,10 @@
     "volume": "1",
     "number": "1",
     "note": "Winner of the Best Paper award.",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sharara-hj12.pdf"
+        }
+    ]
 }

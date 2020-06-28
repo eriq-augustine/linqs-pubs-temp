@@ -10,5 +10,10 @@
     "year": "2006",
     "publisher": "ACM",
     "address": "Philadelphia, PA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bhattacharya-kdd06.pdf"
+        }
+    ]
 }

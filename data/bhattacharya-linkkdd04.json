@@ -9,5 +9,10 @@
     "year": "2004",
     "publisher": "LinkKDD",
     "address": "Seattle, WA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bhattacharya-linkkdd04.pdf"
+        }
+    ]
 }

@@ -10,5 +10,10 @@
     "year": "2013",
     "publisher": "BudgetedLearning",
     "address": "Atlanta, GA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/pujara-lttb13.pdf"
+        }
+    ]
 }

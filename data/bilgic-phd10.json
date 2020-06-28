@@ -8,5 +8,10 @@
     "year": "2010",
     "publisher": "UMD",
     "address": "College Park, MD, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bilgic-phd10.pdf"
+        }
+    ]
 }

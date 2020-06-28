@@ -249,6 +249,19 @@ def fixKeywords(data):
         keywords = [keyword.strip() for keyword in text.split(',')]
         data['keywords'] = keywords
 
+def syncPDFs(data, dirent):
+    if (len(data['links']) != 0):
+        return
+
+    pdfPath = os.path.join('pdfs', dirent.replace('.json', '.pdf'))
+    if (not os.path.isfile(pdfPath)):
+        return
+
+    data['links'].append({
+        'label': 'paper',
+        'href': '/assets/papers/' + dirent.replace('.json', '.pdf'),
+    })
+
 def main():
     manualData = loadManualFile()
 

@@ -11,5 +11,10 @@
     "year": "2013",
     "publisher": "AAAI",
     "address": "Arlington, VA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/pujara-s4bd13.pdf"
+        }
+    ]
 }

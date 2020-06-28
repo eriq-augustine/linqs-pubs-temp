@@ -11,5 +11,10 @@
     "year": "2013",
     "publisher": "POS",
     "address": "Lake Tahoe, NV, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/london-pos13.pdf"
+        }
+    ]
 }

@@ -12,6 +12,11 @@
     "year": "2012",
     "publisher": "SNSMAMMA",
     "address": "Lake Tahoe, NV, USA",
-    "links": [],
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/huang-snsmamma12.pdf"
+        }
+    ],
     "abstract": "In this work, we show how to model the group affiliations of social media users using probabilistic soft logic. We consider groups of a broad variety, motivated by ideas from the social sciences on groups and their roles in social identity. By modeling group affiliations, we allow the possibility of efficient higher-level relational reasoning about the groups themselves, where the number of groups is relatively small compared to the number of users. We discuss preliminary results from experiments using real social media data collected from Twitter."
 }

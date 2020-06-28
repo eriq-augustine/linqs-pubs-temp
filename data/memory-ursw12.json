@@ -12,5 +12,10 @@
     "year": "2012",
     "publisher": "CEUR",
     "address": "Boston, MA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/memory-ursw12.pdf"
+        }
+    ]
 }

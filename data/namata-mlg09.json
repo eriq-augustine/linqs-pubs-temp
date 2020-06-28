@@ -9,5 +9,10 @@
     "year": "2009",
     "publisher": "MLG",
     "address": "Leuven, Belgium",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/namata-mlg09.pdf"
+        }
+    ]
 }

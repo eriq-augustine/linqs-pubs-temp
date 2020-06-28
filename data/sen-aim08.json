@@ -15,5 +15,10 @@
     "pages": "93--106",
     "volume": "29",
     "number": "3",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sen-aim08.pdf"
+        }
+    ]
 }

@@ -11,5 +11,10 @@
     "pages": "41--50",
     "volume": "30",
     "number": "2",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/singh-debu07.pdf"
+        }
+    ]
 }

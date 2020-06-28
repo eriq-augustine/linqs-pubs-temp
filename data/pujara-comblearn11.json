@@ -10,5 +10,10 @@
     "year": "2011",
     "publisher": "CombLearn",
     "address": "Bellevue, WA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/pujara-comblearn11.pdf"
+        }
+    ]
 }

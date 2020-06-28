@@ -10,5 +10,10 @@
     "year": "2018",
     "publisher": "AAAI",
     "address": "New Orleans, LA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/farnadi-delbp18.pdf"
+        }
+    ]
 }

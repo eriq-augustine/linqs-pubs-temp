@@ -11,5 +11,10 @@
     "year": "2009",
     "publisher": "IEEE",
     "address": "Athens, Greece",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sharara-asonam09.pdf"
+        }
+    ]
 }

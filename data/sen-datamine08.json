@@ -11,5 +11,10 @@
     "pages": "136--163",
     "volume": "17",
     "number": "2",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sen-datamine08.pdf"
+        }
+    ]
 }

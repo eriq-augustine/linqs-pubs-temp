@@ -13,5 +13,10 @@
     "pages": "285--291",
     "volume": "35",
     "number": "Web-Server-Issue",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/islamaj-nar07.pdf"
+        }
+    ]
 }

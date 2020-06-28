@@ -16,5 +16,10 @@
         "Professional Networks",
         "Social Networks"
     ],
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/ramesh-nsis15.pdf"
+        }
+    ]
 }

@@ -9,5 +9,10 @@
     "year": "2007",
     "publisher": "AAAI",
     "address": "Vancouver, BC, Canada",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bhattacharya-aaai07.pdf"
+        }
+    ]
 }

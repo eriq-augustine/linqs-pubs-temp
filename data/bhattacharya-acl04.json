@@ -10,5 +10,10 @@
     "year": "2004",
     "publisher": "ACL",
     "address": "Barcelona, Spain",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bhattacharya-acl04.pdf"
+        }
+    ]
 }

@@ -12,6 +12,11 @@
     "year": "2018",
     "publisher": "CausalML",
     "address": "Stockholm, Sweden",
-    "links": [],
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sridhar-causalml18.pdf"
+        }
+    ],
     "abstract": "Mood and activity logging applications empower users to monitor their daily well-being and make informed health choices. To provide users with useful feedback that can improve quality of life, a critical task is understanding the causal effects of daily activities on mood and other wellness markers. In this work, we analyze observational data from EmotiCal, a recently developed mood-logging web application, to explore the effects of exercise on mood. We investigate several methodological choices for estimating the conditional average treatment effect, and highlight a novel use of textual data to improve the significance of our results."
 }

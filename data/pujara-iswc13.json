@@ -12,5 +12,10 @@
     "publisher": "ACM",
     "address": "Zurich, Switzerland",
     "note": "Winner of the Best Student Paper award.",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/pujara-iswc13.pdf"
+        }
+    ]
 }

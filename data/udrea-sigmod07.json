@@ -11,5 +11,10 @@
     "publisher": "ACM",
     "pages": "449--460",
     "address": "Beijing, China",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/udrea-sigmod07.pdf"
+        }
+    ]
 }

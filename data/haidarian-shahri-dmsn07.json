@@ -12,5 +12,10 @@
     "year": "2007",
     "publisher": "ACM",
     "address": "Vienna, Austria",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/haidarian-shahri-dmsn07.pdf"
+        }
+    ]
 }

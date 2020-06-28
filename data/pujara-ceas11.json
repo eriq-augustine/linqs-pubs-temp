@@ -11,5 +11,10 @@
     "publisher": "ACM",
     "address": "Perth, Australia",
     "note": "Winner of the Best Paper award.",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/pujara-ceas11.pdf"
+        }
+    ]
 }

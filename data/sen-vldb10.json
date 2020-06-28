@@ -10,5 +10,10 @@
     "year": "2010",
     "publisher": "VLDB",
     "address": "Singapore",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sen-vldb10.pdf"
+        }
+    ]
 }

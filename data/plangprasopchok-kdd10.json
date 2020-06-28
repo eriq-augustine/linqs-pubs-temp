@@ -10,5 +10,10 @@
     "year": "2010",
     "publisher": "ACM",
     "address": "Washington, DC, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/plangprasopchok-kdd10.pdf"
+        }
+    ]
 }

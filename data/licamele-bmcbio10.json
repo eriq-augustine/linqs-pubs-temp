@@ -16,5 +16,10 @@
         "Bioinformatics",
         "Drug Therapeutics"
     ],
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/licamele-bmcbio10.pdf"
+        }
+    ]
 }

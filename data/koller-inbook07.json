@@ -14,6 +14,11 @@
     "edition": "1",
     "editor": "Lise Getoor and Benjamin Taskar",
     "chapter": "2",
-    "links": [],
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/koller-inbook07.pdf"
+        }
+    ],
     "abstract": "Probabilistic graphical models are an elegant framework which combines uncertainty (probabilities) and logical structure (independence constraints) to compactly represent complex, real-world phenomena. The framework is quite general in that many of the commonly proposed statistical models (Kalman filters, hidden Markov models, Ising models) can be described as graphical models. Graphical models have enjoyed a surge of interest in the last two decades, due both to the flexibility and power of the representation and to the increased ability to effectively learn and perform inference in large networks."
 }

@@ -11,5 +11,10 @@
     "year": "2013",
     "publisher": "IEEE",
     "address": "Santa Clara, CA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/miao-bigdata13.pdf"
+        }
+    ]
 }

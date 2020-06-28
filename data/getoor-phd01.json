@@ -8,5 +8,10 @@
     "year": "2001",
     "publisher": "Stanford",
     "address": "Stanford, CA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/getoor-phd01.pdf"
+        }
+    ]
 }

@@ -12,5 +12,10 @@
     "publisher": "UMD",
     "number": "LAMP-TR150",
     "address": "College Park, MD, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/elsayed-techreport08.pdf"
+        }
+    ]
 }

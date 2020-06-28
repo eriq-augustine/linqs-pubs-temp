@@ -9,5 +9,10 @@
     "year": "2003",
     "publisher": "TextLink",
     "address": "Acapulco, Mexico",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/lu-textlink03.pdf"
+        }
+    ]
 }

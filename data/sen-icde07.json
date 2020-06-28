@@ -9,5 +9,10 @@
     "year": "2007",
     "publisher": "IEEE",
     "address": "Istanbul, Turkey",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sen-icde07.pdf"
+        }
+    ]
 }

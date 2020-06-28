@@ -13,5 +13,10 @@
     "year": "2011",
     "publisher": "IEEE",
     "address": "Honolulu, HI, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/minton-icmla11.pdf"
+        }
+    ]
 }

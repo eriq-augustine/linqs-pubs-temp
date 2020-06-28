@@ -10,5 +10,10 @@
     "year": "2014",
     "publisher": "AVI",
     "address": "Montr\u00e9al, QC, Canada",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/london-avi14.pdf"
+        }
+    ]
 }

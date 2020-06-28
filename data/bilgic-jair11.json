@@ -11,5 +11,10 @@
     "pages": "69--95",
     "volume": "41",
     "number": "1",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bilgic-jair11.pdf"
+        }
+    ]
 }

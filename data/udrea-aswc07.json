@@ -10,5 +10,10 @@
     "year": "2007",
     "publisher": "Springer-Verlag",
     "address": "Busan, Korea",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/udrea-aswc07.pdf"
+        }
+    ]
 }

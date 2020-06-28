@@ -9,5 +9,10 @@
     "year": "2004",
     "publisher": "ACM",
     "address": "Paris, France",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bhattacharya-dmkd04.pdf"
+        }
+    ]
 }

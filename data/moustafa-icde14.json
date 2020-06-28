@@ -11,5 +11,10 @@
     "year": "2014",
     "publisher": "IEEE",
     "address": "Chicago, IL, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/moustafa-icde14.pdf"
+        }
+    ]
 }

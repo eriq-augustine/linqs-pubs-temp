@@ -9,5 +9,10 @@
     "year": "2006",
     "publisher": "ICML",
     "address": "Pittsburgh, PA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sen-icml06.pdf"
+        }
+    ]
 }

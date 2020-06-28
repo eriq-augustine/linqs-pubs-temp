@@ -10,5 +10,10 @@
     "year": "2012",
     "publisher": "IEEE",
     "address": "Washington, DC, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/moustafa-icde12.pdf"
+        }
+    ]
 }

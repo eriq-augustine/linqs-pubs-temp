@@ -10,5 +10,10 @@
     "year": "2006",
     "publisher": "Springer-Verlag",
     "address": "Pittsburgh, PA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/namata-sna06.pdf"
+        }
+    ]
 }

@@ -15,6 +15,11 @@
     "edition": "1",
     "editor": "Lise Getoor and Benjamin Taskar",
     "chapter": "5",
-    "links": [],
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/getoor-inbook07.pdf"
+        }
+    ],
     "abstract": "Probabilistic relational models (PRMs) are a rich representation language for structured statistical models. They combine a frame-based logical representation with probabilistic semantics based on directed graphical models (Bayesian networks). This chapter gives an introduction to probabilistic relational models, describing semantics for attribute uncertainty, structural uncertainty, and class uncertainty. For each case, learning algorithms and some sample results are presented."
 }

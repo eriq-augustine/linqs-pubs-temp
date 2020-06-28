@@ -12,5 +12,10 @@
     "year": "2015",
     "publisher": "ACL",
     "address": "Lisbon, Portugal",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/grycner-emnlp15.pdf"
+        }
+    ]
 }

@@ -11,5 +11,10 @@
     "year": "2010",
     "publisher": "ACM",
     "address": "Raleigh, NC, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/zheleva-www10.pdf"
+        }
+    ]
 }

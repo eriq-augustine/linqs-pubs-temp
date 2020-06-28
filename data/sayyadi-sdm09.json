@@ -9,5 +9,10 @@
     "year": "2009",
     "publisher": "SIAM",
     "address": "Sparks, NV, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sayyadi-sdm09.pdf"
+        }
+    ]
 }

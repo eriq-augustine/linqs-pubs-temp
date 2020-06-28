@@ -9,5 +9,10 @@
     "year": "2014",
     "publisher": "AKBC",
     "address": "Montr\u00e9al, QC, Canada",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/pujara-akbc14.pdf"
+        }
+    ]
 }

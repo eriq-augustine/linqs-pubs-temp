@@ -11,5 +11,10 @@
     "year": "2005",
     "publisher": "LinkKDD",
     "address": "Chicago, IL, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/licamele-linkkdd05.pdf"
+        }
+    ]
 }

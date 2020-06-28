@@ -16,5 +16,10 @@
         "Sensitive Attribute Inference",
         "Social Networks"
     ],
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/zheleva-www09.pdf"
+        }
+    ]
 }

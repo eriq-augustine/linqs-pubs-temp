@@ -11,5 +11,10 @@
     "publisher": "FNAMMA",
     "address": "Lake Tahoe, NV, USA",
     "note": "Winner of the Best Student Paper award.",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bach-fnamma13.pdf"
+        }
+    ]
 }

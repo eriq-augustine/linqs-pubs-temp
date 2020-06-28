@@ -11,5 +11,10 @@
     "year": "2001",
     "publisher": "TLBS",
     "address": "Seattle, WA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/getoor-tlbs01.pdf"
+        }
+    ]
 }

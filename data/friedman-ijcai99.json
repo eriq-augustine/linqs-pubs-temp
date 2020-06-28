@@ -11,5 +11,10 @@
     "year": "1999",
     "publisher": "IJCAI",
     "address": "Stockholm, Sweden",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/friedman-ijcai99.pdf"
+        }
+    ]
 }

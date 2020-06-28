@@ -9,5 +9,10 @@
     "year": "2009",
     "publisher": "ANLG",
     "address": "Vancouver, BC, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bilgic-anlg09.pdf"
+        }
+    ]
 }

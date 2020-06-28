@@ -13,5 +13,10 @@
     "pages": "679--707",
     "volume": "3",
     "number": "December",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/getoor-jmlr02.pdf"
+        }
+    ]
 }

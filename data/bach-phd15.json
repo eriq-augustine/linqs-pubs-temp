@@ -9,5 +9,10 @@
     "publisher": "UMD",
     "address": "College Park, MD, USA",
     "note": "Winner of the Larry S. Davis Doctoral Dissertation award.",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bach-phd15.pdf"
+        }
+    ]
 }

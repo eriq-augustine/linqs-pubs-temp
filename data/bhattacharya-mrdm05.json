@@ -9,5 +9,10 @@
     "year": "2005",
     "publisher": "ACM",
     "address": "Chicago, IL, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bhattacharya-mrdm05.pdf"
+        }
+    ]
 }

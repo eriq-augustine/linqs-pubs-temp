@@ -10,5 +10,10 @@
     "year": "2011",
     "publisher": "UMWA",
     "address": "Hong Kong",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/mihalkova-umwa11.pdf"
+        }
+    ]
 }

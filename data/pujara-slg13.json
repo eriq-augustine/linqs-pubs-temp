@@ -11,5 +11,10 @@
     "year": "2013",
     "publisher": "SLG",
     "address": "Atlanta, GA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/pujara-slg13.pdf"
+        }
+    ]
 }

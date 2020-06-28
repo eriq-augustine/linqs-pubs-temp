@@ -11,5 +11,10 @@
     "year": "2007",
     "publisher": "ACM",
     "address": "Beijing, China",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/namata-cikm07.pdf"
+        }
+    ]
 }
