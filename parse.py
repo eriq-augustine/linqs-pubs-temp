@@ -29,11 +29,11 @@ SKIP_KEYS = [
 TYPE_FIELDS = {
     'article': {'number', 'pages', 'volume'},
     'book': {'edition'},
-    'conference': set(),
+    'conference': {'address'},
     'inbook': {'edition', 'editor', 'pages'},
-    'phdthesis': set(),
+    'phdthesis': {'address'},
     'techreport': set(),
-    'tutorial': set(),
+    'tutorial': {'address'},
     'unpublished': set(),
 }
 
@@ -52,10 +52,10 @@ SORTED_KEYS = [
     'number',
     'edition',
     'editor',
+    'address',
 
     # Extra.
     'chapter',
-    'address',
     'organization',
     'doi',
     'note',
