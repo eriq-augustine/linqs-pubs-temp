@@ -1,5 +1,5 @@
 filename	type	shortname	visibleShortname	venue	year	publisher	address
-sen-datamine08.json	article	datamine		Data Mining and Knowledge Discovery 	2008	Springer-Verlag	
+sen-datamine08.json	article	datamine		Data Mining and Knowledge Discovery	2008	Springer-Verlag	
 lansky-plra94.json	conference	plra		AAAI Fall Symposium on Planning and Learning: On to Real Applications	1994	AAAI	New Orleans, LA, USA
 bhattacharya-aaai07.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	2007	AAAI	Vancouver, BC, Canada
 bilgic-aaai10.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	2010	AAAI	Atlanta, GA, USA
@@ -277,7 +277,7 @@ bhattacharya-dmkd04.json	conference	dmkd	DMKD	SIGMOD Workshop on Research Issues
 zheleva-inbook11.json	inbook	inbook		Social Network Data Analytics	2011	Springer-Verlag	
 getoor-phd01.json	phdthesis	phd		Stanford	2001	Stanford	Stanford, CA, USA
 rekatsinas-sadm15.json	article	sadm		Statistical Analysis and Data Mining	2015	Wiley	
-desjardins-sara00.json	conference	sara	SARA	International Symposium on Abstraction, Reformulation, and Approximation	2000	Springer-Verlag	
+desjardins-sara00.json	conference	sara	SARA	International Symposium on Abstraction, Reformulation, and Approximation	2000	Springer-Verlag	Horseshoe Bay, TX, USA
 zheleva-book12.json	book	book		Synthesis Lectures on Data Mining and Knowledge Discovery	2012	Morgan & Claypool	
 namata-inbook09.json	inbook	inbook		Text Mining: Classification, Clustering, and Applications	2009	CRC Press	
 kouki-recsys15.json	conference	recsys	RecSys	ACM Conference on Recommender Systems	2015	ACM	Vienna, Austria
