@@ -1,0 +1,588 @@
+{
+    "AAAI Conference on Artificial Intelligence": {
+        "id": "aaai",
+        "shortname": "AAAI"
+    },
+    "AAAI Fall Symposium on Planning and Learning: On to Real Applications": {
+        "id": "plra"
+    },
+    "AAAI Spring Symposium on Integrated Planning Applications": {
+        "id": "ipa"
+    },
+    "AAAI Spring Symposium on Interactive and Mixed Initiative Decision-Theoretic Systems": {
+        "id": "imidts"
+    },
+    "AAAI Workshop on Declarative Learning Based Programming": {
+        "id": "delbp",
+        "shortname": "DeLBP"
+    },
+    "AAAI Workshop on Learning Statistical Models from Relational Data": {
+        "id": "lsmrd",
+        "shortname": "LSMRD"
+    },
+    "AAAI Workshop on Online Search": {
+        "id": "osl"
+    },
+    "AAAI Workshop on Semantics for Big Data": {
+        "id": "s4bd"
+    },
+    "AAAI/ACM Conference on AI, Ethics, and Society": {
+        "id": "aies",
+        "shortname": "AIES"
+    },
+    "ACL Joint Workshop on Social Dynamics and Personal Attributes in Social Media": {
+        "id": "sdpasm"
+    },
+    "ACL Workshop on Graph-based Methods for Natural Language Processing": {
+        "id": "textgraphs",
+        "shortname": "TextGraphs"
+    },
+    "ACL Workshop on Innovative Use of NLP for Building Educational Applications": {
+        "id": "bea",
+        "shortname": "BEA"
+    },
+    "ACM Conference on Learning at Scale": {
+        "id": "lats",
+        "shortname": "L@S"
+    },
+    "ACM Conference on Recommender Systems": {
+        "id": "recsys",
+        "shortname": "RecSys"
+    },
+    "ACM Transactions on Computational Logic": {
+        "id": "tocl",
+        "shortname": "TOCL"
+    },
+    "ACM Transactions on Information Systems": {
+        "id": "tois",
+        "shortname": "TOIS"
+    },
+    "ACM Transactions on Knowledge Discovery from Data": {
+        "id": "tkdd",
+        "shortname": "TKDD"
+    },
+    "AI Magazine": {
+        "id": "aim"
+    },
+    "AKBC Workshop on Federated Knowledge Bases": {
+        "id": "fkb"
+    },
+    "Advanced Methods for Knowledge Discovery from Complex Data": {
+        "id": "inbook"
+    },
+    "An Introduction to Statistical Relational Learning": {
+        "id": "inbook"
+    },
+    "Annual Meeting of the Association for Computational Linguistics": {
+        "id": "acl",
+        "shortname": "ACL"
+    },
+    "Artificial Intelligence in Medicine": {
+        "id": "aimj"
+    },
+    "Asian Semantic Web Conference": {
+        "id": "aswc",
+        "shortname": "ASWC"
+    },
+    "Automated Knowledge Base Construction": {
+        "id": "akbc",
+        "shortname": "AKBC"
+    },
+    "BMC Bioinformatics": {
+        "id": "bmcbio"
+    },
+    "Bay Area Machine Learning Symposium": {
+        "id": "baylearn",
+        "shortname": "BayLearn"
+    },
+    "Bioinformatics": {
+        "id": "bio"
+    },
+    "CIKM Workshop on Automated Knowledge Base Construction": {
+        "id": "akbc",
+        "shortname": "AKBC"
+    },
+    "CIKM Workshop on Search in Social Media": {
+        "id": "ssm",
+        "shortname": "SSM"
+    },
+    "CVPR Workshop on Structured Prediction: Tractability, Learning and Inference": {
+        "id": "sptli"
+    },
+    "Computational Methods of Feature Selection": {
+        "id": "inbook"
+    },
+    "Conference on Empirical Methods in Natural Language Processing": {
+        "id": "emnlp",
+        "shortname": "EMNLP"
+    },
+    "Conference on Innovative Data Systems Research": {
+        "id": "cidr",
+        "shortname": "CIDR"
+    },
+    "Conference on Machine Learning and Systems": {
+        "id": "mlsys",
+        "shortname": "MLSys"
+    },
+    "Conference on Neural Information Processing Systems": {
+        "id": "nips",
+        "shortname": "NeurIPS"
+    },
+    "Conference on Uncertainty in Artificial Intelligence": {
+        "id": "uai",
+        "shortname": "UAI"
+    },
+    "Constrained Clustering: Advances in Algorithms, Theory, and Applications": {
+        "id": "inbook"
+    },
+    "Data Classification: Algorithms and Applications": {
+        "id": "inbook"
+    },
+    "Data Mining and Knowledge Discovery": {
+        "id": "datamine"
+    },
+    "Educational Data Mining": {
+        "id": "edm",
+        "shortname": "EDM"
+    },
+    "Electronic Transactions on Artificial Intelligence": {
+        "id": "etai",
+        "shortname": "ETAI"
+    },
+    "Encyclopedia of Machine Learning": {
+        "id": "eml"
+    },
+    "European Conference on Machine Learning": {
+        "id": "ecml",
+        "shortname": "ECML"
+    },
+    "European Conference on Principles and Practice of Knowledge Discovery in Databases": {
+        "id": "pkdd",
+        "shortname": "ECML-PKDD"
+    },
+    "Healthcare Data Analytics": {
+        "id": "inbook"
+    },
+    "Human Journal": {
+        "id": "hj"
+    },
+    "ICDE Workshop on Graph Data Management": {
+        "id": "gdm",
+        "shortname": "GDM"
+    },
+    "ICDM Workshop on Data Mining on Uncertain Data": {
+        "id": "dmud"
+    },
+    "ICDM Workshop on Mining Graphs and Complex Structures": {
+        "id": "mgcs"
+    },
+    "ICDM Workshop on Mining and Management of Biological Data": {
+        "id": "mmbd"
+    },
+    "ICML Workshop on Attribute-Value and Relational Learning: Crossing the Boundaries": {
+        "id": "avrl"
+    },
+    "ICML Workshop on Combining Learning Strategies to Reduce Label Cost": {
+        "id": "comblearn"
+    },
+    "ICML Workshop on Inferning Interactions between Inference and Learning": {
+        "id": "inferning",
+        "shortname": "Inferning"
+    },
+    "ICML Workshop on Learning with Test-Time Budgets": {
+        "id": "lttb"
+    },
+    "ICML Workshop on Machine Learning for Causal Inference, Counterfactual Prediction, and Autonomous Action": {
+        "id": "causalml",
+        "shortname": "CausalML"
+    },
+    "ICML Workshop on Statistical Network Analysis": {
+        "id": "sna"
+    },
+    "ICML Workshop on Structured Learning: Inferring Graphs from Structured and Unstructured Inputs": {
+        "id": "slg",
+        "shortname": "SLG"
+    },
+    "ICML Workshop on The Continuum From Labeled to Unlabeled Data in Machine Learning and Data Mining": {
+        "id": "cludmldm"
+    },
+    "ICML Workshop on Tractable Probabilistic Modeling": {
+        "id": "tpm",
+        "shortname": "TPM"
+    },
+    "ICSW Workshop on Uncertainty Reasoning for the Semantic Web": {
+        "id": "ursw",
+        "shortname": "URSW"
+    },
+    "ICWSM Workshop on Beyond Online Data": {
+        "id": "bod"
+    },
+    "IEEE Conference on Visual Analytics Science and Technology": {
+        "id": "vast",
+        "shortname": "VAST"
+    },
+    "IEEE Data Engineering Bulletin": {
+        "id": "debu"
+    },
+    "IEEE International Conference on Big Data": {
+        "id": "bigdata",
+        "shortname": "BigData"
+    },
+    "IEEE International Conference on Data Engineering": {
+        "id": "icde",
+        "shortname": "ICDE"
+    },
+    "IEEE International Conference on Data Mining": {
+        "id": "icdm",
+        "shortname": "ICDM"
+    },
+    "IEEE Transactions on Knowledge and Data Engineering": {
+        "id": "tkde",
+        "shortname": "TKDE"
+    },
+    "IEEE Transactions on Learning Technologies": {
+        "id": "tlt",
+        "shortname": "TLT"
+    },
+    "IEEE Transactions on Pattern Analysis and Machine Intelligence": {
+        "id": "tpami",
+        "shortname": "TPAMI"
+    },
+    "IEEE Transactions on Visualization and Computer Graphics": {
+        "id": "tvcg",
+        "shortname": "TVCG"
+    },
+    "IEEE Workshop on Person-Oriented Vision": {
+        "id": "pov"
+    },
+    "IEEE/ACM Transactions on Computational Biology and Bioinformatics": {
+        "id": "tcbb",
+        "shortname": "TCBB"
+    },
+    "IJCAI Workshop on Semantic Web for Collaborative Knowledge Acquisition": {
+        "id": "swecka",
+        "shortname": "SWeCKa"
+    },
+    "IJCAI Workshop on Text Learning: Beyond Supervision": {
+        "id": "tlbs"
+    },
+    "IJCAI Workshop on Text Mining and Link Analysis": {
+        "id": "textlink",
+        "shortname": "TextLink"
+    },
+    "Intelligent User Interfaces": {
+        "id": "iui",
+        "shortname": "IUI"
+    },
+    "International Conference Information Visualization": {
+        "id": "iv",
+        "shortname": "IV"
+    },
+    "International Conference on Advances in Social Networks Analysis and Mining": {
+        "id": "asonam",
+        "shortname": "ASONAM"
+    },
+    "International Conference on Artificial Intelligence and Statistics": {
+        "id": "aistats",
+        "shortname": "AISTATS"
+    },
+    "International Conference on Database Theory": {
+        "id": "icdt",
+        "shortname": "ICDT"
+    },
+    "International Conference on Email and Anti-Spam": {
+        "id": "ceas",
+        "shortname": "CEAS"
+    },
+    "International Conference on Inductive Logic Programming": {
+        "id": "ilp",
+        "shortname": "ILP"
+    },
+    "International Conference on Information and Knowledge Management": {
+        "id": "cikm",
+        "shortname": "CIKM"
+    },
+    "International Conference on Knowledge Discovery and Data Mining": {
+        "id": "kdd",
+        "shortname": "KDD"
+    },
+    "International Conference on Machine Learning": {
+        "id": "icml",
+        "shortname": "ICML"
+    },
+    "International Conference on Machine Learning and Applications": {
+        "id": "icmla",
+        "shortname": "ICMLA"
+    },
+    "International Conference on Management of Data": {
+        "id": "sigmod",
+        "shortname": "SIGMOD"
+    },
+    "International Conference on Social Computing, Behavioral-Cultural Modeling, and Prediction": {
+        "id": "sbp",
+        "shortname": "SBP"
+    },
+    "International Conference on Social Informatics": {
+        "id": "socinfo"
+    },
+    "International Conference on Very Large Data Bases": {
+        "id": "vldb",
+        "shortname": "VLDB"
+    },
+    "International Conference on Web Information Systems Engineering": {
+        "id": "wise",
+        "shortname": "WISE"
+    },
+    "International Conference on Web Intelligence": {
+        "id": "wi",
+        "shortname": "WI"
+    },
+    "International Conference on Web Search and Data Mining": {
+        "id": "wsdm",
+        "shortname": "WSDM"
+    },
+    "International Conference on Web and Social Media": {
+        "id": "icwsm",
+        "shortname": "ICWSM"
+    },
+    "International Joint Conference on Artificial Intelligence": {
+        "id": "ijcai",
+        "shortname": "IJCAI"
+    },
+    "International Journal on Knowledge and Information Systems": {
+        "id": "kais",
+        "shortname": "KAIS"
+    },
+    "International Semantic Web Conference": {
+        "id": "iswc",
+        "shortname": "ISWC"
+    },
+    "International Sunbelt Social Network Conference": {
+        "id": "sunbelt"
+    },
+    "International Symposium on Abstraction, Reformulation, and Approximation": {
+        "id": "sara",
+        "shortname": "SARA"
+    },
+    "International Symposium on Geographic Information Systems": {
+        "id": "gis",
+        "shortname": "GIS"
+    },
+    "International Symposium on Graph Drawing": {
+        "id": "gd",
+        "shortname": "GD"
+    },
+    "International Workshop on Artificial Intelligence and Statistics": {
+        "id": "aistats",
+        "shortname": "AISTATS"
+    },
+    "International Workshop on Data Management for Sensor Networks": {
+        "id": "dmsn",
+        "shortname": "DMSN"
+    },
+    "International Workshop on Mining and Learning with Graphs": {
+        "id": "mlg",
+        "shortname": "MLG"
+    },
+    "International Workshop on Multi-Relational Data Mining": {
+        "id": "mrdm",
+        "shortname": "MRDM"
+    },
+    "International Workshop on Statistical Relational AI": {
+        "id": "starai",
+        "shortname": "StarAI"
+    },
+    "International Workshop on Statistical Relational Learning": {
+        "id": "srl",
+        "shortname": "SRL"
+    },
+    "Journal of Artificial Intelligence Research": {
+        "id": "jair",
+        "shortname": "JAIR"
+    },
+    "Journal of Bioinformatics and Computational Biology": {
+        "id": "jbcb",
+        "shortname": "JBCB"
+    },
+    "Journal of Educational Data Mining": {
+        "id": "jedm",
+        "shortname": "JEDM"
+    },
+    "Journal of Machine Learning Research": {
+        "id": "jmlr",
+        "shortname": "JMLR"
+    },
+    "KDD Workshop on Causal Discovery": {
+        "id": "cd"
+    },
+    "KDD Workshop on Data Mining in Bioinformatics": {
+        "id": "biokdd",
+        "shortname": "BIOKDD"
+    },
+    "KDD Workshop on Data Science for Social Good": {
+        "id": "dssg"
+    },
+    "KDD Workshop on Knowledge Discovery from Uncertain Data": {
+        "id": "kdud"
+    },
+    "KDD Workshop on Privacy, Security, and Trust in KDD": {
+        "id": "pinkdd",
+        "shortname": "PinKDD"
+    },
+    "KDD Workshop on Social Network Mining and Analysis": {
+        "id": "snakdd"
+    },
+    "KDD Workshop on Web Usage Analysis and User Profiling": {
+        "id": "webkdd",
+        "shortname": "WebKDD"
+    },
+    "Learning from Limited Labeled Data Workshop": {
+        "id": "lld",
+        "shortname": "LLD"
+    },
+    "Link Mining: Models, Algorithms, and Applications": {
+        "id": "inbook"
+    },
+    "Machine Learning": {
+        "id": "mlj"
+    },
+    "Managing and Mining Uncertain Data": {
+        "id": "inbook"
+    },
+    "Meeting of the Society for Medical Decision Making": {
+        "id": "smdm",
+        "shortname": "SMDM"
+    },
+    "Mining Graph Data": {
+        "id": "inbook"
+    },
+    "NIPS Workshop on Adaptive Sensing, Active Learning and Experimental Design: Theory, Methods and Applications": {
+        "id": "asaledtma"
+    },
+    "NIPS Workshop on Advances in Variational Inference": {
+        "id": "avi",
+        "shortname": "AVI"
+    },
+    "NIPS Workshop on Algorithmic and Statistical Approaches for Large Social Networks": {
+        "id": "asalsn"
+    },
+    "NIPS Workshop on Analyzing Networks and Learning with Graphs": {
+        "id": "anlg"
+    },
+    "NIPS Workshop on Automated Knowledge Base Construction (AKBC)": {
+        "id": "akbc",
+        "shortname": "AKBC"
+    },
+    "NIPS Workshop on Big Learning: Algorithms, Systems, and Tools": {
+        "id": "biglearn"
+    },
+    "NIPS Workshop on Coarse-to-Fine Processing": {
+        "id": "ctfp"
+    },
+    "NIPS Workshop on Data Driven Education": {
+        "id": "dde"
+    },
+    "NIPS Workshop on Discrete and Combinatorial Problems in Machine Learning": {
+        "id": "discml",
+        "shortname": "DISCML"
+    },
+    "NIPS Workshop on Frontiers of Network Analysis: Methods, Models, and Applications": {
+        "id": "fnamma"
+    },
+    "NIPS Workshop on Machine Learning in Computational Biology": {
+        "id": "mlcb"
+    },
+    "NIPS Workshop on Networks Across Disciplines: Theory and Applications": {
+        "id": "nadta"
+    },
+    "NIPS Workshop on Networks in Social and Information Sciences": {
+        "id": "nsis"
+    },
+    "NIPS Workshop on Personalizing Education With Machine Learning": {
+        "id": "peml"
+    },
+    "NIPS Workshop on Perturbation, Optimization, and Statistics": {
+        "id": "pos"
+    },
+    "NIPS Workshop on Predictive Models in Personalized Medicine": {
+        "id": "pmpm"
+    },
+    "NIPS Workshop on Probabilistic Programming: Foundations and Applications": {
+        "id": "ppfa"
+    },
+    "NIPS Workshop on Social Network and Social Media Analysis: Methods, Models and Applications": {
+        "id": "snsmamma"
+    },
+    "NIPS Workshop on Spectral Learning": {
+        "id": "sl"
+    },
+    "Nucleic Acids Research": {
+        "id": "nar"
+    },
+    "RecSys Workshop on Responsible Recommendation": {
+        "id": "fetrec",
+        "shortname": "FATREC"
+    },
+    "Relational Data Mining": {
+        "id": "inbook"
+    },
+    "SDM Workshop on Link Analysis, Counterterrorism and Security": {
+        "id": "lacs"
+    },
+    "SIAM International Conference on Data Mining": {
+        "id": "sdm",
+        "shortname": "SDM"
+    },
+    "SIGKDD Explorations": {
+        "id": "kddexp"
+    },
+    "SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery": {
+        "id": "dmkd",
+        "shortname": "DMKD"
+    },
+    "Schizophrenia Research": {
+        "id": "sr"
+    },
+    "Social Network Analysis and Mining": {
+        "id": "snam",
+        "shortname": "SNAM"
+    },
+    "Social Network Data Analytics": {
+        "id": "inbook"
+    },
+    "Statistical Analysis and Data Mining": {
+        "id": "sadm"
+    },
+    "Text Mining: Classification, Clustering, and Applications": {
+        "id": "inbook"
+    },
+    "The VLDB Journal": {
+        "id": "vldbj"
+    },
+    "The Web Conference": {
+        "id": "www",
+        "shortname": "WWW"
+    },
+    "UAI Workshop on Causation": {
+        "id": "causation"
+    },
+    "WSDM Workshop on User Modeling for Web Applications": {
+        "id": "umwa",
+        "shortname": "UMWA"
+    },
+    "WSDM Workshop on Workshop on Knowledge Base Construction, Reasoning and Mining": {
+        "id": "kbcom",
+        "shortname": "KBCOM"
+    },
+    "Workshop on Feature Selection for Data Mining": {
+        "id": "fsdm",
+        "shortname": "FSDM"
+    },
+    "Workshop on Link Analysis and Group Detection": {
+        "id": "linkkdd",
+        "shortname": "LinkKDD"
+    },
+    "arXiv": {
+        "id": "arxiv"
+    }
+}

@@ -6,6 +6,7 @@ import re
 
 DATA_PATH = 'data'
 MANUAL_PATH = 'manual.tsv'
+VENUES_PATH = 'venues.json'
 
 WRITE_BACK_FILE = False
 
@@ -180,13 +181,42 @@ def loadManualFile():
 
             manualData[parts[0]] = {
                 'type': parts[1],
-                'shortname': parts[2],
-                'visibleShortname': parts[3],
+                'venueID': parts[2],
+                'venueShortname': parts[3],
                 'venue': parts[4],
                 'year': parts[5],
                 'publisher': parts[6],
                 'address': parts[7],
             }
+
+    # Collect venue information.
+    venues = {}
+    for data in manualData.values():
+        if (data['type'] in {'book', 'phdthesis', 'techreport'}):
+            continue
+
+        venue = data['venue']
+        id = data['venueID']
+        shortname = data['venueShortname']
+
+        if (venue not in venues):
+            venues[venue] = {
+                'id': id,
+            }
+
+            if (shortname != ''):
+                venues[venue]['shortname'] = shortname
+        else:
+            if (venues[venue]['id'] != id):
+                raise ValueError("Inconsistent venue ids. Venue: '%s', ids: ('%s', '%s')." % (venue, venues[venue]['id'], id))
+
+            if (shortname != '' and venues[venue]['shortname'] != shortname):
+                raise ValueError("Inconsistent venue shortnames. Venue: '%s', shortnames: ('%s', '%s')." % (venue, venues[venue]['shortname'], shortname))
+
+    if (WRITE_BACK_FILE):
+        with open(VENUES_PATH, 'w') as file:
+            json.dump(venues, file, indent = 4, sort_keys = True)
+            file.write("\n")
 
     return manualData
 
@@ -199,7 +229,7 @@ def validateManualFile(manualDataFull, filename, data):
     lastName = data['authors'][0].split(' ')[-1]
     filenameLastName = re.sub(r'\*$', '', lastName.lower())
 
-    filenameRegex = r'^%s-%s%s[abc]?\.json$' % (filenameLastName, manualData['shortname'], data['year'][-2:])
+    filenameRegex = r'^%s-%s%s[abc]?\.json$' % (filenameLastName, manualData['venueID'], data['year'][-2:])
     if (not re.match(filenameRegex, filename)):
         raise ValueError("Entry named incorrectly. Is: '%s', should be: '%s'." % (filename, filenameRegex))
 

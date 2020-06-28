@@ -1,4 +1,4 @@
-filename	type	shortname	visibleShortname	venue	year	publisher	address
+filename	type	venueID	venueShortname	venue	year	publisher	address
 sen-datamine08.json	article	datamine		Data Mining and Knowledge Discovery	2008	Springer-Verlag	
 lansky-plra94.json	conference	plra		AAAI Fall Symposium on Planning and Learning: On to Real Applications	1994	AAAI	New Orleans, LA, USA
 bhattacharya-aaai07.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	2007	AAAI	Vancouver, BC, Canada
@@ -293,7 +293,7 @@ pujara-starai15.json	conference	starai	StarAI	International Workshop on Statisti
 chajewska-uai98.json	conference	uai	UAI	Conference on Uncertainty in Artificial Intelligence	1998	Elsevier	Madison, WI, USA
 sen-uai09.json	conference	uai	UAI	Conference on Uncertainty in Artificial Intelligence	2009	AUAI	Montréal, QC, Canada
 bach-uai13.json	conference	uai	UAI	Conference on Uncertainty in Artificial Intelligence	2013	AUAI	Bellvue, WA, USA
-pujara-uai15.json	conference	uai	UAI	`	2015	AUAI	Amsterdam, The Netherlands
+pujara-uai15.json	conference	uai	UAI	Conference on Uncertainty in Artificial Intelligence	2015	AUAI	Amsterdam, The Netherlands
 augustine-uai18.json	tutorial	uai	UAI	Conference on Uncertainty in Artificial Intelligence	2018	AUAI	Monterey, CA, USA
 kouki-phd18.json	phdthesis	phd		University of California, Santa Cruz	2018	UCSC	Santa Cruz, CA, USA
 london-phd15.json	phdthesis	phd		University of Maryland, College Park	2015	UMD	College Park, MD, USA
