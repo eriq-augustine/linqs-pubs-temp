@@ -107,9 +107,9 @@ hwang-tkde12.json	article	tkde	TKDE	IEEE Transactions on Knowledge and Data Engi
 panagiotis-tkde12.json	article	tkde	TKDE	IEEE Transactions on Knowledge and Data Engineering	2012	IEEE	
 kimmig-tkde19.json	article	tkde	TKDE	IEEE Transactions on Knowledge and Data Engineering	2019	IEEE	
 ramesh-tlt20.json	article	tlt	TLT	IEEE Transactions on Learning Technologies	2020	IEEE	
-daozheng-tpami11.json	article	tpami	TPAMI	IEEE Transactions on Pattern Analysis and Machine Intelligence	2011	IEEE	
+chen-tpami11.json	article	tpami	TPAMI	IEEE Transactions on Pattern Analysis and Machine Intelligence	2011	IEEE	
 kang-tvcg08.json	article	tvcg	TVCG	IEEE Transactions on Visualization and Computer Graphics	2008	IEEE	
-daozheng-pov11.json	conference	pov		IEEE Workshop on Person-Oriented Vision	2011	IEEE	Kona, HI, USA
+chen-pov11.json	conference	pov		IEEE Workshop on Person-Oriented Vision	2011	IEEE	Kona, HI, USA
 fakhraei-tcbb14.json	article	tcbb	TCBB	IEEE/ACM Transactions on Computational Biology and Bioinformatics	2014	IEEE/ACM	
 udrea-swecka07.json	conference	swecka	SWeCKa	IJCAI Workshop on Semantic Web for Collaborative Knowledge Acquisition	2007	SWeCKa	Hyderabad, India
 embar-starai18.json	conference	starai	StarAI	International Workshop on Statistical Relational AI	2018	arXiv	Stockholm, Sweden
@@ -196,7 +196,7 @@ friedman-aistats99.json	conference	aistats	AISTATS	International Workshop on Art
 haidarian-shahri-dmsn07.json	conference	dmsn	DMSN	International Workshop on Data Management for Sensor Networks	2007	ACM	Vienna, Austria
 namata-mlg09.json	conference	mlg	MLG	International Workshop on Mining and Learning with Graphs	2009	MLG	Leuven, Belgium
 broecheler-srl09.json	conference	srl	SRL	International Workshop on Statistical Relational Learning	2009	SRL	Leuven, Belgium
-zheleva-www09a.json	conference	www	WWW	The Web Conference	2009	ACM	Madrid, Spain
+zheleva-www09.json	conference	www	WWW	The Web Conference	2009	ACM	Madrid, Spain
 zheleva-www10.json	conference	www	WWW	The Web Conference	2010	ACM	Raleigh, NC, USA
 getoor-book07.json	book	book		Introduction to Statistical Relational Learning	2007	MIT Press	
 bhattacharya-jair07.json	article	jair	JAIR	Journal of Artificial Intelligence Research	2007	JAIR	
@@ -285,7 +285,6 @@ kouki-recsys17.json	conference	recsys	RecSys	ACM Conference on Recommender Syste
 broecheler-uai10.json	conference	uai	UAI	Conference on Uncertainty in Artificial Intelligence	2010	AUAI	Catalina Island, CA, USA
 sharara-sunbelt10.json	conference	sunbelt		International Sunbelt Social Network Conference	2010	INSNA	Riva del Garda, Italy
 sen-vldbj09.json	article	vldbj		The VLDB Journal	2009	VLDB	
-zheleva-www09b.json	conference	www	WWW	The Web Conference	2009	ACM	Madrid, Spain
 zhang-www18.json	conference	www	WWW	The Web Conference	2018	ACM	Lyon, France
 sridhar-causation16.json	conference	causation		UAI Workshop on Causation	2016	CAUSATION	New York, NY, USA
 huang-starai12.json	conference	starai	StarAI	International Workshop on Statistical Relational AI	2012	StarAI	Catalina Island, CA, USA

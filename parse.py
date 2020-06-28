@@ -104,6 +104,7 @@ def titlecase(title):
         'Pxml:': 'PXML:',
         'Xml': 'XML',
         'Rna': 'RNA',
+        'Vs.': 'vs.',
         'Spliceport - an': 'SplicePort - An',
         'Geoddupe:': 'GeoDDupe:',
         'La-Lda:': 'LA-LDA:',
