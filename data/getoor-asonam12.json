@@ -9,6 +9,9 @@
     "year": "2012",
     "publisher": "IEEE",
     "links": [
-        {"label": "slides", "href": "/assets/papers/getoor-asonam12-slides.pdf"}
+        {
+            "label": "slides",
+            "href": "/assets/papers/getoor-asonam12-slides.pdf"
+        }
     ]
 }

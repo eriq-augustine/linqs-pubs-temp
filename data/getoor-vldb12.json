@@ -8,6 +8,9 @@
     "venue": "International Conference on Very Large Data Bases (VLDB)",
     "year": "2012",
     "links": [
-        {"label": "slides", "href": "/assets/papers/getoor-vldb12-slides.pdf"}
+        {
+            "label": "slides",
+            "href": "/assets/papers/getoor-vldb12-slides.pdf"
+        }
     ]
 }
