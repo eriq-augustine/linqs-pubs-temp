@@ -85,6 +85,7 @@ def titlecase(title):
     lowercase = ['a', 'an', 'and', 'at', 'between', 'but', 'by', 'for', 'in', 'the', 'to', 'of', 'on', 'or', 'with']
     fixes = {
         'Psl': 'PSL',
+        'Srl': 'SRL',
         'Mltrain': 'MLtrain',
         'Max Sat': 'MAX SAT',
         'Map Inference': 'MAP Inference',
@@ -94,6 +95,7 @@ def titlecase(title):
         ': a': ': A',
         ': the': ': The',
         'Mrfs': 'MRFs',
+        'Hl-MRFs': 'HL-MRFs',
         'Standardgamble': 'StandardGamble',
         'Prl:': 'PRL:',
         'Relly:': 'RELLY:',
@@ -207,6 +209,15 @@ def validateManualFile(manualDataFull, filename, data):
     if (manualData['address'] != ''):
         data['address'] = manualData['address']
 
+def fixKeywords(data):
+    if ('keywords' not in data):
+        return
+
+    if (isinstance(data['keywords'], str)):
+        text = titlecase(data['keywords'])
+        keywords = [keyword.strip() for keyword in text.split(',')]
+        data['keywords'] = keywords
+
 def main():
     manualData = loadManualFile()
 
@@ -218,6 +229,8 @@ def main():
 
         validateEntry(dirent, data)
         validateManualFile(manualData, dirent, data)
+
+        fixKeywords(data)
 
         data['title'] = titlecase(data['title'])
 

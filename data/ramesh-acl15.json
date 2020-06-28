@@ -11,6 +11,12 @@
     "year": "2015",
     "publisher": "ACL",
     "address": "Beijing, China",
-    "keywords": "Discussion Forums, HL-MRFs, MOOCs, Online Courses, SRL",
+    "keywords": [
+        "Discussion Forums",
+        "HL-MRFs",
+        "MOOCs",
+        "Online Courses",
+        "SRL"
+    ],
     "links": []
 }

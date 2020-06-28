@@ -13,7 +13,11 @@
     "pages": "410-425",
     "volume": "8",
     "number": "1",
-    "keywords": "feature generation, functional biological signals, splice-site",
+    "keywords": [
+        "Feature Generation",
+        "Functional Biological Signals",
+        "Splice-Site"
+    ],
     "links": [
         {
             "label": "other",

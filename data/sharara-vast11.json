@@ -12,6 +12,11 @@
     "year": "2011",
     "publisher": "IEEE",
     "address": "Providence, RI, USA",
-    "keywords": "Comparative Analysis, Model Comparison, Uncertain Graphs, Visualizing Uncertainty",
+    "keywords": [
+        "Comparative Analysis",
+        "Model Comparison",
+        "Uncertain Graphs",
+        "Visualizing Uncertainty"
+    ],
     "links": []
 }

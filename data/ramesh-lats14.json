@@ -12,6 +12,13 @@
     "year": "2014",
     "publisher": "ACM",
     "address": "Atlanta, GA, USA",
-    "keywords": "MOOC, learner engagement, learning analytics, online education, probabilistic modeling, structured prediction",
+    "keywords": [
+        "MOOC",
+        "Learner Engagement",
+        "Learning Analytics",
+        "Online Education",
+        "Probabilistic Modeling",
+        "Structured Prediction"
+    ],
     "links": []
 }

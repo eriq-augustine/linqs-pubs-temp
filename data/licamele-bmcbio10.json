@@ -11,6 +11,10 @@
     "pages": "137",
     "volume": "11",
     "number": "1",
-    "keywords": "gene expression bioinformatics drug therapeutics",
+    "keywords": [
+        "Gene Expression",
+        "Bioinformatics",
+        "Drug Therapeutics"
+    ],
     "links": []
 }

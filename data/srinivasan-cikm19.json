@@ -11,7 +11,14 @@
     "year": "2019",
     "publisher": "ACM",
     "address": "Lisbon, Portugal",
-    "keywords": "collective classification, defect, probabilistic soft logic, search, statistical relational language, structured prediction",
+    "keywords": [
+        "Collective Classification",
+        "Defect",
+        "Probabilistic Soft Logic",
+        "Search",
+        "Statistical Relational Language",
+        "Structured Prediction"
+    ],
     "links": [],
     "abstract": "E-commerce search engines are the primary means by which customers\nshop for products online. Each customer query contains\nmultiple facets such as product type, color, brand, etc. A successful\nsearch engine retrieves products that are relevant to the query along\neach of these attributes. However, due to lexical (erroneous title,\ndescription, etc.) and behavioral irregularities (clicks or purchases\nof products that do not belong to the same facet as the query),\nsome mismatched products are shown in the search results. These\nirregularities are often detected using simple binary classifiers like\ngradient boosted decision trees or logistic regression. Typically,\nthese binary classifiers use strong independence assumptions between\nthe samples and ignore structural relationships available in\nthe data, such as the connections between products and queries.\nIn this paper, we use the connections that exist between products\nand query to identify a special kind of structure we refer to as a\nmicrograph. Further, we make use of Statistical Relational Learning\n(SRL) to incorporate these micrographs in the data and pose\nthe problem as a structured prediction problem. We refer to this\napproach as structured mismatch classification (smc). In addition,\nwe show that naive addition of structure does not improve the\nperformance of the model and hence introduce a variation of smc,\nstrong smc (s2mc), which improves over the baseline by passing\ninformation from high-confidence predictions to lower confidence\npredictions. In our empirical evaluation we show that our proposed\napproach outperforms the baseline classification methods by up to\n12\\% in precision. Furthermore, we use quasi-Newton methods to\nmake our method viable for real-time inference in a search engine\nand show that our approach is up to 150 times faster than existing\nADMM-based solvers."
 }

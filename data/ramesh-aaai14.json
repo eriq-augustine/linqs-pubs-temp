@@ -12,6 +12,11 @@
     "year": "2014",
     "publisher": "AAAI",
     "address": "Qu\u00e9bec City, QC, Canada",
-    "keywords": "MOOC, learner engagement, probabilistic modeling, structured prediction",
+    "keywords": [
+        "MOOC",
+        "Learner Engagement",
+        "Probabilistic Modeling",
+        "Structured Prediction"
+    ],
     "links": []
 }

@@ -9,6 +9,11 @@
     "year": "2011",
     "publisher": "ACM",
     "address": "Hong Kong",
-    "keywords": "Statistical relational learning, social media, tutorial, web",
+    "keywords": [
+        "Statistical Relational Learning",
+        "Social Media",
+        "Tutorial",
+        "Web"
+    ],
     "links": []
 }

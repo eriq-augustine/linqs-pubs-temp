@@ -10,6 +10,11 @@
     "year": "2015",
     "publisher": "NSIS",
     "address": "Montr\u00e9al, QC, Canada",
-    "keywords": "HL-MRFs, influence, professional networks, social networks",
+    "keywords": [
+        "HL-MRFs",
+        "Influence",
+        "Professional Networks",
+        "Social Networks"
+    ],
     "links": []
 }
