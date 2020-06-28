@@ -12,5 +12,5 @@
     "publisher": "SLG",
     "address": "Atlanta, GA, USA",
     "links": [],
-    "abstract": "<p>When learning structured predictors, collective stability is an important factor for generalization. London et al. (2013) provide the first analysis of this effect, proving that collectively stable hypotheses produce less deviation between empirical risk and true risk, i.e., defect. We test this effect empirically using a collectively stable variant of maxmargin Markov networks. Our experiments on webpage classification validate that increasing the collective stability reduces the defect and can thus lead to lower overall test error</p>"
+    "abstract": "When learning structured predictors, collective stability is an important factor for generalization. London et al. (2013) provide the first analysis of this effect, proving that collectively stable hypotheses produce less deviation between empirical risk and true risk, i.e., defect. We test this effect empirically using a collectively stable variant of maxmargin Markov networks. Our experiments on webpage classification validate that increasing the collective stability reduces the defect and can thus lead to lower overall test error."
 }
