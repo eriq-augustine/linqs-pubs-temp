@@ -7,7 +7,7 @@ import re
 DATA_PATH = 'data'
 MANUAL_PATH = 'manual.tsv'
 
-WRITE_BACK_FILE = True
+WRITE_BACK_FILE = False
 
 ALLOWED_TYPES = {'article', 'book', 'conference', 'inbook', 'phdthesis', 'techreport', 'tutorial', 'unpublished'}
 
@@ -17,6 +17,7 @@ REQUIRED_KEYS = [
     'title',
     'year',
     'venue',
+    'publisher',
 ]
 
 SKIP_KEYS = [
@@ -27,9 +28,9 @@ SKIP_KEYS = [
 # Keys (outside of REQUIRED_KEYS) that are required for specific types.
 TYPE_FIELDS = {
     'article': {'number', 'pages', 'volume'},
-    'book': {'edition', 'publisher'},
+    'book': {'edition'},
     'conference': set(),
-    'inbook': {'edition', 'editor', 'pages', 'publisher'},
+    'inbook': {'edition', 'editor', 'pages'},
     'phdthesis': set(),
     'techreport': set(),
     'tutorial': set(),
@@ -43,6 +44,7 @@ SORTED_KEYS = [
     'authors',
     'venue',
     'year',
+    'publisher',
 
     # Type-dependent.
     'pages',
@@ -50,7 +52,6 @@ SORTED_KEYS = [
     'number',
     'edition',
     'editor',
-    'publisher',
 
     # Extra.
     'chapter',
