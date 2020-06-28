@@ -8,8 +8,10 @@
         "James Foulds",
         "Lise Getoor"
     ],
-    "venue": "Conference on Neural Information Processing Systems (NIPS)",
+    "venue": "Conference on Neural Information Processing Systems",
     "year": "2014",
+    "publisher": "NIPS",
+    "address": "Montr\u00e9al, QC, Canada",
     "links": [],
     "abstract": "<p>The task of finding synonymous relational phrases is important in natural language understanding problems such as question answering and paraphrase detection. While this task has been addressed by many previous systems, each of these existing approaches is limited either in expressivity or in scalability. To address this challenge, we present a large-scale statistical relational method for clustering relational phrases using Probabilistic Soft Logic (PSL) [1]. To assess the quality of our approach, we evaluated it relative to a set of baseline methods. The proposed technique was found to outperform the baselines for both clustering and link prediction, and was shown to be scalable enough to be applied to 200,000relational phrases.</p>"
 }

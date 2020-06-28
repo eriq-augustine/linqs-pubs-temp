@@ -7,11 +7,12 @@
         "Lise Getoor",
         "Jacobs David"
     ],
-    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
     "year": "2011",
     "pages": "2174--2187",
     "volume": "33",
     "number": "11",
+    "publisher": "IEEE",
     "links": [],
     "abstract": "<p><span style=\"color: $\\#$000000; font-size: medium;\">Large stores of digital video pose severe computational challenges to existing video analysis algorithms. In applying these algorithms, users must often trade off processing speed for accuracy, as many sophisticated and effective algorithms require large computational resources that make it impractical to apply them throughout long videos. One can save considerable effort by applying these expensive algorithms sparingly, directing their application using the results of more limited processing. We show how to do this for retrospective video analysis by modeling a video using a chain graphical model and performing inference both to analyze the video and to direct processing. We apply our method to problems in background subtraction and face detection, and show in experiments that this leads to significant improvements over baseline algorithms.</span></p>"
 }

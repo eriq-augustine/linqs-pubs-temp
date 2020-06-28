@@ -7,11 +7,12 @@
         "Bert Huang",
         "Lise Getoor"
     ],
-    "venue": "Journal of Machine Learning Research (JMLR)",
+    "venue": "Journal of Machine Learning Research",
     "year": "2017",
     "pages": "1--67",
     "volume": "18",
     "number": "1",
+    "publisher": "JMLR",
     "links": [
         {
             "label": "code",

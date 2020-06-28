@@ -5,8 +5,10 @@
         "Lise Getoor",
         "Ashwin Machanavajjhala"
     ],
-    "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
+    "venue": "International Conference on Knowledge Discovery and Data Mining",
     "year": "2013",
+    "publisher": "ACM",
+    "address": "Chicago, IL, USA",
     "links": [
         {
             "label": "slides",

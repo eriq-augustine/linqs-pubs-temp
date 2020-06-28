@@ -6,7 +6,9 @@
         "Bert Huang",
         "Lise Getoor"
     ],
-    "venue": "NIPS Workshop on Advances in Variational Inference (AVI)",
+    "venue": "NIPS Workshop on Advances in Variational Inference",
     "year": "2014",
+    "publisher": "AVI",
+    "address": "Montr\u00e9al, QC, Canada",
     "links": []
 }

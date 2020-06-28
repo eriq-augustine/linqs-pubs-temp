@@ -7,8 +7,10 @@
         "Lise Getoor",
         "William Cohen"
     ],
-    "venue": "International Semantic Web Conference (ISWC)",
+    "venue": "International Semantic Web Conference",
     "year": "2013",
+    "publisher": "ACM",
+    "address": "Zurich, Switzerland",
     "note": "Winner of the Best Student Paper award.",
     "links": []
 }

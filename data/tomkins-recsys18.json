@@ -7,8 +7,10 @@
         "Ben London",
         "Lise Getoor"
     ],
-    "venue": "Recommender Systems (RecSys)",
+    "venue": "ACM Conference on Recommender Systems",
     "year": "2018",
+    "publisher": "ACM",
+    "address": "Vancouver, BC, Canada",
     "links": [],
     "abstract": "Finding sustainable products and evaluating their claims is a significant barrier facing sustainability-minded customers. Tools that reduce both these burdens are likely to boost the sale of sustainable products. However, it is difficult to determine the sustainability characteristics of these products \u2014 there are a variety of certifications and definitions of sustainability, and quality labeling requires input from domain experts. In this paper, we propose a flexible probabilistic framework that uses domain knowledge to identify sustainable products and customers, and uses these labels to predict customer purchases. We evaluate our approach on grocery items from the Amazon catalog. Our proposed approach outperforms established recommender system models in predicting future purchases while jointly inferring sustainability scores for customers and products."
 }

@@ -5,9 +5,10 @@
         "Eriq Augustine",
         "Golnoosh Farnadi"
     ],
-    "venue": "Uncertainty in Artificial Intelligence (UAI)",
+    "venue": "Conference on Uncertainty in Artificial Intelligence",
     "year": "2018",
     "publisher": "AUAI",
+    "address": "Monterey, CA, USA",
     "links": [
         {
             "label": "code",

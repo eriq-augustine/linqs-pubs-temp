@@ -8,9 +8,10 @@
         "Hal Daume III",
         "Larry Davis"
     ],
-    "venue": "International Conference on Machine Learning (ICML)",
+    "venue": "International Conference on Machine Learning",
     "year": "2013",
     "pages": "1328--1336",
-    "publisher": "JMLR",
+    "publisher": "PMLR",
+    "address": "Atlanta, GA, USA",
     "links": []
 }

@@ -5,7 +5,9 @@ import os
 import re
 
 DATA_PATH = 'data'
-WRITE_BACK_FILE = False
+MANUAL_PATH = 'manual.tsv'
+
+WRITE_BACK_FILE = True
 
 ALLOWED_TYPES = {'article', 'book', 'conference', 'inbook', 'phdthesis', 'techreport', 'tutorial', 'unpublished'}
 
@@ -155,7 +157,58 @@ def validateEntry(filename, data):
         if (requiredKey not in data):
             raise ValueError("File (%s) of type (%s) does not contain the required field: '%s'." % (filename, data['type'], requiredKey))
 
+def loadManualFile():
+    manualData = {}
+
+    with open(MANUAL_PATH, 'r') as file:
+        first = True
+        for line in file:
+            if (first):
+                first = False
+                continue
+
+            line = line.strip()
+            if (line == ''):
+                continue
+
+            parts = line.split("\t")
+            if (len(parts) == 7):
+                parts.append('')
+
+            manualData[parts[0]] = {
+                'type': parts[1],
+                'shortname': parts[2],
+                'visibleShortname': parts[3],
+                'venue': parts[4],
+                'year': parts[5],
+                'publisher': parts[6],
+                'address': parts[7],
+            }
+
+    return manualData
+
+# Validate against a manually curated file.
+def validateManualFile(manualDataFull, filename, data):
+    if (filename not in manualDataFull):
+        raise ValueError("Could not locate manual information for %s." % (filename))
+    manualData = manualDataFull[filename]
+
+    lastName = data['authors'][0].split(' ')[-1]
+    filenameLastName = re.sub(r'\*$', '', lastName.lower())
+
+    filenameRegex = r'^%s-%s%s[abc]?\.json$' % (filenameLastName, manualData['shortname'], data['year'][-2:])
+    if (not re.match(filenameRegex, filename)):
+        raise ValueError("Entry named incorrectly. Is: '%s', should be: '%s'." % (filename, filenameRegex))
+
+    data['venue'] = manualData['venue']
+    data['publisher'] = manualData['publisher']
+
+    if (manualData['address'] != ''):
+        data['address'] = manualData['address']
+
 def main():
+    manualData = loadManualFile()
+
     for dirent in sorted(os.listdir(DATA_PATH)):
         path = os.path.join(DATA_PATH, dirent)
 
@@ -163,6 +216,7 @@ def main():
             data = sortKeys(json.load(file))
 
         validateEntry(dirent, data)
+        validateManualFile(manualData, dirent, data)
 
         data['title'] = titlecase(data['title'])
 

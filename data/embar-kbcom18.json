@@ -7,8 +7,10 @@
         "Jay Pujara",
         "Lise Getoor"
     ],
-    "venue": "WSDM Workshop on Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM)",
+    "venue": "WSDM Workshop on Workshop on Knowledge Base Construction, Reasoning and Mining",
     "year": "2018",
+    "publisher": "KBCOM",
+    "address": "Stanford, CA, USA",
     "links": [],
     "abstract": "<p><span style=\"color: $\\#$2e414f; font-family: Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 15.4px; white-space: pre-line; background-color: $\\#$ebeced;\">E-commerce sites group similar products into categories, and these categories are further organized in a taxonomy. Since different sites have different products and cater to a variety of shoppers, the taxonomies differ both in the categorization of products and the textual representation used for these categories. In this paper, we propose a technique to align categories across sites, which is useful information to have in product graphs. We use breadcrumbs present on the product pages to infer a site's taxonomy. We generate a list of candidate category pairs for alignment using anchor products products present in two or more sites. We use multiple similarity and distance metrics to compare these candidates. To generate the final set of alignments, we propose a model that combines these metrics with a set of structural constraints. The model is based on probabilistic soft logic (PSL), a scalable probabilistic programming framework. We run experiments on data extracted from Amazon, Ebay, Staples and Target, and show that the distance metric based on products, and the use of PSL to combine various metrics and structural constraints lead to improved alignments.</span></p>"
 }

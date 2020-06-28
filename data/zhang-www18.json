@@ -8,8 +8,10 @@
         "Dhanya Sridhar",
         "Lise Getoor"
     ],
-    "venue": "The World Wide Web Conference (WWW)",
+    "venue": "The Web Conference",
     "year": "2018",
+    "publisher": "ACM",
+    "address": "Lyon, France",
     "links": [
         {
             "label": "code",

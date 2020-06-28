@@ -1,0 +1,313 @@
+filename	type	shortname	visibleShortname	venue	year	publisher	address
+sen-datamine08.json	article	datamine		Data Mining and Knowledge Discovery 	2008	Springer-Verlag	
+lansky-plra94.json	conference	plra		AAAI Fall Symposium on Planning and Learning: On to Real Applications	1994	AAAI	New Orleans, LA, USA
+bhattacharya-aaai07.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	2007	AAAI	Vancouver, BC, Canada
+bilgic-aaai10.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	2010	AAAI	Atlanta, GA, USA
+lansky-ipa95.json	conference	ipa		AAAI Spring Symposium on Integrated Planning Applications	1995	AAAI	Palo Alto, CA, USA
+chajewska-imidts98.json	conference	imidts		AAAI Spring Symposium on Interactive and Mixed Initiative Decision-Theoretic Systems	1998	AAAI	Palo Alto, CA, USA
+farnadi-delbp18.json	conference	delbp	DeLBP	AAAI Workshop on Declarative Learning Based Programming	2018	AAAI	New Orleans, LA, USA
+getoor-lsmrd00.json	conference	lsmrd	LSMRD	AAAI Workshop on Learning Statistical Models from Relational Data	2000	AAAI	Austin, TX, USA
+getoor-osl97.json	conference	osl		AAAI Workshop on Online Search	1997	AAAI	Providence, RI, USA
+pujara-s4bd13.json	conference	s4bd		AAAI Workshop on Semantics for Big Data	2013	AAAI	Arlington, VA, USA
+farnadi-starai14.json	conference	starai	StarAI	International Workshop on Statistical Relational AI	2014	AAAI	Québec City, QC, Canada
+embar-starai20.json	conference	starai	StarAI	International Workshop on Statistical Relational AI	2020	AAAI	New York, NY, USA
+sridhar-sdpasm14.json	conference	sdpasm		ACL Joint Workshop on Social Dynamics and Personal Attributes in Social Media	2014	ACL	Baltimore, MD, USA
+somasundaran-textgraphs09.json	conference	textgraphs	TextGraphs	ACL Workshop on Graph-based Methods for Natural Language Processing	2009	ACL	Singapore
+ramesh-bea14.json	conference	bea	BEA	ACL Workshop on Innovative Use of NLP for Building Educational Applications	2014	ACL	Baltimore, MD, USA
+ramesh-lats14.json	conference	lats	L@S	ACM Conference on Learning at Scale	2014	ACM	Atlanta, GA, USA
+hung-tocl07.json	article	tocl	TOCL	ACM Transactions on Computational Logic	2007	ACM	
+zheleva-tois08.json	article	tois	TOIS	ACM Transactions on Information Systems	2008	ACM	
+skaggs-tois14.json	article	tois	TOIS	ACM Transactions on Information Systems	2014	ACM	
+bhattacharya-tkdd07.json	article	tkdd	TKDD	ACM Transactions on Knowledge Discovery from Data	2007	ACM	
+bilgic-tkdd09.json	article	tkdd	TKDD	ACM Transactions on Knowledge Discovery from Data	2009	ACM	
+namata-tkdd15.json	article	tkdd	TKDD	ACM Transactions on Knowledge Discovery from Data	2015	ACM	
+getoor-inbook05.json	inbook	inbook		Advanced Methods for Knowledge Discovery from Complex Data	2005	Springer-Verlag	
+broecheler-nips10.json	conference	nips	NeurIPS	Conference on Neural Information Processing Systems	2010	NIPS	Vancouver, BC, Canada
+sen-aim08.json	article	aim		AI Magazine	2008	AAAI	
+pujara-aim15.json	article	aim		AI Magazine	2015	AAAI	
+muthiah-aim16.json	article	aim		AI Magazine	2016	AAAI	
+embar-fkb19.json	conference	fkb		AKBC Workshop on Federated Knowledge Bases	2019	AKBC	Amherst, MA, USA
+getoor-inbook07.json	inbook	inbook		An Introduction to Statistical Relational Learning	2007	MIT Press	
+koller-inbook07.json	inbook	inbook		An Introduction to Statistical Relational Learning	2007	MIT Press	
+bhattacharya-acl04.json	conference	acl	ACL	Annual Meeting of the Association for Computational Linguistics	2004	ACL	Barcelona, Spain
+ramesh-acl15.json	conference	acl	ACL	Annual Meeting of the Association for Computational Linguistics	2015	ACL	Beijing, China
+sridhar-acl15.json	conference	acl	ACL	Annual Meeting of the Association for Computational Linguistics	2015	ACL	Beijing, China
+elsayed-acl08.json	conference	acl	ACL	Annual Meeting of the Association for Computational Linguistics	2008	ACL	Prague, Czech Republic
+bach-aistats15.json	conference	aistats	AISTATS	International Conference on Artificial Intelligence and Statistics	2015	PMLR	San Diego, CA, USA
+getoor-aimj04.json	article	aimj		Artificial Intelligence in Medicine	2004	Elsevier	
+farnadi-aies18.json	conference	aies	AIES	AAAI/ACM Conference on AI, Ethics, and Society	2018	ACM	New Orleans, LA, USA
+london-arxiv13a.json	unpublished	arxiv		arXiv	2013	arXiv	
+london-arxiv13b.json	unpublished	arxiv		arXiv	2013	arXiv	
+udrea-aswc07.json	conference	aswc	ASWC	Asian Semantic Web Conference	2007	Springer-Verlag	Busan, Korea
+embar-akbc20.json	conference	akbc	AKBC	Automated Knowledge Base Construction	2020	AKBC	Virtual
+sridhar-baylearn14.json	conference	baylearn	BayLearn	Bay Area Machine Learning Symposium	2014	BayLearn	Berkeley, CA, USA
+rekatsinas-cidr15.json	conference	cidr	CIDR	Conference on Innovative Data Systems Research	2015	CIDR	Asilomar, CA, USA
+sridhar-bio16.json	article	bio		Bioinformatics	2016	Oxford	
+islamaj-bmcbio07.json	article	bmcbio		BMC Bioinformatics	2007	Springer Nature	
+licamele-bmcbio10.json	article	bmcbio		BMC Bioinformatics	2010	Springer Nature	
+pujara-akbc13.json	conference	akbc	AKBC	CIKM Workshop on Automated Knowledge Base Construction	2013	AKBC	San Francisco, CA, USA
+smith-ssm08.json	conference	ssm	SSM	CIKM Workshop on Search in Social Media	2008	ACM	Napa Valley, CA, USA
+pujara-ceas11.json	conference	ceas	CEAS	International Conference on Email and Anti-Spam	2011	ACM	Perth, Australia
+islamaj-inbook08.json	inbook	inbook		Computational Methods of Feature Selection	2008	Chapman and Hall	
+somasundaran-emnlp09.json	conference	emnlp	EMNLP	Conference on Empirical Methods in Natural Language Processing	2009	ACM	Singapore
+grycner-emnlp15.json	conference	emnlp	EMNLP	Conference on Empirical Methods in Natural Language Processing	2015	ACL	Lisbon, Portugal
+pujara-emnlp17.json	conference	emnlp	EMNLP	Conference on Empirical Methods in Natural Language Processing	2017	ACL	Austin, TX, USA
+augustine-mlsys18.json	conference	mlsys	MLSys	Conference on Machine Learning and Systems	2018	MLSys	Stanford, CA, USA
+chang-mlsys18.json	conference	mlsys	MLSys	Conference on Machine Learning and Systems	2018	MLSys	Stanford, CA, USA
+bach-nips12.json	conference	nips	NeurIPS	Conference on Neural Information Processing Systems	2012	NIPS	Lake Tahoe, NV, USA
+grycner-nips14.json	conference	nips	NeurIPS	Conference on Neural Information Processing Systems	2014	NIPS	Montréal, QC, Canada
+bhattacharya-inbook08.json	inbook	inbook		Constrained Clustering: Advances in Algorithms, Theory, and Applications	2008	Chapman and Hall	
+london-sptli13.json	conference	sptli		CVPR Workshop on Structured Prediction: Tractability, Learning and Inference	2013	CVF	Portland, OR, USA
+london-inbook14.json	inbook	inbook		Data Classification: Algorithms and Applications	2014	CRC Press	
+tomkins-edm16.json	conference	edm	EDM	Educational Data Mining	2016	EDM	Raleigh, NC, USA
+getoor-etai02.json	article	etai	ETAI	Electronic Transactions on Artificial Intelligence	2002	ETAI	
+bhattacharya-eml10.json	inbook	eml		Encyclopedia of Machine Learning	2010	Springer-Verlag	
+getoor-eml10.json	inbook	eml		Encyclopedia of Machine Learning	2010	Springer-Verlag	
+namata-eml10.json	inbook	eml		Encyclopedia of Machine Learning	2010	Springer-Verlag	
+sen-eml10.json	inbook	eml		Encyclopedia of Machine Learning	2010	Springer-Verlag	
+sharara-eml10.json	inbook	eml		Encyclopedia of Machine Learning	2010	Springer-Verlag	
+desjardins-ecml05.json	conference	ecml	ECML	European Conference on Machine Learning	2005	Springer-Verlag	Porto, Portugal
+doppa-ecml10.json	conference	ecml	ECML	European Conference on Machine Learning	2010	Springer-Verlag	Barcelona, Spain
+islamaj-pkdd06.json	conference	pkdd	ECML-PKDD	European Conference on Principles and Practice of Knowledge Discovery in Databases	2006	Springer-Verlag	Berlin, Germany
+fakhraei-inbook15.json	inbook	inbook		Healthcare Data Analytics	2015	CRC Press	
+sharara-hj12.json	article	hj		Human Journal	2012	Academy of Science and Engineering	
+moustafa-gdm11.json	conference	gdm	GDM	ICDE Workshop on Graph Data Management	2011	IEEE	Hannover, Germany
+islamaj-mmbd07.json	conference	mmbd		ICDM Workshop on Mining and Management of Biological Data	2007	IEEE	Omaha, NE, USA
+bilgic-mgcs07.json	conference	mgcs		ICDM Workshop on Mining Graphs and Complex Structures	2007	IEEE	Omaha, NE, USA
+getoor-avrl00a.json	conference	avrl		ICML Workshop on Attribute-Value and Relational Learning: Crossing the Boundaries	2000	University of Freiburg	Stanford, CA, USA
+getoor-avrl00b.json	conference	avrl		ICML Workshop on Attribute-Value and Relational Learning: Crossing the Boundaries	2000	University of Freiburg	Stanford, CA, USA
+sridhar-causalml18.json	conference	causalml	CausalML	ICML Workshop on Machine Learning for Causal Inference, Counterfactual Prediction, and Autonomous Action	2018	CausalML	Stockholm, Sweden
+pujara-comblearn11.json	conference	comblearn		ICML Workshop on Combining Learning Strategies to Reduce Label Cost	2011	CombLearn	Bellevue, WA, USA
+bach-inferning13.json	conference	inferning	Inferning	ICML Workshop on Inferning Interactions between Inference and Learning	2013	Inferning	Atlanta, GA, USA
+pujara-lttb13.json	conference	lttb		ICML Workshop on Learning with Test-Time Budgets	2013	BudgetedLearning	Atlanta, GA, USA
+namata-mlg12.json	conference	mlg	MLG	International Workshop on Mining and Learning with Graphs	2012	MLG	Edinburgh, Scotland
+licamele-sna06.json	conference	sna		ICML Workshop on Statistical Network Analysis	2006	Springer-Verlag	Pittsburgh, PA, USA
+namata-sna06.json	conference	sna		ICML Workshop on Statistical Network Analysis	2006	Springer-Verlag	Pittsburgh, PA, USA
+zhao-sna06.json	conference	sna		ICML Workshop on Statistical Network Analysis	2006	Springer-Verlag	Pittsburgh, PA, USA
+bhattacharya-srl06.json	conference	srl	SRL	International Workshop on Statistical Relational Learning	2006	SRL	Pittsburgh, PA, USA
+sen-srl06.json	conference	srl	SRL	International Workshop on Statistical Relational Learning	2006	SRL	Pittsburgh, PA, USA
+pujara-slg13.json	conference	slg	SLG	ICML Workshop on Structured Learning: Inferring Graphs from Structured and Unstructured Inputs	2013	SLG	Atlanta, GA, USA
+huang-slg13.json	conference	slg	SLG	ICML Workshop on Structured Learning: Inferring Graphs from Structured and Unstructured Inputs	2013	SLG	Atlanta, GA, USA
+lu-cludmldm03.json	conference	cludmldm		ICML Workshop on The Continuum From Labeled to Unlabeled Data in Machine Learning and Data Mining	2003	Accenture	Washington, DC, USA
+augustine-tpm19.json	conference	tpm	TPM	ICML Workshop on Tractable Probabilistic Modeling	2019	TPM	Long Beach, CA, USA
+embar-tpm19.json	conference	tpm	TPM	ICML Workshop on Tractable Probabilistic Modeling	2019	TPM	Long Beach, CA, USA
+memory-ursw12.json	conference	ursw	URSW	ICSW Workshop on Uncertainty Reasoning for the Semantic Web	2012	CEUR	Boston, MA, USA
+tomkins-bod18.json	conference	bod		ICWSM Workshop on Beyond Online Data	2018	AAAI	Stanford, CA, USA
+singh-iv07.json	conference	iv	IV	International Conference Information Visualization	2007	IEEE	Zürich, Switzerland
+sharara-vast11.json	conference	vast	VAST	IEEE Conference on Visual Analytics Science and Technology	2011	IEEE	Providence, RI, USA
+getoor-debu03.json	article	debu		IEEE Data Engineering Bulletin	2003	IEEE	
+bhattacharya-debu06.json	article	debu		IEEE Data Engineering Bulletin	2006	IEEE	
+getoor-debu06.json	article	debu		IEEE Data Engineering Bulletin	2006	IEEE	
+singh-debu07.json	article	debu		IEEE Data Engineering Bulletin	2007	IEEE	
+farnadi-debu19.json	article	debu		IEEE Data Engineering Bulletin	2019	IEEE	
+miao-bigdata13.json	conference	bigdata	BigData	IEEE International Conference on Big Data	2013	IEEE	Santa Clara, CA, USA
+hung-icde03.json	conference	icde	ICDE	IEEE International Conference on Data Engineering	2003	IEEE	Bangalore, India
+bilgic-vast06.json	conference	vast	VAST	IEEE Conference on Visual Analytics Science and Technology	2006	IEEE	Baltimore, MD, USA
+hwang-tkde12.json	article	tkde	TKDE	IEEE Transactions on Knowledge and Data Engineering	2012	IEEE	
+panagiotis-tkde12.json	article	tkde	TKDE	IEEE Transactions on Knowledge and Data Engineering	2012	IEEE	
+kimmig-tkde19.json	article	tkde	TKDE	IEEE Transactions on Knowledge and Data Engineering	2019	IEEE	
+ramesh-tlt20.json	article	tlt	TLT	IEEE Transactions on Learning Technologies	2020	IEEE	
+daozheng-tpami11.json	article	tpami	TPAMI	IEEE Transactions on Pattern Analysis and Machine Intelligence	2011	IEEE	
+kang-tvcg08.json	article	tvcg	TVCG	IEEE Transactions on Visualization and Computer Graphics	2008	IEEE	
+daozheng-pov11.json	conference	pov		IEEE Workshop on Person-Oriented Vision	2011	IEEE	Kona, HI, USA
+fakhraei-tcbb14.json	article	tcbb	TCBB	IEEE/ACM Transactions on Computational Biology and Bioinformatics	2014	IEEE/ACM	
+udrea-swecka07.json	conference	swecka	SWeCKa	IJCAI Workshop on Semantic Web for Collaborative Knowledge Acquisition	2007	SWeCKa	Hyderabad, India
+embar-starai18.json	conference	starai	StarAI	International Workshop on Statistical Relational AI	2018	arXiv	Stockholm, Sweden
+pujara-starai16.json	conference	starai	StarAI	International Workshop on Statistical Relational AI	2016	arXiv	New York, NY, USA
+getoor-tlbs01.json	conference	tlbs		IJCAI Workshop on Text Learning: Beyond Supervision	2001	TLBS	Seattle, WA, USA
+lu-textlink03.json	conference	textlink	TextLink	IJCAI Workshop on Text Mining and Link Analysis	2003	TextLink	Acapulco, Mexico
+kouki-iui19.json	conference	iui	IUI	Intelligent User Interfaces	2019	ACM	Marina del Ray, CA, USA
+sehgal-gis06.json	conference	gis	GIS	International Symposium on Geographic Information Systems	2006	ACM	Arlington, VA, USA
+sharara-asonam09.json	conference	asonam	ASONAM	International Conference on Advances in Social Networks Analysis and Mining	2009	IEEE	Athens, Greece
+sharara-snam11.json	article	snam	SNAM	Social Network Analysis and Mining	2011	Springer-Verlag	
+getoor-asonam12.json	tutorial	asonam	ASONAM	International Conference on Advances in Social Networks Analysis and Mining	2012	IEEE	Istanbul, Turkey
+kumar-asonam16.json	conference	asonam	ASONAM	International Conference on Advances in Social Networks Analysis and Mining	2016	IEEE	San Francisco, CA, USA
+tomkins-asonam18.json	conference	asonam	ASONAM	International Conference on Advances in Social Networks Analysis and Mining	2018	IEEE	Barcelona, Spain
+london-aistats14.json	conference	aistats	AISTATS	International Conference on Artificial Intelligence and Statistics	2014	PMLR	Reykjavik, Iceland
+sen-icde07.json	conference	icde	ICDE	IEEE International Conference on Data Engineering	2007	IEEE	Istanbul, Turkey
+moustafa-icde12.json	conference	icde	ICDE	IEEE International Conference on Data Engineering	2012	IEEE	Washington, DC, USA
+moustafa-icde14.json	conference	icde	ICDE	IEEE International Conference on Data Engineering	2014	IEEE	Chicago, IL, USA
+kimmig-icde17.json	conference	icde	ICDE	IEEE International Conference on Data Engineering	2017	IEEE	San Diego, CA, USA
+singh-icdm05.json	conference	icdm	ICDM	IEEE International Conference on Data Mining	2005	IEEE	Houston, TX, USA
+licamele-icdm06.json	conference	icdm	ICDM	IEEE International Conference on Data Mining	2006	IEEE	Hong Kong
+kouki-icdm17.json	conference	icdm	ICDM	IEEE International Conference on Data Mining	2017	IEEE	New Orleans, LA, USA
+tomkins-icdm18.json	conference	icdm	ICDM	IEEE International Conference on Data Mining	2018	IEEE	Singapore
+sen-dmud07.json	conference	dmud		ICDM Workshop on Data Mining on Uncertain Data	2007	IEEE	Omaha, NE, USA
+hung-icdt03.json	conference	icdt	ICDT	International Conference on Database Theory	2003	Springer-Verlag	Siena, Italy
+farnadi-ilp15.json	conference	ilp	ILP	International Conference on Inductive Logic Programming	2015	CEUR	Kyoto, Japan
+namata-cikm07.json	conference	cikm	CIKM	International Conference on Information and Knowledge Management	2007	ACM	Beijing, China
+srinivasan-cikm19.json	conference	cikm	CIKM	International Conference on Information and Knowledge Management	2019	ACM	Lisbon, Portugal
+kang-iv07.json	conference	iv	IV	International Conference Information Visualization	2007	IEEE	Zürich, Switzerland
+bhattacharya-kdd06.json	conference	kdd	KDD	International Conference on Knowledge Discovery and Data Mining	2006	ACM	Philadelphia, PA, USA
+piatetsky-shapiro-kdd06.json	conference	kdd	KDD	International Conference on Knowledge Discovery and Data Mining	2006	ACM	Philadelphia, PA, USA
+bilgic-kdd08.json	conference	kdd	KDD	International Conference on Knowledge Discovery and Data Mining	2008	ACM	Las Vegas, NV, USA
+zheleva-kdd09.json	conference	kdd	KDD	International Conference on Knowledge Discovery and Data Mining	2009	ACM	Paris, France
+plangprasopchok-kdd10.json	conference	kdd	KDD	International Conference on Knowledge Discovery and Data Mining	2010	ACM	Washington, DC, USA
+namata-kdd11.json	conference	kdd	KDD	International Conference on Knowledge Discovery and Data Mining	2011	ACM	San Diego, CA, USA
+getoor-kdd13.json	conference	kdd	KDD	International Conference on Knowledge Discovery and Data Mining	2013	ACM	Chicago, IL, USA
+ramakrishnan-kdd14.json	conference	kdd	KDD	International Conference on Knowledge Discovery and Data Mining	2014	ACM	New York, NY, USA
+fakhraei-kdd15.json	conference	kdd	KDD	International Conference on Knowledge Discovery and Data Mining	2015	ACM	Sydney, Australia
+fakhraei-kdd16.json	conference	kdd	KDD	International Conference on Knowledge Discovery and Data Mining	2016	ACM	San Francisco, CA, USA
+getoor-icml01.json	conference	icml	ICML	International Conference on Machine Learning	2001	Purdue	Williamstown, MA, USA
+lu-icml03.json	conference	icml	ICML	International Conference on Machine Learning	2003	HP	Washington, DC, USA
+sen-icml06.json	conference	icml	ICML	International Conference on Machine Learning	2006	ICML	Pittsburgh, PA, USA
+bilgic-icml10.json	conference	icml	ICML	International Conference on Machine Learning	2010	ICML	Haifa, Israel
+london-icml13.json	conference	icml	ICML	International Conference on Machine Learning	2013	PMLR	Atlanta, GA, USA
+rastegari-icml13.json	conference	icml	ICML	International Conference on Machine Learning	2013	PMLR	Atlanta, GA, USA
+bach-icml15.json	conference	icml	ICML	International Conference on Machine Learning	2015	PMLR	Lille, France
+foulds-icml15.json	conference	icml	ICML	International Conference on Machine Learning	2015	PMLR	Lille, France
+he-icml15.json	conference	icml	ICML	International Conference on Machine Learning	2015	PMLR	Lille, France
+london-icml15.json	conference	icml	ICML	International Conference on Machine Learning	2015	PMLR	Lille, France
+minton-icmla11.json	conference	icmla	ICMLA	International Conference on Machine Learning and Applications	2011	IEEE	Honolulu, HI, USA
+getoor-sigmod01.json	conference	sigmod	SIGMOD	International Conference on Management of Data	2001	ACM	Santa Barbara, CA, USA
+lerman-sigmod04.json	conference	sigmod	SIGMOD	International Conference on Management of Data	2004	ACM	Paris, France
+udrea-sigmod07.json	conference	sigmod	SIGMOD	International Conference on Management of Data	2007	ACM	Beijing, China
+rekatsinas-sigmod12.json	conference	sigmod	SIGMOD	International Conference on Management of Data	2012	ACM	Scottsdale, AZ, USA
+moustafa-sigmod13.json	conference	sigmod	SIGMOD	International Conference on Management of Data	2013	ACM	New York, NY, USA
+rekatsinas-sigmod16.json	conference	sigmod	SIGMOD	International Conference on Management of Data	2016	ACM	San Francisco, CA, USA
+salami-sigmod20.json	conference	sigmod	SIGMOD	International Conference on Management of Data	2020	ACM	Virtual
+huang-sbp13.json	conference	sbp	SBP	International Conference on Social Computing, Behavioral-Cultural Modeling, and Prediction	2013	Springer-Verlag	Washington, DC, USA
+kang-sbp13.json	conference	sbp	SBP	International Conference on Social Computing, Behavioral-Cultural Modeling, and Prediction	2013	Springer-Verlag	Washington, DC, USA
+sharara-socinfo12.json	conference	socinfo		International Conference on Social Informatics	2012	IEEE	Washington, DC, USA
+sen-vldb08.json	conference	vldb	VLDB	International Conference on Very Large Data Bases	2008	VLDB	Auckland, New Zealand
+schnaitter-vldb09.json	conference	vldb	VLDB	International Conference on Very Large Data Bases	2009	VLDB	Lyon, France
+sen-vldb10.json	conference	vldb	VLDB	International Conference on Very Large Data Bases	2010	VLDB	Singapore
+getoor-vldb12.json	tutorial	vldb	VLDB	International Conference on Very Large Data Bases	2012	VLDB	Istanbul, Turkey
+sharara-icwsm11.json	conference	icwsm	ICWSM	International Conference on Web and Social Media	2011	AAAI	Barcelona, Spain
+ramesh-wise18.json	conference	wise	WISE	International Conference on Web Information Systems Engineering	2018	Springer-Verlag	Dubai, UAE
+ramesh-wi17.json	conference	wi	WI	International Conference on Web Intelligence	2017	ACM	Leipzig, Germany
+getoor-wsdm11.json	tutorial	wsdm	WSDM	International Conference on Web Search and Data Mining	2011	ACM	Hong Kong
+plangprasopchok-wsdm11.json	conference	wsdm	WSDM	International Conference on Web Search and Data Mining	2011	ACM	Hong Kong
+barash-icwsm09.json	conference	icwsm	ICWSM	International Conference on Web and Social Media	2009	AAAI	San Jose, CA, USA
+kim-www17.json	conference	www	WWW	The Web Conference	2017	ACM	Perth, Australia
+friedman-ijcai99.json	conference	ijcai	IJCAI	International Joint Conference on Artificial Intelligence	1999	IJCAI	Stockholm, Sweden
+sharara-ijcai11.json	conference	ijcai	IJCAI	International Joint Conference on Artificial Intelligence	2011	IJCAI	Barcelona, Spain
+tomkins-ijcai17.json	conference	ijcai	IJCAI	International Joint Conference on Artificial Intelligence	2017	IJCAI	Melbourne, Australia
+sridhar-ijcai18.json	conference	ijcai	IJCAI	International Joint Conference on Artificial Intelligence	2018	IJCAI	Stockholm, Sweden
+sridhar-ijcai19.json	conference	ijcai	IJCAI	International Joint Conference on Artificial Intelligence	2019	IJCAI	Macau, China
+lansky-ijcai95.json	conference	ijcai	IJCAI	International Joint Conference on Artificial Intelligence	1995	IJCAI	Montréal, QC, Canada
+kouki-kais19.json	article	kais	KAIS	International Journal on Knowledge and Information Systems	2019	Springer-Verlag	
+udrea-iswc07.json	conference	iswc	ISWC	International Semantic Web Conference	2007	IEEE	Boston, MA, USA
+pujara-iswc13.json	conference	iswc	ISWC	International Semantic Web Conference	2013	ACM	Zurich, Switzerland
+bhattacharya-sunbelt06.json	conference	sunbelt		International Sunbelt Social Network Conference	2006	INSNA	Vancouver, BC, Canada
+sharara-sunbelt11.json	conference	sunbelt		International Sunbelt Social Network Conference	2011	INSNA	St. Pete Beach, Florida, USA
+bilgic-gd05.json	conference	gd	GD	International Symposium on Graph Drawing	2005	Springer-Verlag	Limerick, Ireland
+friedman-aistats99.json	conference	aistats	AISTATS	International Workshop on Artificial Intelligence and Statistics	1999	AISTATS	Fort Lauderdale, FL, USA
+haidarian-shahri-dmsn07.json	conference	dmsn	DMSN	International Workshop on Data Management for Sensor Networks	2007	ACM	Vienna, Austria
+namata-mlg09.json	conference	mlg	MLG	International Workshop on Mining and Learning with Graphs	2009	MLG	Leuven, Belgium
+broecheler-srl09.json	conference	srl	SRL	International Workshop on Statistical Relational Learning	2009	SRL	Leuven, Belgium
+zheleva-www09a.json	conference	www	WWW	The Web Conference	2009	ACM	Madrid, Spain
+zheleva-www10.json	conference	www	WWW	The Web Conference	2010	ACM	Raleigh, NC, USA
+getoor-book07.json	book	book		Introduction to Statistical Relational Learning	2007	MIT Press	
+bhattacharya-jair07.json	article	jair	JAIR	Journal of Artificial Intelligence Research	2007	JAIR	
+bilgic-jair11.json	article	jair	JAIR	Journal of Artificial Intelligence Research	2011	JAIR	
+licamele-jbcb11.json	article	jbcb	JBCB	Journal of Bioinformatics and Computational Biology	2011	World Scientific	
+tomkins-jedm19.json	article	jedm	JEDM	Journal of Educational Data Mining	2019	JEDM	
+getoor-jmlr02.json	article	jmlr	JMLR	Journal of Machine Learning Research	2002	JMLR	
+london-jmlr16.json	article	jmlr	JMLR	Journal of Machine Learning Research	2016	JMLR	
+bach-jmlr17.json	article	jmlr	JMLR	Journal of Machine Learning Research	2017	JMLR	
+sridhar-cd16.json	conference	cd		KDD Workshop on Causal Discovery	2016	CD	San Francisco, CA, USA
+fakhraei-biokdd13.json	conference	biokdd	BIOKDD	KDD Workshop on Data Mining in Bioinformatics	2013	ACM	Chicago, IL, USA
+bach-dssg14.json	conference	dssg		KDD Workshop on Data Science for Social Good	2014	DSSG	New York, NY, USA
+namata-kdud09.json	conference	kdud		KDD Workshop on Knowledge Discovery from Uncertain Data	2009	ACM	Paris, France
+bhattacharya-linkkdd04.json	conference	linkkdd	LinkKDD	Workshop on Link Analysis and Group Detection	2004	LinkKDD	Seattle, WA, USA
+licamele-linkkdd05.json	conference	linkkdd	LinkKDD	Workshop on Link Analysis and Group Detection	2005	LinkKDD	Chicago, IL, USA
+kouki-mlg16.json	conference	mlg	MLG	International Workshop on Mining and Learning with Graphs	2016	MLG	San Francisco, CA, USA
+bhattacharya-mrdm05.json	conference	mrdm	MRDM	International Workshop on Multi-Relational Data Mining	2005	ACM	Chicago, IL, USA
+getoor-mrdm01.json	conference	mrdm	MRDM	International Workshop on Multi-Relational Data Mining	2001	MRDM	San Francisco, CA, USA
+zheleva-pinkdd07.json	conference	pinkdd	PinKDD	KDD Workshop on Privacy, Security, and Trust in KDD	2007	Springer-Verlag	San Jose, CA, USA
+saha-snakdd08.json	conference	snakdd		KDD Workshop on Social Network Mining and Analysis	2008	SNA-KDD	Las Vegas, NV, USA
+zheleva-snakdd08.json	conference	snakdd		KDD Workshop on Social Network Mining and Analysis	2008	SNA-KDD	Las Vegas, NV, USA
+getoor-webkdd99.json	conference	webkdd	WebKDD	KDD Workshop on Web Usage Analysis and User Profiling	1999	Springer-Verlag	San Diego, CA, USA
+namata-inbook10.json	inbook	inbook		Link Mining: Models, Algorithms, and Applications	2010	Springer-Verlag	
+getoor-mlj06.json	article	mlj		Machine Learning	2006	Springer-Verlag	
+dietterich-mlj08.json	article	mlj		Machine Learning	2008	Springer-Verlag	
+kimmig-mlj15.json	article	mlj		Machine Learning	2015	Springer-Verlag	
+farnadi-mlj17.json	article	mlj		Machine Learning	2017	Springer-Verlag	
+deshpande-inbook09.json	inbook	inbook		Managing and Mining Uncertain Data	2009	Springer-Verlag	
+chajewska-smdm98.json	conference	smdm	SMDM	Meeting of the Society for Medical Decision Making	1998	SMDM	Minneapolis, MN, USA
+bhattacharya-inbook06.json	inbook	inbook		Mining Graph Data	2006	Wiley	
+getoor-aaai97.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	1997	AAAI	Providence, RI, USA
+bilgic-aaai07.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	2007	AAAI	Vancouver, BC, USA
+diehl-aaai07.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	2007	AAAI	Vancouver, BC, USA
+getoor-aaai12.json	tutorial	aaai	AAAI	AAAI Conference on Artificial Intelligence	2012	AAAI	Toronto, ON, Canada
+ramesh-aaai14.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	2014	AAAI	Québec City, QC, Canada
+srinivasan-aaai19.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	2019	AAAI	Honolulu, HI, USA
+srinivasan-aaai20a.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	2020	AAAI	New York, NY, USA
+srinivasan-aaai20b.json	conference	aaai	AAAI	AAAI Conference on Artificial Intelligence	2020	AAAI	New York, NY, USA
+chen-asaledtma09.json	conference	asaledtma		NIPS Workshop on Adaptive Sensing, Active Learning and Experimental Design: Theory, Methods and Applications	2009	ASALEDTMA	Vancouver, BC, USA
+london-avi14.json	conference	avi	AVI	NIPS Workshop on Advances in Variational Inference	2014	AVI	Montréal, QC, Canada
+london-asalsn12.json	conference	asalsn		NIPS Workshop on Algorithmic and Statistical Approaches for Large Social Networks	2012	ASALSN	Lake Tahoe, NV, USA
+bilgic-anlg09.json	conference	anlg		NIPS Workshop on Analyzing Networks and Learning with Graphs	2009	ANLG	Vancouver, BC, USA
+doppa-anlg09.json	conference	anlg		NIPS Workshop on Analyzing Networks and Learning with Graphs	2009	ANLG	Vancouver, BC, USA
+pujara-akbc14.json	conference	akbc	AKBC	NIPS Workshop on Automated Knowledge Base Construction (AKBC)	2014	AKBC	Montréal, QC, Canada
+sridhar-akbc17.json	conference	akbc	AKBC	NIPS Workshop on Automated Knowledge Base Construction (AKBC)	2017	AKBC	Long Beach, CA, USA
+pujara-biglearn12.json	conference	biglearn		NIPS Workshop on Big Learning: Algorithms, Systems, and Tools	2012	BigLearn	Lake Tahoe, NV, USA
+pujara-ctfp10.json	conference	ctfp		NIPS Workshop on Coarse-to-Fine Processing	2010	CTFP	Vancouver, BC, USA
+ramesh-dde13.json	conference	dde		NIPS Workshop on Data Driven Education	2013	DDE	Lake Tahoe, NV, USA
+bach-discml14.json	conference	discml	DISCML	NIPS Workshop on Discrete and Combinatorial Problems in Machine Learning	2014	DISCML	Montréal, QC, Canada
+bach-fnamma13.json	conference	fnamma		NIPS Workshop on Frontiers of Network Analysis: Methods, Models, and Applications	2013	FNAMMA	Lake Tahoe, NV, USA
+tomkins-lld17.json	conference	lld	LLD	Learning from Limited Labeled Data Workshop	2017	LLD	Long Beach, CA, USA
+fakhraei-mlcb13.json	conference	mlcb		NIPS Workshop on Machine Learning in Computational Biology	2013	MLCB	Lake Tahoe, NV, USA
+sharara-nadta10.json	conference	nadta		NIPS Workshop on Networks Across Disciplines: Theory and Applications	2010	NADTA	Vancouver, BC, USA
+zheleva-nadta10.json	conference	nadta		NIPS Workshop on Networks Across Disciplines: Theory and Applications	2010	NADTA	Vancouver, BC, USA
+ramesh-nsis15.json	conference	nsis		NIPS Workshop on Networks in Social and Information Sciences	2015	NSIS	Montréal, QC, Canada
+ramesh-peml12.json	conference	peml		NIPS Workshop on Personalizing Education With Machine Learning	2012	PEML	Lake Tahoe, NV, USA
+london-pos13.json	conference	pos		NIPS Workshop on Perturbation, Optimization, and Statistics	2013	POS	Lake Tahoe, NV, USA
+bach-pmpm10.json	conference	pmpm		NIPS Workshop on Predictive Models in Personalized Medicine	2010	PMPM	Vancouver, BC, USA
+kimmig-ppfa12.json	conference	ppfa		NIPS Workshop on Probabilistic Programming: Foundations and Applications	2012	PPFA	Lake Tahoe, NV, USA
+huang-snsmamma12.json	conference	snsmamma		NIPS Workshop on Social Network and Social Media Analysis: Methods, Models and Applications	2012	SNSMAMMA	Lake Tahoe, NV, USA
+london-sl12.json	conference	sl		NIPS Workshop on Spectral Learning	2012	SL	Lake Tahoe, NV, USA
+islamaj-nar07.json	article	nar		Nucleic Acids Research	2007	Oxford	
+islamaj-fsdm06.json	conference	fsdm	FSDM	Workshop on Feature Selection for Data Mining	2006	SIAM	Bethesda, MD, USA
+tomkins-recsys18.json	conference	recsys	RecSys	ACM Conference on Recommender Systems	2018	ACM	Vancouver, BC, Canada
+farnadi-fetrec18.json	conference	fetrec	FATREC	RecSys Workshop on Responsible Recommendation	2018	FATREC	Vancouver, BC, Canada
+getoor-inbook01.json	inbook	inbook		Relational Data Mining	2001	Springer-Verlag	
+polymeropoulos-sr09.json	article	sr		Schizophrenia Research	2009	Elsevier	
+sen-lacs06.json	conference	lacs		SDM Workshop on Link Analysis, Counterterrorism and Security	2006	SIAM	Bethesda, MD, USA
+bhattacharya-sdm06.json	conference	sdm	SDM	SIAM International Conference on Data Mining	2006	SIAM	Bethesda, MD, USA
+diehl-sdm06.json	conference	sdm	SDM	SIAM International Conference on Data Mining	2006	SIAM	Bethesda, MD, USA
+saha-sdm09.json	conference	sdm	SDM	SIAM International Conference on Data Mining	2009	SIAM	Sparks, NV, USA
+sayyadi-sdm09.json	conference	sdm	SDM	SIAM International Conference on Data Mining	2009	SIAM	Sparks, NV, USA
+rekatsinas-sdm15.json	conference	sdm	SDM	SIAM International Conference on Data Mining	2015	SIAM	Vancouver, BC, Canada
+getoor-kddexp03.json	article	kddexp		SIGKDD Explorations	2003	ACM	
+getoor-kddexp05.json	article	kddexp		SIGKDD Explorations	2005	ACM	
+kang-kddexp07.json	article	kddexp		SIGKDD Explorations	2007	ACM	
+bhattacharya-dmkd04.json	conference	dmkd	DMKD	SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery	2004	ACM	Paris, France
+zheleva-inbook11.json	inbook	inbook		Social Network Data Analytics	2011	Springer-Verlag	
+getoor-phd01.json	phdthesis	phd		Stanford	2001	Stanford	Stanford, CA, USA
+rekatsinas-sadm15.json	article	sadm		Statistical Analysis and Data Mining	2015	Wiley	
+desjardins-sara00.json	conference	sara	SARA	International Symposium on Abstraction, Reformulation, and Approximation	2000	Springer-Verlag	
+zheleva-book12.json	book	book		Synthesis Lectures on Data Mining and Knowledge Discovery	2012	Morgan & Claypool	
+namata-inbook09.json	inbook	inbook		Text Mining: Classification, Clustering, and Applications	2009	CRC Press	
+kouki-recsys15.json	conference	recsys	RecSys	ACM Conference on Recommender Systems	2015	ACM	Vienna, Austria
+kouki-recsys17.json	conference	recsys	RecSys	ACM Conference on Recommender Systems	2017	ACM	Como, Italy
+broecheler-uai10.json	conference	uai	UAI	Conference on Uncertainty in Artificial Intelligence	2010	AUAI	Catalina Island, CA, USA
+sharara-sunbelt10.json	conference	sunbelt		International Sunbelt Social Network Conference	2010	INSNA	Riva del Garda, Italy
+sen-vldbj09.json	article	vldbj		The VLDB Journal	2009	VLDB	
+zheleva-www09b.json	conference	www	WWW	The Web Conference	2009	ACM	Madrid, Spain
+zhang-www18.json	conference	www	WWW	The Web Conference	2018	ACM	Lyon, France
+sridhar-causation16.json	conference	causation		UAI Workshop on Causation	2016	CAUSATION	New York, NY, USA
+huang-starai12.json	conference	starai	StarAI	International Workshop on Statistical Relational AI	2012	StarAI	Catalina Island, CA, USA
+pujara-starai15.json	conference	starai	StarAI	International Workshop on Statistical Relational AI	2015	arXiv	Amsterdam, The Netherlands
+chajewska-uai98.json	conference	uai	UAI	Conference on Uncertainty in Artificial Intelligence	1998	Elsevier	Madison, WI, USA
+sen-uai09.json	conference	uai	UAI	Conference on Uncertainty in Artificial Intelligence	2009	AUAI	Montréal, QC, Canada
+bach-uai13.json	conference	uai	UAI	Conference on Uncertainty in Artificial Intelligence	2013	AUAI	Bellvue, WA, USA
+pujara-uai15.json	conference	uai	UAI	`	2015	AUAI	Amsterdam, The Netherlands
+augustine-uai18.json	tutorial	uai	UAI	Conference on Uncertainty in Artificial Intelligence	2018	AUAI	Monterey, CA, USA
+kouki-phd18.json	phdthesis	phd		University of California, Santa Cruz	2018	UCSC	Santa Cruz, CA, USA
+london-phd15.json	phdthesis	phd		University of Maryland, College Park	2015	UMD	College Park, MD, USA
+bhattacharya-phd06.json	phdthesis	phd		University of Maryland, College Park	2006	UMD	College Park, MD, USA
+sen-techreport07.json	techreport	techreport		University of Maryland, College Park	2007	UMD	College Park, MD, USA
+elsayed-techreport08.json	techreport	techreport		University of Maryland, College Park	2008	UMD	College Park, MD, USA
+sen-phd09.json	phdthesis	phd		University of Maryland, College Park	2009	UMD	College Park, MD, USA
+bilgic-phd10.json	phdthesis	phd		University of Maryland, College Park	2010	UMD	College Park, MD, USA
+zheleva-phd11.json	phdthesis	phd		University of Maryland, College Park	2011	UMD	College Park, MD, USA
+namata-phd12.json	phdthesis	phd		University of Maryland, College Park	2012	UMD	College Park, MD, USA
+bach-phd15.json	phdthesis	phd		University of Maryland, College Park	2015	UMD	College Park, MD, USA
+rekatsinas-phd15.json	phdthesis	phd		University of Maryland, College Park	2015	UMD	College Park, MD, USA
+pujara-phd16.json	phdthesis	phd		University of Maryland, College Park	2016	UMD	College Park, MD, USA
+ramesh-phd16.json	phdthesis	phd		University of Maryland, College Park	2016	UMD	College Park, MD, USA
+kang-vast07.json	conference	vast	VAST	IEEE Conference on Visual Analytics Science and Technology	2007	IEEE	Sacramento, CA, USA
+mihalkova-umwa11.json	conference	umwa	UMWA	WSDM Workshop on User Modeling for Web Applications	2011	UMWA	Hong Kong
+embar-kbcom18.json	conference	kbcom	KBCOM	WSDM Workshop on Workshop on Knowledge Base Construction, Reasoning and Mining	2018	KBCOM	Stanford, CA, USA

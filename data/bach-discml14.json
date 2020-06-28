@@ -6,7 +6,9 @@
         "Bert Huang",
         "Lise Getoor"
     ],
-    "venue": "NIPS Workshop on Discrete and Combinatorial Problems in Machine Learning (DISCML)",
+    "venue": "NIPS Workshop on Discrete and Combinatorial Problems in Machine Learning",
     "year": "2014",
+    "publisher": "DISCML",
+    "address": "Montr\u00e9al, QC, Canada",
     "links": []
 }

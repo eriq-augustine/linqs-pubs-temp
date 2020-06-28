@@ -6,10 +6,11 @@
         "Mario Rodriguez",
         "Lise Getoor"
     ],
-    "venue": "International Conference on Web Intelligence (ICWI)",
+    "venue": "International Conference on Web Intelligence",
     "year": "2017",
     "pages": "291--298",
     "publisher": "ACM",
+    "address": "Leipzig, Germany",
     "links": [],
     "abstract": "<p>Professional networks are a specialized class of social networks that are particularly aimed at forming and strengthening professional connections and have become a vital component of professional success and growth. In this paper, we present a holistic model to jointly represent different heterogenous relationships between pairs of individuals, user actions and their respective propagations to characterize influence in online professional networks. Previous work on influence in social networks typically only consider a single action type in characterizing influence. Our model is capable of representing and combining different kinds of information users assimilate in the network and compute pairwise values of influence taking the different types of actions into account. We evaluate our models on data from the largest professional network, LinkedIn and show the effectiveness of the inferred influence scores in predicting user actions. We further demonstrate that modeling different user actions, node features, and edge relationships between users leads to around 20\\% increase in precision at top k in predicting user actions, when compared to the current state-of-the-art model.</p>"
 }

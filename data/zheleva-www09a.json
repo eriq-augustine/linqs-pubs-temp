@@ -5,8 +5,10 @@
         "Elena Zheleva",
         "Lise Getoor"
     ],
-    "venue": "International World Wide Web conference (WWW)",
+    "venue": "The Web Conference",
     "year": "2009",
+    "publisher": "ACM",
+    "address": "Madrid, Spain",
     "keywords": "anonymity online, groups, privacy, sensitive attribute inference, social networks",
     "links": []
 }

@@ -9,8 +9,10 @@
         "Lise Getoor",
         "Martine De Cock"
     ],
-    "venue": "International Conference on Inductive Logic Programming (ILP)",
+    "venue": "International Conference on Inductive Logic Programming",
     "year": "2015",
+    "publisher": "CEUR",
+    "address": "Kyoto, Japan",
     "note": "Winner of the Best Student Paper award.",
     "links": []
 }

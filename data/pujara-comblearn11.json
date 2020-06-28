@@ -6,7 +6,9 @@
         "Ben London",
         "Lise Getoor"
     ],
-    "venue": "ICML Workshop on Combining Learning Strategies to Reduce Label Cost (CLSRLC)",
+    "venue": "ICML Workshop on Combining Learning Strategies to Reduce Label Cost",
     "year": "2011",
+    "publisher": "CombLearn",
+    "address": "Bellevue, WA, USA",
     "links": []
 }

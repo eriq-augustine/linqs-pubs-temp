@@ -5,8 +5,10 @@
         "Eriq Augustine",
         "Lise Getoor"
     ],
-    "venue": "Conference on Machine Learning and Systems (MLSys)",
+    "venue": "Conference on Machine Learning and Systems",
     "year": "2018",
+    "publisher": "MLSys",
+    "address": "Stanford, CA, USA",
     "links": [
         {
             "label": "code",

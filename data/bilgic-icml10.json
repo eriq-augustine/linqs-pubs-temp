@@ -6,7 +6,9 @@
         "Lilyana Mihalkova",
         "Lise Getoor"
     ],
-    "venue": "International Conference on Machine Learning (ICML)",
+    "venue": "International Conference on Machine Learning",
     "year": "2010",
+    "publisher": "ICML",
+    "address": "Haifa, Israel",
     "links": []
 }

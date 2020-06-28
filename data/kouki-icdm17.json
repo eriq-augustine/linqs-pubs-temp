@@ -8,8 +8,10 @@
         "Laura Koehly",
         "Lise Getoor"
     ],
-    "venue": "International Conference on Data Mining (ICDM)",
+    "venue": "IEEE International Conference on Data Mining",
     "year": "2017",
+    "publisher": "IEEE",
+    "address": "New Orleans, LA, USA",
     "links": [
         {
             "label": "code",

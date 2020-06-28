@@ -8,9 +8,10 @@
         "Hal Daume III",
         "Lise Getoor"
     ],
-    "venue": "ACM Conference on Learning at Scale (L@S)",
+    "venue": "ACM Conference on Learning at Scale",
     "year": "2014",
     "publisher": "ACM",
+    "address": "Atlanta, GA, USA",
     "keywords": "MOOC, learner engagement, learning analytics, online education, probabilistic modeling, structured prediction",
     "links": []
 }

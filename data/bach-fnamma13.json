@@ -6,8 +6,10 @@
         "Bert Huang",
         "Lise Getoor"
     ],
-    "venue": "NIPS Workshop on Frontiers of Network Analysis: Methods, Models, and Applications (FNAMMA)",
+    "venue": "NIPS Workshop on Frontiers of Network Analysis: Methods, Models, and Applications",
     "year": "2013",
+    "publisher": "FNAMMA",
+    "address": "Lake Tahoe, NV, USA",
     "note": "Winner of the Best Student Paper award.",
     "links": []
 }

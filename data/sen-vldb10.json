@@ -6,7 +6,9 @@
         "Amol Deshpande",
         "Lise Getoor"
     ],
-    "venue": "International Conference on Very Large Data Bases (VLDB)",
+    "venue": "International Conference on Very Large Data Bases",
     "year": "2010",
+    "publisher": "VLDB",
+    "address": "Singapore",
     "links": []
 }

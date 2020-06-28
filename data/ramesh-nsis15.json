@@ -6,8 +6,10 @@
         "Mario Rodriguez",
         "Lise Getoor"
     ],
-    "venue": "NIPS Workshop on Networks in Social and Information Sciences (NSIS)",
+    "venue": "NIPS Workshop on Networks in Social and Information Sciences",
     "year": "2015",
+    "publisher": "NSIS",
+    "address": "Montr\u00e9al, QC, Canada",
     "keywords": "HL-MRFs, influence, professional networks, social networks",
     "links": []
 }

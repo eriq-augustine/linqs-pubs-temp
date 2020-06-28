@@ -5,8 +5,10 @@
         "Lise Getoor",
         "Ashwin Machanavajjhala"
     ],
-    "venue": "International Conference on Very Large Data Bases (VLDB)",
+    "venue": "International Conference on Very Large Data Bases",
     "year": "2012",
+    "publisher": "VLDB",
+    "address": "Istanbul, Turkey",
     "links": [
         {
             "label": "slides",

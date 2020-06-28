@@ -5,8 +5,10 @@
         "Indrajit Bhattacharya",
         "Lise Getoor"
     ],
-    "venue": "SIAM Conference on Data Mining (SDM)",
+    "venue": "SIAM International Conference on Data Mining",
     "year": "2006",
+    "publisher": "SIAM",
+    "address": "Bethesda, MD, USA",
     "note": "Winner of the Best Paper award.",
     "links": []
 }

@@ -7,8 +7,9 @@
         "Lise Getoor",
         "Janet Mann"
     ],
-    "venue": "International Conference on Social Informatics (SocInfo)",
+    "venue": "International Conference on Social Informatics",
     "year": "2012",
+    "publisher": "IEEE",
     "address": "Washington, DC, USA",
     "links": [],
     "abstract": "<p>Most networks contain embedded communities or groups that impact the overall gathering and dissemination of ideas and information. These groups consist of important or prominent individuals who actively participate in network activities over time. In this paper, we introduce a new method for identifying actors with prominent group memberships in timevarying affiliation networks. We define a prominent actor to be one who participates in the same group regularly (stable participation) and participates across different groups consistently (diverse participation), thereby having a position of structural influence in the network. Our proposed methods for quantifying stable and diverse participation takes into consideration the underlying semantics for group participation as well as the level of impact of an actor's history on his or her current behavior. We illustrate the semantics of our measures on real-world data sets with varying temporal connectivity structures.</p>"

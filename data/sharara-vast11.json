@@ -8,8 +8,10 @@
         "Lise Getoor",
         "Lisa Singh"
     ],
-    "venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
+    "venue": "IEEE Conference on Visual Analytics Science and Technology",
     "year": "2011",
+    "publisher": "IEEE",
+    "address": "Providence, RI, USA",
     "keywords": "Comparative Analysis, Model Comparison, Uncertain Graphs, Visualizing Uncertainty",
     "links": []
 }

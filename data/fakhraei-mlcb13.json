@@ -6,8 +6,10 @@
         "Bert Huang",
         "Lise Getoor"
     ],
-    "venue": "NIPS Workshop on Machine Learning in Computational Biology (MLCB)",
+    "venue": "NIPS Workshop on Machine Learning in Computational Biology",
     "year": "2013",
+    "publisher": "MLCB",
+    "address": "Lake Tahoe, NV, USA",
     "links": [],
     "abstract": "State-of-the-art methods for drug-target interaction prediction make use of interaction networks, drug similarities, and target similarities. In this paper we study the importance of multi-relational and collective prediction in these domains. We implement different models with probabilistic soft logic (PSL) to empirically show the effect of each assumption on prediction performance and demonstrate that a model using collective inference and combination of similarities significantly outperforms other models. In other words, we show the superiority of the models that combine multiple heterogeneous evidence and take advantage of the relational structure of the data."
 }

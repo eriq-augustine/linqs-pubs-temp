@@ -5,9 +5,11 @@
         "Mustafa Bilgic",
         "Lise Getoor"
     ],
-    "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
+    "venue": "International Conference on Knowledge Discovery and Data Mining",
     "year": "2008",
     "pages": "43--51",
+    "publisher": "ACM",
+    "address": "Las Vegas, NV, USA",
     "note": "Winner of the Best Student Paper award.",
     "links": []
 }

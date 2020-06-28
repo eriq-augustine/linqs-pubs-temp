@@ -6,7 +6,9 @@
         "Hui Miao",
         "Lise Getoor"
     ],
-    "venue": "ICML Workshop on Learning with Test-Time Budgets (LTTB)",
+    "venue": "ICML Workshop on Learning with Test-Time Budgets",
     "year": "2013",
+    "publisher": "BudgetedLearning",
+    "address": "Atlanta, GA, USA",
     "links": []
 }

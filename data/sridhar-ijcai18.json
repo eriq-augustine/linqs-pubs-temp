@@ -6,8 +6,10 @@
         "Jay Pujara",
         "Lise Getoor"
     ],
-    "venue": "International Joint Conference on Artificial Intelligence (IJCAI)",
+    "venue": "International Joint Conference on Artificial Intelligence",
     "year": "2018",
+    "publisher": "IJCAI",
+    "address": "Stockholm, Sweden",
     "links": [
         {
             "label": "code",

@@ -5,7 +5,9 @@
         "Prithviraj Sen",
         "Lise Getoor"
     ],
-    "venue": "International Conference on Machine Learning (ICML)",
+    "venue": "International Conference on Machine Learning",
     "year": "2006",
+    "publisher": "ICML",
+    "address": "Pittsburgh, PA, USA",
     "links": []
 }

@@ -7,8 +7,10 @@
         "Madhusudana Shashanka",
         "Lise Getoor"
     ],
-    "venue": "International Conference on Knowledge Discovery and Data Mining (KDD)",
+    "venue": "International Conference on Knowledge Discovery and Data Mining",
     "year": "2015",
+    "publisher": "ACM",
+    "address": "Sydney, Australia",
     "links": [
         {
             "label": "code",

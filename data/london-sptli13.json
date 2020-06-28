@@ -9,8 +9,10 @@
         "Lise Getoor",
         "Larry Davis"
     ],
-    "venue": "CVPR Workshop on Structured Prediction - Tractability, Learning and Inference (STPLI)",
+    "venue": "CVPR Workshop on Structured Prediction: Tractability, Learning and Inference",
     "year": "2013",
+    "publisher": "CVF",
+    "address": "Portland, OR, USA",
     "links": [],
     "abstract": "<p>We propose hinge-loss Markov random fields (HL-MRFs), a powerful class of continuous-valued graphical models, for high-level computer vision tasks. HL-MRFs are characterized by log-concave density functions, and are able to perform efficient, exact inference. Their templated hinge-loss potential functions naturally encode soft-valued logical rules. Using the declarative modeling language probabilistic soft logic, one can easily define HL-MRFs via familiar constructs from first-order logic. We apply HL-MRFs to the task of activity detection, using principles of collective classification. Our model is simple, intuitive and interpretable. We evaluate our model on two datasets and show that it achieves significant lift over the low-level detectors.</p>"
 }

@@ -7,8 +7,10 @@
         "Amol Deshpande",
         "Lise Getoor"
     ],
-    "venue": "ICDE Workshop on Graph Data Management (GDM)",
+    "venue": "ICDE Workshop on Graph Data Management",
     "year": "2011",
+    "publisher": "IEEE",
+    "address": "Hannover, Germany",
     "links": [],
     "abstract": "<p><span style=\"color: $\\#$000000; font-size: medium;\">There is a growing interest in methods for analyzing data describing networks of all types, including information, biological, physical, and social networks. Typically the data describing these networks is observational, and thus noisy and incomplete; it is often at the wrong level of fidelity and abstraction for meaningful data analysis. This has resulted in a growing body of work on extracting, cleaning, and annotating network data. Unfortunately, much of this work is ad hoc and domain-specific. In this paper, we present the architecture of a data management system that enables efficient, declarative analysis of large-scale information networks. We identify a set of primitives to support the extraction and inference of a network from observational data, and describe a framework that enables a network analyst to easily implement and combine new extraction and analysis techniques, and efficiently apply them to large observation networks. The key insight behind our approach is to decouple, to the extent possible, (a) the operations that require traversing the graph structure (typically the computationally expensive step), from (b) the operations that do the modification and update of the extracted network. We present an analysis language based on Datalog, and show how to use it to cleanly achieve such decoupling. We briefly describe our prototype system that supports these abstractions. We include a preliminary performance evaluation of the system and show that our approach scales well and can efficiently handle a wide spectrum of data cleaning operations on network data.</span></p>"
 }

@@ -5,7 +5,9 @@
         "Mustafa Bilgic",
         "Lise Getoor"
     ],
-    "venue": "NIPS Workshop on Analyzing Networks and Learning with Graphs (ANLG)",
+    "venue": "NIPS Workshop on Analyzing Networks and Learning with Graphs",
     "year": "2009",
+    "publisher": "ANLG",
+    "address": "Vancouver, BC, USA",
     "links": []
 }
