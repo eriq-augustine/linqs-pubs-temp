@@ -240,8 +240,8 @@ london-avi14.json	conference	avi	AVI	NIPS Workshop on Advances in Variational In
 london-asalsn12.json	conference	asalsn		NIPS Workshop on Algorithmic and Statistical Approaches for Large Social Networks	2012	ASALSN	Lake Tahoe, NV, USA
 bilgic-anlg09.json	conference	anlg		NIPS Workshop on Analyzing Networks and Learning with Graphs	2009	ANLG	Vancouver, BC, USA
 doppa-anlg09.json	conference	anlg		NIPS Workshop on Analyzing Networks and Learning with Graphs	2009	ANLG	Vancouver, BC, USA
-pujara-akbc14.json	conference	akbc	AKBC	NIPS Workshop on Automated Knowledge Base Construction (AKBC)	2014	AKBC	Montréal, QC, Canada
-sridhar-akbc17.json	conference	akbc	AKBC	NIPS Workshop on Automated Knowledge Base Construction (AKBC)	2017	AKBC	Long Beach, CA, USA
+pujara-akbc14.json	conference	akbc	AKBC	NIPS Workshop on Automated Knowledge Base Construction	2014	AKBC	Montréal, QC, Canada
+sridhar-akbc17.json	conference	akbc	AKBC	NIPS Workshop on Automated Knowledge Base Construction	2017	AKBC	Long Beach, CA, USA
 pujara-biglearn12.json	conference	biglearn		NIPS Workshop on Big Learning: Algorithms, Systems, and Tools	2012	BigLearn	Lake Tahoe, NV, USA
 pujara-ctfp10.json	conference	ctfp		NIPS Workshop on Coarse-to-Fine Processing	2010	CTFP	Vancouver, BC, USA
 ramesh-dde13.json	conference	dde		NIPS Workshop on Data Driven Education	2013	DDE	Lake Tahoe, NV, USA

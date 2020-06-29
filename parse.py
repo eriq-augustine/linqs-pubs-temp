@@ -276,6 +276,8 @@ def main():
 
         fixKeywords(data)
 
+        # syncPDFs(data, dirent)
+
         data['title'] = titlecase(data['title'])
 
         if (WRITE_BACK_FILE):
