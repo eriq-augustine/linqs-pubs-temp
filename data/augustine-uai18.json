@@ -10,9 +10,7 @@
     "publisher": "AUAI",
     "address": "Monterey, CA, USA",
     "links": [
-        {
-            "label": "code",
-            "href": "https://github.com/linqs/psl-examples/tree/uai18"
-        }
+        {"label": "slides", "href": "/assets/papers/augustine-uai18-slides.pdf"},
+        {"label": "code", "href": "https://github.com/linqs/psl-examples/tree/uai18"}
     ]
 }
