@@ -12,5 +12,10 @@
     "year": "2014",
     "publisher": "AAAI",
     "address": "Qu\u00e9bec City, QC, Canada",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/farnadi-starai14.pdf"
+        }
+    ]
 }

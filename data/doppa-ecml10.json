@@ -11,5 +11,10 @@
     "year": "2010",
     "publisher": "Springer-Verlag",
     "address": "Barcelona, Spain",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/doppa-ecml10.pdf"
+        }
+    ]
 }

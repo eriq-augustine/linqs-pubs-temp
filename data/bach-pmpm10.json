@@ -11,5 +11,10 @@
     "year": "2010",
     "publisher": "PMPM",
     "address": "Vancouver, BC, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bach-pmpm10.pdf"
+        }
+    ]
 }

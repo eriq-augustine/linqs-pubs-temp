@@ -11,5 +11,10 @@
     "pages": "7--31",
     "volume": "62",
     "number": "1--2",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/getoor-mlj06.pdf"
+        }
+    ]
 }

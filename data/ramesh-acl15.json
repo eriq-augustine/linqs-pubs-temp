@@ -18,5 +18,10 @@
         "Online Courses",
         "SRL"
     ],
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/ramesh-acl15.pdf"
+        }
+    ]
 }

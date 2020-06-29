@@ -11,5 +11,10 @@
     "year": "2012",
     "publisher": "SL",
     "address": "Lake Tahoe, NV, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/london-sl12.pdf"
+        }
+    ]
 }

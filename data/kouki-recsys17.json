@@ -12,5 +12,10 @@
     "year": "2017",
     "publisher": "ACM",
     "address": "Como, Italy",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/kouki-recsys17.pdf"
+        }
+    ]
 }

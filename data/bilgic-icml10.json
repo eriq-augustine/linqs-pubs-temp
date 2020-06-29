@@ -10,5 +10,10 @@
     "year": "2010",
     "publisher": "ICML",
     "address": "Haifa, Israel",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bilgic-icml10.pdf"
+        }
+    ]
 }

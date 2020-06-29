@@ -11,6 +11,11 @@
     "year": "2012",
     "publisher": "StarAI",
     "address": "Catalina Island, CA, USA",
-    "links": [],
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/huang-starai12.pdf"
+        }
+    ],
     "abstract": "Trust plays a key role in social interactions. Explicitly modeling trust is therefore an important aspect of social network analysis in settings such as reputation management systems, recommendation systems, and viral marketing. Within the social sciences, trust is known to depend on network structure, context, individual actors' attributes, and group memberships and affiliations. Furthermore, trust is often measured quantitatively, according to degrees of trust, rather than as a binary indicator. In this paper, we propose trust modeling as a rich challenge for statistical relational learning (SRL). Additionally, we show that probabilistic soft logic (PSL) is particularly well-suited for this problem. PSL, like many SRL languages, provides an intuitive framework for capturing the relational aspects of trust modeling, while its soft truth values easily accommodate varying strengths of trust. We model various sociological theories of trust in PSL and experimentally compare the resulting PSL programs to existing trust prediction methods, demonstrating the ease of model development and showing that these interpretable first-order logic models produce results of competitive quality."
 }

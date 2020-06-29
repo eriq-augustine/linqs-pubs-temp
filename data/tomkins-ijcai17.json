@@ -10,5 +10,10 @@
     "year": "2017",
     "publisher": "IJCAI",
     "address": "Melbourne, Australia",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/tomkins-ijcai17.pdf"
+        }
+    ]
 }

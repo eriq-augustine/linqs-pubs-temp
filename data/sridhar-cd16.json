@@ -9,6 +9,11 @@
     "year": "2016",
     "publisher": "CD",
     "address": "San Francisco, CA, USA",
-    "links": [],
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sridhar-cd16.pdf"
+        }
+    ],
     "abstract": "Causal directed acyclic graphical models (DAGs) are powerful reasoning tools in the study and estimation of cause and effect in scientific and socio-behavioral phenomena. In many domains where the cause and effect structure is unknown, a key challenge in studying causality with DAGs is learning the structure of causal graphs directly from observational data. Traditional approaches to causal structure discovery are categorized as constraint-based or score-based approaches. Score-based methods perform greedy search over the space of models whereas constraint-based methods iteratively prune and orient edges using structural and statistical constraints. However, both types of approaches rely on heuristics that introduce false positives and negatives. In our work, we cast causal structure discovery as an inference problem and propose a joint probabilistic approach for optimizing over model structures. We use a recently introduced and highly efficient probabilistic programming framework known as Probabilistic Soft Logic (PSL) to encode constraint-based structure search. With this novel probabilistic approach to structure discovery, we leverage multiple independence tests and avoid early pruning and variable ordering. We compare our method to the notable PC algorithm on a well-studied synthetic dataset and show improvements in accuracy of predicting causal edges."
 }

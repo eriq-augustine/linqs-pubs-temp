@@ -14,5 +14,10 @@
     "publisher": "CEUR",
     "address": "Kyoto, Japan",
     "note": "Winner of the Best Student Paper award.",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/farnadi-ilp15.pdf"
+        }
+    ]
 }

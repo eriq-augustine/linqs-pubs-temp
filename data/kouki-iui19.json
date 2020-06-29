@@ -12,6 +12,11 @@
     "year": "2019",
     "publisher": "ACM",
     "address": "Marina del Ray, CA, USA",
-    "links": [],
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/kouki-iui19.pdf"
+        }
+    ],
     "abstract": "Hybrid recommender systems, which combine the strength of several information sources to provide recommendations, have emerged as a means to improve the quality of recommendations. Although such systems are highly effective, they are inherently complex. As a result, providing users with a visually-appealing and useful explanation for each recommendation poses a significant challenge. In this paper, we study the problems of generating and visualizing personalized explanations from hybrid recommender systems. We build upon a hybrid probabilistic graphical model and develop an approach to generate real-time recommendations along with personalized explanations. To study the benefits of explanations for hybrid recommender systems, we conduct a crowd-sourced user study where our system generates personalized recommendations and explanations for real users of the last.fm music platform. styles. We also experiment with different presentation formats, such as textual or graphical. We experiment with 1) different explanation styles (e.g., user-based, item-based), 2) varying the volume (i.e., number) of the explanation styles, and 3) a variety of presentation formats (such as textual or visual). We apply a mixed model statistical analysis to consider the user personality traits as a control variable, and demonstrate the usefulness of our approach in creating personalized hybrid explanations with different style, volume, and format."
 }

@@ -11,7 +11,13 @@
     "publisher": "ACL",
     "address": "Austin, TX, USA",
     "links": [
-        {"label": "paper", "href": "/assets/papers/pujara-emnlp17.pdf"},
-        {"label": "code", "href": "https://www.github.com/linqs/pujara-emnlp17"}
+        {
+            "label": "paper",
+            "href": "/assets/papers/pujara-emnlp17.pdf"
+        },
+        {
+            "label": "code",
+            "href": "https://www.github.com/linqs/pujara-emnlp17"
+        }
     ]
 }

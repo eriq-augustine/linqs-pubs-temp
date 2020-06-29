@@ -12,5 +12,10 @@
     "pages": "1065--1090",
     "volume": "18",
     "number": "5",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sen-vldbj09.pdf"
+        }
+    ]
 }

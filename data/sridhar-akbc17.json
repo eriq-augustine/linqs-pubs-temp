@@ -10,5 +10,10 @@
     "year": "2017",
     "publisher": "AKBC",
     "address": "Long Beach, CA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sridhar-akbc17.pdf"
+        }
+    ]
 }

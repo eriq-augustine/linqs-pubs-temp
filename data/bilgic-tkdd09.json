@@ -11,5 +11,10 @@
     "pages": "1--32",
     "volume": "3",
     "number": "4",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bilgic-tkdd09.pdf"
+        }
+    ]
 }

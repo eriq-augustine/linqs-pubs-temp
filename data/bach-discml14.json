@@ -10,5 +10,10 @@
     "year": "2014",
     "publisher": "DISCML",
     "address": "Montr\u00e9al, QC, Canada",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bach-discml14.pdf"
+        }
+    ]
 }

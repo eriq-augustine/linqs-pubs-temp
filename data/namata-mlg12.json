@@ -11,6 +11,11 @@
     "year": "2012",
     "publisher": "MLG",
     "address": "Edinburgh, Scotland",
-    "links": [],
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/namata-mlg12.pdf"
+        }
+    ],
     "abstract": "In network classification problems such as those found in intelligence gathering, public health, and viral marketing, one is often only interested in inferring the labels of a subset of the nodes. We refer to this subset as the query set, and define the problem as query-driven collective classification. We study this problem in a practical active learning framework, in which the learning algorithm can survey non-query nodes to obtain their labels and network structure. We derive a surveying strategy aimed toward optimal inference on the query set. Considering both feature and structural smoothness, concepts that we formally define, we develop an algorithm which adaptively selects survey nodes by estimating which form of smoothness is most appropriate. We evaluate our algorithm on several network datasets and demonstrate its improvements over standard active learning methods."
 }

@@ -11,5 +11,10 @@
     "year": "2015",
     "publisher": "arXiv",
     "address": "Amsterdam, The Netherlands",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/pujara-starai15.pdf"
+        }
+    ]
 }

@@ -11,5 +11,10 @@
     "pages": "43--51",
     "address": "Las Vegas, NV, USA",
     "note": "Winner of the Best Student Paper award.",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bilgic-kdd08.pdf"
+        }
+    ]
 }

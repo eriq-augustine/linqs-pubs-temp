@@ -11,5 +11,10 @@
     "publisher": "ACL",
     "pages": "265--268",
     "address": "Prague, Czech Republic",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/elsayed-acl08.pdf"
+        }
+    ]
 }

@@ -12,5 +12,10 @@
     "year": "2015",
     "publisher": "ACM",
     "address": "Vienna, Austria",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/kouki-recsys15.pdf"
+        }
+    ]
 }

@@ -11,5 +11,10 @@
     "year": "2008",
     "publisher": "SNA-KDD",
     "address": "Las Vegas, NV, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/zheleva-snakdd08.pdf"
+        }
+    ]
 }

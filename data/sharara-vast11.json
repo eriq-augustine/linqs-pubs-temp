@@ -18,5 +18,10 @@
         "Uncertain Graphs",
         "Visualizing Uncertainty"
     ],
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sharara-vast11.pdf"
+        }
+    ]
 }

@@ -9,5 +9,10 @@
     "year": "2016",
     "publisher": "CAUSATION",
     "address": "New York, NY, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sridhar-causation16.pdf"
+        }
+    ]
 }

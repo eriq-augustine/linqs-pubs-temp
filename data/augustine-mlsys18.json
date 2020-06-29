@@ -10,8 +10,17 @@
     "publisher": "MLSys",
     "address": "Stanford, CA, USA",
     "links": [
-        {"label": "paper", "href": "/assets/papers/augustine-mlsys18.pdf"},
-        {"label": "poster", "href": "/assets/papers/augustine-mlsys18-poster.pdf"},
-        {"label": "code", "href": "https://github.com/eriq-augustine/grounding-experiments"}
+        {
+            "label": "paper",
+            "href": "/assets/papers/augustine-mlsys18.pdf"
+        },
+        {
+            "label": "poster",
+            "href": "/assets/papers/augustine-mlsys18-poster.pdf"
+        },
+        {
+            "label": "code",
+            "href": "https://github.com/eriq-augustine/grounding-experiments"
+        }
     ]
 }

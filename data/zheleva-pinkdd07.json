@@ -11,5 +11,10 @@
     "pages": "153--171",
     "volume": "4890",
     "address": "San Jose, CA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/zheleva-pinkdd07.pdf"
+        }
+    ]
 }

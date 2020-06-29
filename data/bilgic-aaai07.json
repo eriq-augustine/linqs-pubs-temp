@@ -9,5 +9,10 @@
     "year": "2007",
     "publisher": "AAAI",
     "address": "Vancouver, BC, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bilgic-aaai07.pdf"
+        }
+    ]
 }

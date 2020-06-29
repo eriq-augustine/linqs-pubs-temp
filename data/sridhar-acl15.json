@@ -12,5 +12,10 @@
     "year": "2015",
     "publisher": "ACL",
     "address": "Beijing, China",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sridhar-acl15.pdf"
+        }
+    ]
 }

@@ -10,5 +10,10 @@
     "year": "2014",
     "publisher": "DSSG",
     "address": "New York, NY, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bach-dssg14.pdf"
+        }
+    ]
 }

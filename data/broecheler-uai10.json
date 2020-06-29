@@ -10,5 +10,10 @@
     "year": "2010",
     "publisher": "AUAI",
     "address": "Catalina Island, CA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/broecheler-uai10.pdf"
+        }
+    ]
 }

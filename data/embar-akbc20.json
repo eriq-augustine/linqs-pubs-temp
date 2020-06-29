@@ -13,5 +13,10 @@
     "year": "2020",
     "publisher": "AKBC",
     "address": "Virtual",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/embar-akbc20.pdf"
+        }
+    ]
 }

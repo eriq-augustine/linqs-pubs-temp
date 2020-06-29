@@ -14,5 +14,10 @@
     "pages": "999--1014",
     "volume": "14",
     "number": "5",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/kang-tvcg08.pdf"
+        }
+    ]
 }

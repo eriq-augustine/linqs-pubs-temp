@@ -9,5 +9,10 @@
     "year": "2010",
     "publisher": "NIPS",
     "address": "Vancouver, BC, Canada",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/broecheler-nips10.pdf"
+        }
+    ]
 }

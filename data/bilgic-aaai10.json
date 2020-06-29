@@ -10,5 +10,10 @@
     "publisher": "AAAI",
     "pages": "1652--1655",
     "address": "Atlanta, GA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bilgic-aaai10.pdf"
+        }
+    ]
 }

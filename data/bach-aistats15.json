@@ -10,5 +10,10 @@
     "year": "2015",
     "publisher": "PMLR",
     "address": "San Diego, CA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bach-aistats15.pdf"
+        }
+    ]
 }

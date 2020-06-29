@@ -11,5 +11,10 @@
     "year": "2009",
     "publisher": "AAAI",
     "address": "San Jose, CA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/barash-icwsm09.pdf"
+        }
+    ]
 }

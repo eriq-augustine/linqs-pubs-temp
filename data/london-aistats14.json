@@ -11,5 +11,10 @@
     "year": "2014",
     "publisher": "PMLR",
     "address": "Reykjavik, Iceland",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/london-aistats14.pdf"
+        }
+    ]
 }

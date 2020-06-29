@@ -12,5 +12,10 @@
     "pages": "1--45",
     "volume": "99",
     "number": "1",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/kimmig-mlj15.pdf"
+        }
+    ]
 }

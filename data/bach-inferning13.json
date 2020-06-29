@@ -10,5 +10,10 @@
     "year": "2013",
     "publisher": "Inferning",
     "address": "Atlanta, GA, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/bach-inferning13.pdf"
+        }
+    ]
 }

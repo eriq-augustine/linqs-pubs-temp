@@ -10,5 +10,10 @@
     "year": "2008",
     "publisher": "VLDB",
     "address": "Auckland, New Zealand",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/sen-vldb08.pdf"
+        }
+    ]
 }

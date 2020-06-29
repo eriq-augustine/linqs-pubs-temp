@@ -9,5 +9,10 @@
     "year": "2003",
     "publisher": "HP",
     "address": "Washington, DC, USA",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/lu-icml03.pdf"
+        }
+    ]
 }

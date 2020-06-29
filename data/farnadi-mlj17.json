@@ -14,5 +14,10 @@
     "pages": "1971--1991",
     "volume": "106",
     "number": "12",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/farnadi-mlj17.pdf"
+        }
+    ]
 }

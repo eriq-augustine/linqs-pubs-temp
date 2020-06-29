@@ -18,5 +18,10 @@
         "Probabilistic Modeling",
         "Structured Prediction"
     ],
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/ramesh-aaai14.pdf"
+        }
+    ]
 }

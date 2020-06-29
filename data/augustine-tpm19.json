@@ -11,8 +11,14 @@
     "publisher": "TPM",
     "address": "Long Beach, CA, USA",
     "links": [
-        {"label": "paper", "href": "/assets/papers/augustine-tpm19.pdf"},
-        {"label": "poster", "href": "/assets/papers/augustine-tpm19-poster.pdf"}
+        {
+            "label": "paper",
+            "href": "/assets/papers/augustine-tpm19.pdf"
+        },
+        {
+            "label": "poster",
+            "href": "/assets/papers/augustine-tpm19-poster.pdf"
+        }
     ],
     "abstract": "Templated Statistical Relational Learning languages, such as Markov Logic Networks (MLNs) and Probabilistic Soft Logic (PSL), offer much of the expressivity of probabilistic graphical models in a compact form that is intuitive to both experienced modelers and domain experts. However, these languages have historically suffered from tractability issues stemming from the large size of the instantiated models and the complex joint inference performed over these models. Although much research has gone into improving the tractability of these languages using approximate or lifted inference, a relatively small amount of research has gone into improving tractability through efficient instantiation of these large models. In this position paper, we will draw attention to open research areas around efficiently instantiating templated probabilistic models."
 }

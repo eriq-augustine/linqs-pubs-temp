@@ -11,5 +11,10 @@
     "year": "2009",
     "publisher": "ACM",
     "address": "Singapore",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/somasundaran-emnlp09.pdf"
+        }
+    ]
 }

@@ -11,5 +11,10 @@
     "year": "2009",
     "publisher": "ACL",
     "address": "Singapore",
-    "links": []
+    "links": [
+        {
+            "label": "paper",
+            "href": "/assets/papers/somasundaran-textgraphs09.pdf"
+        }
+    ]
 }
